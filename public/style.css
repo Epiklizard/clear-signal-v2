@@ -1,0 +1,66 @@
+body, html, .container {
+    background-color: #081014;
+    color: #ece8e3;
+}
+
+hr {
+    color: #ece8e3;
+}
+
+#summary-area {
+    background-color: #0B2C3D;
+    height: 100vh;
+    border-radius: 5px;
+}
+
+
+
+.chat-container {
+    background-color: #22607a; /*secondary*/
+    padding: 10px; /* Adds space inside the blocks */
+    margin: 10px 0; /* Adds space between the blocks */
+    border-radius: 5px; /* Rounds the corners of the blocks */
+    color: #081014; 
+    border: 1px solid black;
+} 
+
+.chat-container:hover {
+    background-color: #1a475b;
+    transition: background-color 0.5s ease;
+}
+
+.icon  {
+    /* to add spacing between title and make into circle respectively */
+    margin-right: 10px;
+
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.assistant-chat-box,
+.user-chat-box {
+    margin-bottom: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #688a9d;
+    color: #081014;
+    border-radius: 5px;
+}
+
+.edit-btn {
+    opacity: 0; /* hide buttons by default */
+    margin-right: 5px; /* edit button specific margin */
+    transition: opacity 0.3s ease; /* Optional: for a smooth transition */
+}
+.delete-btn {
+    opacity: 0; /* hide buttons by default */
+    transition: opacity 0.3s ease; /* Optional: for a smooth transition */
+}
+
+/* Display buttons when hovering over the chat container */
+.chat-container:hover .edit-btn,
+.chat-container:hover .delete-btn {
+  opacity: 1; /* show buttons on hover */
+}

@@ -1,0 +1,1659 @@
+[
+    {
+        "uuid": "3e568e80-921f-4a55-aeab-d475a8268302",
+        "title": "HumanGov: Configura\u00e7\u00e3o e Implementa\u00e7\u00e3o de uma aplica\u00e7\u00e3o \u2018Saas\u2019 em todos os estados do EUA, atrav\u00e9s\u2026",
+        "description": "Neste projeto baseado em um cen\u00e1rio do mundo real, utilizei a automa\u00e7\u00e3o de gerenciamento de configura\u00e7\u00e3o do Ansible para configurar e\u2026",
+        "keywords": "",
+        "snippet": "HumanGov: Configura\u00e7\u00e3o e Implementa\u00e7\u00e3o de uma aplica\u00e7\u00e3o \u2018Saas\u2019 em todos os estados do EUA, atrav\u00e9s de um Invent\u00e1rio composto por AWS \u2018EC2\u2019, usan...",
+        "url": "https://medium.com/@edfilho/humangov-configura%C3%A7%C3%A3o-e-implementa%C3%A7%C3%A3o-de-uma-aplica%C3%A7%C3%A3o-saas-em-todos-os-estados-do-eua-atrav%C3%A9s-166e043434cf",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*Y6MUggPFGxhdnXZ-Xg1uYw.png",
+        "language": "en",
+        "published_at": "2024-01-04T23:59:42.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "110d2001-d8e3-42f9-8064-e4eef86137bc",
+        "title": "Tell HN: what the world needs now is an X-cookie-preference header",
+        "description": "",
+        "keywords": "",
+        "snippet": "Original title:\n\nTell HN: User agent should define a setting that signals cookie preference\n\nDealing with constant cookie consent pop-ups is undeniably annoying...",
+        "url": "https://news.ycombinator.com/item?id=38873935",
+        "image_url": "https://news.ycombinator.com/y18.svg",
+        "language": "en",
+        "published_at": "2024-01-04T23:59:11.000000Z",
+        "source": "news.ycombinator.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "40e3f0a7-5687-41db-baf6-477414e0f41a",
+        "title": "Honor signs a 5G patent license agreement with Nokia",
+        "description": "Is Oppo next? Today Nokia announced that it's signed a 5G patent license agreement with Honor. This covers both companies'",
+        "keywords": "",
+        "snippet": "Today Nokia announced that it's signed a 5G patent license agreement with Honor. This covers both companies' \"fundamental inventions in 5G and other cellular te...",
+        "url": "https://www.gsmarena.com/honor_signs_a_5g_patent_license_agreement_with_nokia-news-61112.php",
+        "image_url": "https://fdn.gsmarena.com/imgroot/news/24/01/nokia-honor-5g-patent-licensing-agreement/-952x498w6/gsmarena_000.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:59:01.000000Z",
+        "source": "gsmarena.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "13fd6650-9cad-437a-b8ec-d1aa72154622",
+        "title": "These Samsung Devices Have Received Stable One UI 6.0 (Android 14) Update: See if Your Device is on the List",
+        "description": "Craving the latest One UI 6.0 on your Samsung phone? Check if your Galaxy S23, Z Fold, Flip, A, M, or Tab device is on the growing list!",
+        "keywords": "",
+        "snippet": "Many people who use Samsung phones can get the new One UI 6.0 update. Samsung began giving this update to the Galaxy S23 phones in October. More Galaxy phones w...",
+        "url": "https://www.gizchina.com/2024/01/04/these-samsung-devices-have-receive-stable-one-ui-6-0-android-14-update-see-if-your-device-is-on-the-list/",
+        "image_url": "https://www.gizchina.com/wp-content/uploads/images/2024/01/Galaxy-devices-ftr.webp",
+        "language": "en",
+        "published_at": "2024-01-04T23:58:52.000000Z",
+        "source": "gizchina.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "9d9ff2f7-10da-4a01-8a91-24523bacaa1b",
+        "title": "Brewster storing gyroids in Animal Crossing City Folk?",
+        "description": "In the past I didn't know what to do with gyroids so I sold them to Tom Nook.\n\nBut then I've read Brewster can store your gyroids if you drink 7 cups of...",
+        "keywords": "",
+        "snippet": "In the past I didn't know what to do with gyroids so I sold them to Tom Nook.But then I've read Brewster can store your gyroids if you drink 7 cups of coffee in...",
+        "url": "https://gbatemp.net/threads/brewster-storing-gyroids-in-animal-crossing-city-folk.645700/",
+        "image_url": "https://i.imgur.com/6STDNHwl.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:58:49.000000Z",
+        "source": "gbatemp.net",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "8799a598-89da-4348-b328-bbe7f37e2fa1",
+        "title": "Google fixes Pixel Launcher's microphone button issue that opened voice search instead of Assistant",
+        "description": "Google fixes Pixel Launcher's microphone button issue that opened voice search instead of Assistant",
+        "keywords": "",
+        "snippet": "\n\n\n\nPrior to the fix being rolled out, tapping the microphone icon would activate the older voice search feature, which is a part of Google Search and has been ...",
+        "url": "https://www.phonearena.com/news/google-fixes-pixel-launchers-microphone-button-issue-that-opened-voice-search-instead-of-assistant_id154024",
+        "image_url": "https://m-cdn.phonearena.com/images/article/154024-wide-two_1200/Google-fixes-Pixel-Launchers-microphone-button-issue-that-opened-voice-search-instead-of-Assistant.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:58:47.000000Z",
+        "source": "phonearena.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "25166cfc-d6ed-4c63-90e0-a9ed4d4566f6",
+        "title": "Google will go to trial in Texas antitrust case in March 2025",
+        "description": "Google has faced numerous legal challenges related to its digital advertising services, and one will result in a U.S. federal trial in 2025.",
+        "keywords": "",
+        "snippet": "A U.S. federal judge has set a March 2025 trial date for Texas\u2019 antitrust lawsuit against Google, which alleges that the company illegally used its market pos...",
+        "url": "https://www.androidheadlines.com/2024/01/google-will-go-to-trial-in-texas-antitrust-case-in-march-2025.html",
+        "image_url": "https://www.androidheadlines.com/wp-content/uploads/2023/11/Google-Logo-AH-1-Large-jpeg.webp",
+        "language": "en",
+        "published_at": "2024-01-04T23:57:56.000000Z",
+        "source": "androidheadlines.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "18293ad2-9650-4a8f-bdb1-9e76007238c1",
+        "title": "Lilbits: MSI teases a handheld gaming PC, Kioxia retires the Plextor storage brand, and the beginning of the end for MS WordPad",
+        "description": "Lilbits: MSI teases a handheld gaming PC, Kioxia retires the Plextor storage brand, and the beginning of the end for MS WordPad",
+        "keywords": "",
+        "snippet": "CES 2024 officially kicks off next week, but some companies aren\u2019t waiting until then to make big announcements. Today Dell unveiled its new line of XPS-brand...",
+        "url": "https://liliputing.com/lilbits-msi-teases-a-handheld-gaming-pc-kioxia-retires-the-plextor-storage-brand-and-the-beginning-of-the-end-for-ms-wordpad/",
+        "image_url": "https://liliputing.com/wp-content/uploads/2024/01/msi-dragon.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:57:27.000000Z",
+        "source": "liliputing.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "c30b9914-cb98-41fd-a260-3651740df697",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L21yLWJ1bmdsZS1mb3VuZGluZy1tZW1iZXItdGhlby0yMzU2Mzg2NTguaHRtbNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-04T23:56:38.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "general",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "c16dfcc6-a654-47e4-8d7a-0d05c1baf7a3",
+        "title": "The Case for Journaling (in Less Than Five Minutes)",
+        "description": "I\u2019ve heard from several labs members this first week of the new year considering starting a journaling habit. My reply, every time: Yes! Here\u2019s the case for...",
+        "keywords": "",
+        "snippet": "I\u2019ve heard from several labs members this first week of the new year considering starting a journaling habit. My reply, every time: Yes! Here\u2019s the case for...",
+        "url": "https://www.macsparky.com/blog/2024/01/the-case-for-journaling-in-less-than-five-minutes/",
+        "image_url": "https://www.macsparky.com/wp-content/uploads/2021/12/cropped-MacSparky-Logo-2022-Slate-White-32x32.png",
+        "language": "en",
+        "published_at": "2024-01-04T23:56:09.000000Z",
+        "source": "macsparky.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "54c1ab3b-c4dc-4b08-a599-f76473ec85ce",
+        "title": "11 Best Shoe Bags for Travel, Work & the Gym",
+        "description": "Separation from your clothing is key when packing shoes in your travel/commute bag. Our favorite shoe and boot bags do this job well.",
+        "keywords": "",
+        "snippet": "11 Best Shoe Bags for Travel, Work & the Gym\n\n| Updated January 4, 2024 By Andrew Peloquin Updated January 4, 2024\n\nCourtesy of Carhartt\n\nShoes are messy. Have ...",
+        "url": "https://www.werd.com/best-shoe-travel-bags/",
+        "image_url": "https://www.werd.com/wp-content/uploads/2024/01/Carhartt-Short-Boot-Bag.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:55:41.000000Z",
+        "source": "werd.com",
+        "categories": [
+            "tech",
+            "entertainment"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "2f98a0c9-9e51-44f9-8e0d-28417a27492d",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vdGhlYXRobGV0aWMuY29tLzUxNzc4NDgvMjAyNC8wMS8wNC9uZmwtd2Vlay0xOC1leHBlcnQtcGlja3Mtb2Rkcy0yMDI0L9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-04T23:54:25.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "general",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "a561d099-c991-4132-a017-4a1c43cf39f9",
+        "title": "10 Productivity Strategies for Developers",
+        "description": "Breaking away from conventional advice, it highlights creative techniques and the latest tools aimed at enhancing not just efficiency but also job satisfaction",
+        "keywords": "",
+        "snippet": "10 Productivity Strategies for Developers\n\nJanuary 4th 2024 New Story 2 m by @ thecoldwriter",
+        "url": "https://hackernoon.com/10-productivity-strategies-for-developers",
+        "image_url": "https://hackernoon.imgix.net/images/vGF5saoqFuWIKHH53yqFSzhnNxV2-p483mg0.jpeg?mark-pad=0&mark=http://hackernoon.imgix.net/HackerNoon%20Rounded%20Horizontal.png?w=400",
+        "language": "en",
+        "published_at": "2024-01-04T23:53:52.000000Z",
+        "source": "github.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "271aa8bf-5e7e-46df-a67e-edf20758a335",
+        "title": "MONEY FINE Loan CusTomer Care Helpline Number--..",
+        "description": "",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://medium.com/@diwocig381/money-fine-loan-customer-care-helpline-number-ff94b343db3c",
+        "image_url": "https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png",
+        "language": "en",
+        "published_at": "2024-01-04T23:53:44.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "2d97005a-664a-4d73-9c27-851eb3a6d36e",
+        "title": "MONEY FINE Loan CusTomer Care Helpline Number--..",
+        "description": "",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://medium.com/@diwocig381/money-fine-loan-customer-care-helpline-number-9de183d34477",
+        "image_url": "https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png",
+        "language": "en",
+        "published_at": "2024-01-04T23:52:19.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "ed5bddf5-065b-455c-9ba3-aebc84e12ad6",
+        "title": "The Greatest Gift is Time",
+        "description": "Photo by Fikret tozak on Unsplash Matt Mullenweg\u2019s 40th birthday is coming up \u2014 and as a gift, I was going to buy him\u00a040 types\u00a0of cables. However, for a\u00a0...",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://om.co/2024/01/04/the-greatest-gift-is-time/",
+        "image_url": "https://149366103.v2.pressablecdn.com/wp-content/uploads/2023/03/om-fallback1.png",
+        "language": "en",
+        "published_at": "2024-01-04T23:51:55.000000Z",
+        "source": "om.co",
+        "categories": [
+            "tech",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "6652d966-cac9-4f9c-97c3-7c630b9bb6a6",
+        "title": "Dow Jones Futures Rise Ahead Of Jobs Report, Bitcoin ETFs; 6 Stocks To Watch",
+        "description": "The major indexes held up Thursday with bullish action from many leading stocks. The December jobs report and spot Bitcoin ETF approvals loom.",
+        "keywords": "",
+        "snippet": "The major indexes held up Thursday with bullish action from many leading stocks. The December jobs report and spot Bitcoin ETF approvals loom.",
+        "url": "https://finance.yahoo.com/m/0e03cb5e-32d9-327a-9330-028fee25ca61/dow-jones-futures-rise-ahead.html?.tsrc=rss",
+        "image_url": "https://media.zenfs.com/en/ibd.com/c6e9ac642d1e83fa8a678cfe9455918c",
+        "language": "en",
+        "published_at": "2024-01-04T23:51:51.000000Z",
+        "source": "finance.yahoo.com",
+        "categories": [
+            "business",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "c9aa9019-550c-47a4-be9e-071e94daade9",
+        "title": "MONEY FINE Loan CusTomer Care Helpline Number--..",
+        "description": "",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://medium.com/@diwocig381/money-fine-loan-customer-care-helpline-number-41c5e484920a",
+        "image_url": "https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png",
+        "language": "en",
+        "published_at": "2024-01-04T23:51:40.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "1a545de2-1fef-4c81-ac8d-0fc61489478a",
+        "title": "MONEY FINE Loan CusTomer Care Helpline Number--..",
+        "description": "",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://medium.com/@diwocig381/money-fine-loan-customer-care-helpline-number-1e4a6240bbbe",
+        "image_url": "https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png",
+        "language": "en",
+        "published_at": "2024-01-04T23:51:15.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "59b10a63-0a25-4bfb-84ea-4c5c6dcd4c7d",
+        "title": "MONEY FINE Loan CusTomer Care Helpline Number--..",
+        "description": "",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://medium.com/@diwocig381/money-fine-loan-customer-care-helpline-number-3303f7f66676",
+        "image_url": "https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png",
+        "language": "en",
+        "published_at": "2024-01-04T23:51:01.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "8989f5eb-810a-4ccb-9f30-98f885dd060f",
+        "title": "Eligible Verizon customers could share a $100 million settlement",
+        "description": "Eligible Verizon postpaid customers could receive up to $100 after the carrier settles a class-action suit.",
+        "keywords": "",
+        "snippet": "Verizon charged its postpaid wireless account holders \"a monthly Administrative Charge and/or Administrative and Telco Recovery Charge (collectively, 'Administr...",
+        "url": "https://www.phonearena.com/news/eligible-verizon-customers-will-split-100-million-dollar-settlement_id154021",
+        "image_url": "https://m-cdn.phonearena.com/images/article/154021-wide-two_1200/Eligible-Verizon-customers-could-share-a-100-million-settlement.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:50:52.000000Z",
+        "source": "phonearena.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "8e98a932-35aa-4884-8266-f9aa7ff23a78",
+        "title": "Official High Elf Discussion Megathread",
+        "description": "Mod note: This is now the officially designated High Elf discussion thread. Please keep all discussion regarding this race in here. \n \nBoth sides of the topic a...",
+        "keywords": "the, elves, high, and, their, with, elf, this, that, have, blood, they, from, for, are, them, these, would, alliance, were, silver, new, covenant, could, has, group, but, not, now, people, race, dalaran, been, magic, what, years, was, many, rangers, design, out, majestic, one, when, allied, can, lore, there, into, different",
+        "snippet": "Originally Posted by Enteroctopus Magnificus Originally Posted by\n\nI hope they'll have a new animation model for Midnight, I find the current one really bad and...",
+        "url": "https://www.mmo-champion.com/threads/2382861-Official-High-Elf-Discussion-Megathread/page1330?p=54357356#post54357356",
+        "image_url": "https://www.mmo-champion.com/threads/2382861-Official-High-Elf-Discussion-Megathread/favicon.ico",
+        "language": "en",
+        "published_at": "2024-01-04T23:50:25.000000Z",
+        "source": "mmo-champion.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "74284f55-6b0b-463c-9212-fffa39e607f5",
+        "title": "Kodi 20.x crash after install",
+        "description": "",
+        "keywords": "",
+        "snippet": "Hi Guys,\n\n\n\nI am unable to install any new versions of Kodi on my MacMini.\n\nThe latest version I am using is the 19.5\n\n\n\nPlease let me know where can I upload t...",
+        "url": "https://forum.kodi.tv/showthread.php?tid=375656",
+        "image_url": "https://forum.kodi.tv/images/default_avatar.png",
+        "language": "en",
+        "published_at": "2024-01-04T23:50:13.000000Z",
+        "source": "forum.kodi.tv",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "b7ea57b3-3019-4860-8a2b-ba703e446989",
+        "title": "WealthSnap Loan CusTomer Care HelpliNe Number Call 0\u2791\u2791\u24ff\u2790\u2790\u278b\u2790\u24ff\u278a\u2792//\u21228807727019-//\u00ae\u21227302196021\u221a\u221a call\u2026",
+        "description": "",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://medium.com/@rajueagh/wealthsnap-loan-customer-care-helpline-number-call-0%E2%9E%91%E2%9E%91%E2%93%BF%E2%9E%90%E2%9E%90%E2%9E%8B%E2%9E%90%E2%93%BF%E2%9E%8A%E2%9E%92-8807727019-7302196021-call-7a0c667fa03f",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*iLWbGEWnLPL2VLou",
+        "language": "en",
+        "published_at": "2024-01-04T23:49:42.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "67d0bd63-bc6d-493a-b30e-5a74be07208f",
+        "title": "Learning AI \u2014 Week 1",
+        "description": "Resources",
+        "keywords": "",
+        "snippet": "Learning AI \u2014 Week 1 Zach Yang \u00b7 Follow Just now -- Listen Share\n\nResources\n\nhttps://www.kaggle.com/ https://www.projectpro.io/ anaconda: https://www.anacond...",
+        "url": "https://medium.com/@zachyangio/learning-ai-week-1-5e8722fb0551",
+        "image_url": "https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png",
+        "language": "en",
+        "published_at": "2024-01-04T23:49:37.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "7935da18-448f-47cf-9b00-fa333ad125c5",
+        "title": "Turning on a smart plug with light switch",
+        "description": "So I\u2019ve got some lights plugged into a smart plug. Right now the only way to turn them on/off is through the home assistant app which I don\u2019t like. I could ...",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://community.home-assistant.io/t/turning-on-a-smart-plug-with-light-switch/666821",
+        "image_url": "https://community-assets.home-assistant.io/original/4X/5/0/e/50e585faea85010ebb16d3d466f071ef90ec1393.png",
+        "language": "en",
+        "published_at": "2024-01-04T23:48:59.000000Z",
+        "source": "community.home-assistant.io",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "32f58045-17bb-4d5a-ab8c-bc49c303de24",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9saW9ucy13ci1hbW9uLXJhLXN0LWJyb3duLWhvdC1hZnRlci1wcm8tYm93bC1zbnViLWktZ3Vlc3MtaS1kaWRudC1kby1lbm91Z2gtMjM0ODIyNDQ3Lmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-04T23:48:22.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "general",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "b85611e1-e6c0-4a1f-93e2-8949e28885f3",
+        "title": "SnapCredit Loan CustomeR Care NumbeR / \u260e////\u265b \u273e \u2791\u2791\u24ff\u2790\u2790\u278b\u2790\u24ff\u278a\u2792\u273e\u265b Now 8807727019\u2026",
+        "description": "",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://medium.com/@yojxeukc/snapcredit-loan-customer-care-number-%E2%9E%91%E2%9E%91%E2%93%BF%E2%9E%90%E2%9E%90%E2%9E%8B%E2%9E%90%E2%93%BF%E2%9E%8A%E2%9E%92-now-8807727019-6ca29e014909",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*uLGtvXZUplYBg9WW",
+        "language": "en",
+        "published_at": "2024-01-04T23:48:18.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "d58ed3a0-57a5-4dc1-956c-c2072691806d",
+        "title": "Ganymede Is Like a 'Snowglobe' Inside, Which Could Explain Its Mysterious Magnetism",
+        "description": "Jupiter's largest moon, Ganymede, features a surprisingly strong magnetic field for its size.",
+        "keywords": "",
+        "snippet": "Jupiter's largest moon, Ganymede, features a surprisingly strong magnetic field for its size. Tidal effects from Jupiter continually stretch and squeeze the moo...",
+        "url": "https://www.sciencealert.com/ganymede-is-like-a-snowglobe-inside-which-could-explain-its-mysterious-magnetism",
+        "image_url": "https://www.sciencealert.com/images/2024/01/ganymede_snow_globe.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:47:59.000000Z",
+        "source": "sciencealert.com",
+        "categories": [
+            "science",
+            "tech",
+            "general"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "5ab2a669-0ae8-4f9f-b7ec-1c9c4d7b7b13",
+        "title": "SnapCredit Loan CustomeR Care NumbeR / \u260e////\u265b \u273e \u2791\u2791\u24ff\u2790\u2790\u278b\u2790\u24ff\u278a\u2792\u273e\u265b Now 8807727019\u2026",
+        "description": "",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://medium.com/@yojxeukc/snapcredit-loan-customer-care-number-%E2%9E%91%E2%9E%91%E2%93%BF%E2%9E%90%E2%9E%90%E2%9E%8B%E2%9E%90%E2%93%BF%E2%9E%8A%E2%9E%92-now-8807727019-227c06fa8812",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*YeO6IBYfG7uNqnWz",
+        "language": "en",
+        "published_at": "2024-01-04T23:47:26.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "f7a229cf-0927-47b1-ba4d-31945cce02a5",
+        "title": "WealthSnap Loan CusTomer Care HelpliNe Number Call 0\u2791\u2791\u24ff\u2790\u2790\u278b\u2790\u24ff\u278a\u2792//\u21228807727019-//\u00ae\u21227302196021\u221a\u221a call\u2026",
+        "description": "",
+        "keywords": "",
+        "snippet": "WealthSnap Loan CusTomer Care HelpliNe Number Call 0\u2791\u2791\u24ff\u2790\u2790\u278b\u2790\u24ff\u278a\u2792//\u21228807727019-//\u00ae\u21227302196021\u221a\u221a call Now to go\n\nPhoto by Artur Adilkha...",
+        "url": "https://medium.com/@rajueagh/wealthsnap-loan-customer-care-helpline-number-call-0%E2%9E%91%E2%9E%91%E2%93%BF%E2%9E%90%E2%9E%90%E2%9E%8B%E2%9E%90%E2%93%BF%E2%9E%8A%E2%9E%92-8807727019-7302196021-call-94b02621c77b",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*SOat_aLRWqsT_wah",
+        "language": "en",
+        "published_at": "2024-01-04T23:47:25.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "61fc08c5-42e5-4ee3-b44e-aba2b37e3e44",
+        "title": "Police respond to gunfire at US high school",
+        "description": "International, MNA | Police were responding to a shooting at a high school in the midwestern US state of Iowa on Thursday morning, authorities said, though ther...",
+        "keywords": "",
+        "snippet": "Police were responding to a shooting at a high school in the midwestern US state of Iowa on Thursday morning, authorities said, though there was no immediate co...",
+        "url": "https://www.macaubusiness.com/police-respond-to-gunfire-at-us-high-school/",
+        "image_url": "https://www.macaubusiness.com/wp-content/uploads/2019/03/mb-logo@2x.png",
+        "language": "en",
+        "published_at": "2024-01-04T23:47:24.000000Z",
+        "source": "macaubusiness.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "bc61841e-1c01-4051-a7d9-faa0dc664109",
+        "title": "SnapCredit Loan CustomeR Care NumbeR / \u260e////\u265b \u273e \u2791\u2791\u24ff\u2790\u2790\u278b\u2790\u24ff\u278a\u2792\u273e\u265b Now 8807727019\u2026",
+        "description": "",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://medium.com/@yojxeukc/snapcredit-loan-customer-care-number-%E2%9E%91%E2%9E%91%E2%93%BF%E2%9E%90%E2%9E%90%E2%9E%8B%E2%9E%90%E2%93%BF%E2%9E%8A%E2%9E%92-now-8807727019-8d8003abb284",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*duYEvbCaC7ZNuj_w",
+        "language": "en",
+        "published_at": "2024-01-04T23:46:36.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "0f2576ea-0226-410b-aaa1-6f6db88c05c9",
+        "title": "nxdumptool - Nintendo Switch Dump Tool",
+        "description": "Disclaimer:\n\nDoesn't work under 1.0.0, and probably never will. The application needs IPC calls that are only available from 2.0.0 onwards.\nDoesn't work...",
+        "keywords": "",
+        "snippet": "Download\n\nGitHub repo: https://github.com/DarkMatterCore/gcdumptool I'll update this post at a later time to add more information about this tool, I'm on my pho...",
+        "url": "https://gbatemp.net/threads/nxdumptool-nintendo-switch-dump-tool.508343/",
+        "image_url": "https://i.imgur.com/qkZoFJ3.png",
+        "language": "en",
+        "published_at": "2024-01-04T23:46:04.000000Z",
+        "source": "gbatemp.net",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "feba862b-697e-43e8-8996-8d07c8bbfeca",
+        "title": "Pentagon updates digital engineering guidance",
+        "description": "The Pentagon\u2019s new guidance for implementing digital engineering into defense systems covers the development and sustainment of weapons systems, softwar...",
+        "keywords": "",
+        "snippet": "Cookie Preferences Cookie List\n\nCookie List\n\nA cookie is a small piece of data (text file) that a website \u2013 when visited by a user \u2013 asks your browser to st...",
+        "url": "https://www.nextgov.com/defense/2024/01/pentagon-updates-digital-engineering-guidance/393126/",
+        "image_url": "https://cdn.nextgov.com/media/img/cd/2024/01/04/010424_getty_ng_digital_twins-1/open-graph.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:45:57.000000Z",
+        "source": "fcw.com",
+        "categories": [
+            "tech",
+            "general"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "252ddc7f-25fb-40b3-8b89-0611b821196e",
+        "title": "Constellation Brands Announces Wine & Spirits Leadership Transition",
+        "description": "Beverages, Directors and Officers, GlobeNewswire | Robert Hanson to Step Down as EVP & President, Wine &",
+        "keywords": "",
+        "snippet": "Robert Hanson to Step Down as EVP & President, Wine & Spirits Division Effective February 29, 2024\n\nCompany Initiates Search to Identify New Leader to Guide Nex...",
+        "url": "https://www.macaubusiness.com/constellation-brands-announces-wine-spirits-leadership-transition/",
+        "image_url": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2024/01/2-color-vertr-jpg.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:45:48.000000Z",
+        "source": "macaubusiness.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "c2cea648-39cf-47fc-9c9d-bcca3a08baf5",
+        "title": "Meme History: How a \u2018distracted boyfriend\u2019 went from a simple stock photo to an iconic meme",
+        "description": "While many memes evolve slowly, the distracted boyfriend meme seemed destined for instant fame. Here's how it came to be.",
+        "keywords": "",
+        "snippet": "Meet Mario and Laura, two models who unknowingly became central figures in meme history. In November 2015, Antonio Guillem, a professional stock photographer, u...",
+        "url": "https://www.dailydot.com/video/distracted-boyfriend-meme-history-mario-and-laura/",
+        "image_url": "https://uploads.dailydot.com/2023/12/distracted-boyfriend-meme.png?auto=compress&fit=scale&fm=png&h=400&w=800",
+        "language": "en",
+        "published_at": "2024-01-04T23:45:25.000000Z",
+        "source": "dailydot.com",
+        "categories": [
+            "tech",
+            "entertainment"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "332601f3-daef-44d9-a6b2-4da8e9185f6b",
+        "title": "FDPNP2: Artificial Intelligence under the Microscope (Part 1)",
+        "description": "Preface: I want to initiate a comprehensive series, \u201cFundamentals of Digital Pathology for Novice Pathologists (FDPNP)\u201d. This endeavor aims to disseminate k...",
+        "keywords": "",
+        "snippet": "FDPNP2: Artificial Intelligence under the Microscope (Part 1) Minh-Khang Le \u00b7 Follow 4 min read \u00b7 Just now Just now -- Listen Share\n\nPreface: I want to initia...",
+        "url": "https://medium.com/@minhkhangle.phd/fdpnp2-artificial-intelligence-under-the-microscope-part-1-28bf258fa078",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*0mUC7HxVHvtLv6i22wxT6g.jpeg",
+        "language": "en",
+        "published_at": "2024-01-04T23:45:23.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "74e055e9-92bd-4008-a016-76d371ec10d4",
+        "title": "memeorandum: Mayor Adams Announces Suit Against Texas Charter Bus Companies Seeking $708 Million to Cover Costs of Caring for Migrants Transported to NYC (The official website of the City of New York)",
+        "description": "A continuously updated summary of the news stories that US political commentators are discussing online right now.",
+        "keywords": "",
+        "snippet": "\u2014 It's been just over two weeks since the Colorado Supreme Court ruled that Section 3 of the 14th Amendment disqualifies Donald Trump from holding the office ...",
+        "url": "https://www.memeorandum.com/240104/p63",
+        "image_url": "http://www.memeorandum.com/m/config/politics/iicon.gif",
+        "language": "en",
+        "published_at": "2024-01-04T23:45:00.000000Z",
+        "source": "memeorandum.com",
+        "categories": [
+            "general",
+            "politics",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "1158c733-e449-4451-8af7-edc3fc4c5776",
+        "title": "WealthSnap Loan CusTomer Care HelpliNe Number Call 0\u2791\u2791\u24ff\u2790\u2790\u278b\u2790\u24ff\u278a\u2792//\u21228807727019-//\u00ae\u21227302196021\u221a\u221a call\u2026",
+        "description": "",
+        "keywords": "",
+        "snippet": "WealthSnap Loan CusTomer Care HelpliNe Number Call 0\u2791\u2791\u24ff\u2790\u2790\u278b\u2790\u24ff\u278a\u2792//\u21228807727019-//\u00ae\u21227302196021\u221a\u221a call Now do to\n\nPhoto by Bob Brewer on...",
+        "url": "https://medium.com/@rajueagh/wealthsnap-loan-customer-care-helpline-number-call-0%E2%9E%91%E2%9E%91%E2%93%BF%E2%9E%90%E2%9E%90%E2%9E%8B%E2%9E%90%E2%93%BF%E2%9E%8A%E2%9E%92-8807727019-7302196021-call-96a9544a0af2",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*6jsDmPCmfn2VcQho",
+        "language": "en",
+        "published_at": "2024-01-04T23:44:43.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "57339f5d-d7b0-4f56-9d14-e49ffafa6a00",
+        "title": "Release: Potion Permit - Lunar New Year Bundle",
+        "description": "Download the best classic and new games on Windows, Mac & Linux. A vast selection of titles, DRM-free, with free goodies and 30-day money-back guarantee.",
+        "keywords": "",
+        "snippet": "GOG.com is a digital distribution platform \u2013 an online store with a curated selection of games, an optional gaming client giving you freedom of choice, and a ...",
+        "url": "https://www.gog.com/news/release_potion_permit_lunar_new_year_bundle",
+        "image_url": "https://images-1.gog-statics.com/eb8c2acd9f62e5cc0d0c99350340576323fb7793d9da58917f5c34cd3abb7d90.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:44:18.000000Z",
+        "source": "gog.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "b32344f4-2e02-4804-8849-fa8373210d04",
+        "title": "You shouldn\u2019t run NSA-grade Wi-Fi at home. Here\u2019s how to do it",
+        "description": "For our 2023 holiday project, we're setting up an WPA3 Enterprise certificate-authenticated Wi-Fi network at home! And when your family from out of town asks to",
+        "keywords": "",
+        "snippet": "You shouldn\u2019t run NSA-grade Wi-Fi at home. Here\u2019s how to do it\n\nUpdated on: January 5, 2024\n\nCarl Tashian Follow Smallstep\n\nIf you want a home network that ...",
+        "url": "https://smallstep.com/blog/home-network-eap-tls-wifi/",
+        "image_url": "https://smallstep-cms-images.s3.us-east-2.amazonaws.com/enterprise_wifi_79b8bb8c5f.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:44:02.000000Z",
+        "source": "news.ycombinator.com",
+        "categories": [
+            "tech",
+            "general"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "05b54c73-25f5-44b2-812c-d5ede78d8380",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzAxLzA0L2VsaS1saWxseS16ZXBib3VuZC1ob21lLWRlbGl2ZXJ50gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-04T23:44:01.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "general",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "a1cad898-aaee-43a6-97b2-62a358cfb260",
+        "title": "MONEY FINE Loan Number--.. \u2014 \u2792\u2790\u2790\u2790\u278c\u278f\u278d\u2791\u278b\u278e+()\u246600\u2467\u2461\u2463\u2460\u2462\u2462\u2461customer care number.MONEY FINE Loan Number--.. \u2014 \u2792\u2790\u2790\u2790\u278c\u278f\u278d\u2791\u278b\u278e+()\u246600\u2467\u2461\u2463\u2460\u2462\u2462\u2461customer care number.MONEY FINE Loan Number--.. \u2014\u2026",
+        "description": "MONEY FINE Loan  Number--.. \u2014 \u2792\u2790\u2790\u2790\u278c\u278f\u278d\u2791\u278b\u278e+()\u246600\u2467\u2461\u2463\u2460\u2462\u2462\u2461customer care number.MONEY FINE Loan  Number--.. \u2014 \u2792\u2790\u2790\u2790\u278c?...",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://medium.com/@jgjxgxdugg/photo-by-william-warby-on-unsplashmoney-fine-loan-number-b0925157ea0a",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*lpH9MnWhKm8JIkDU",
+        "language": "en",
+        "published_at": "2024-01-04T23:43:44.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "ba1506da-54bf-4829-8ec2-35c3e9de9304",
+        "title": "Lexar to Showcase Professional Photo and Gaming Product Lineups at CES 2024",
+        "description": "Lexar is excited to reveal its product lineup to be showcased at this year\u0092s CES in Las Vegas, Nevada.",
+        "keywords": "Lexar, excited, lineup, product, reveal, showcased, this, year\u0092s",
+        "snippet": "\n\nLexar Professional NM1090 with Heatsink (Top), Lexar NM800 PRO (Bottom) Lexar Professional NM1090 with Heatsink (Top), Lexar NM800 PRO (Bottom)\n\n\u0093We are exci...",
+        "url": "https://www.vortez.net/news_story/lexar_to_showcase_professional_photo_and_gaming_product_lineups_at_ces_2024.html",
+        "image_url": "https://www.vortez.net/news_teaserimage/10938",
+        "language": "en",
+        "published_at": "2024-01-04T23:43:32.000000Z",
+        "source": "vortez.net",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "642f7d0a-72c6-4004-9794-731d6901c94a",
+        "title": "The Apple iPhone 17 might have an upgraded front camera for better selfies",
+        "description": "The Apple iPhone 17 might be able to take better selfies thanks to a rumoured upgrade to the front-facing camera. #iphone17 #camera #selfie",
+        "keywords": "apple, front camera, iphone 17",
+        "snippet": "The Apple iPhone 17 might have an upgraded front camera for better selfies\n\nEven though we are nowhere near the launch of the iPhone 17, famous Apple analyst Mi...",
+        "url": "https://www.hardwarezone.com.sg/tech-news-apple-iphone17-upgraded-selfie-camera-iphone16-pro-new-ultrawide-camera",
+        "image_url": "https://www.hardwarezone.com.sg/thumbs/708708/og.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:42:51.000000Z",
+        "source": "hardwarezone.com.sg",
+        "categories": [
+            "tech",
+            "general"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "dd565ecc-4b4a-45e6-9e99-c43b35ef7f94",
+        "title": "Statistics for Data Analysis: Understanding Mean, Median, Mode, Variance, and Standard Deviation",
+        "description": "Statistics plays a pivotal role in data analysis, providing crucial insights into the characteristics and distribution of data. Among the fundamental statistica...",
+        "keywords": "",
+        "snippet": "Statistics for Data Analysis: Understanding Mean, Median, Mode, Variance, and Standard Deviation Navneet Singh \u00b7 Follow 2 min read \u00b7 Just now Just now -- Shar...",
+        "url": "https://medium.com/@navneetsingh_95791/statistics-for-data-analysis-understanding-mean-median-mode-variance-and-standard-deviation-b4ee161685bb",
+        "image_url": "https://miro.medium.com/v2/resize:fit:800/0*sc5c-X6FfdxfFyyv.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:42:37.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "6471dd4e-7eb1-4b0b-863d-70d2051a7f7e",
+        "title": "This is, hands down, the best Elena cosplay we've ever seen",
+        "description": "While scrolling X recently we stumbled upon what we initially thought might be a character model, but after a double take we realized it was actually Louxxie's ...",
+        "keywords": "Cosplay news",
+        "snippet": "Louxxei brings the character out of Street Fighter and into real life\n\nWhile scrolling X recently we stumbled upon what we initially thought might be a characte...",
+        "url": "https://www.eventhubs.com/news/2024/jan/04/best-elena-cosplay-ever/",
+        "image_url": "https://media.eventhubs.com/images/2024/01/04_elenat.webp",
+        "language": "en",
+        "published_at": "2024-01-04T23:42:25.000000Z",
+        "source": "eventhubs.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "ce812495-4467-4d93-864a-bb9da03aef34",
+        "title": "Germany drops planned subsidy cuts after farmers protest",
+        "description": "China, International | The German government on Thursday dropped part of its plans to cut agricultural subsidies in the face of massive protests from farmers.",
+        "keywords": "",
+        "snippet": "The German government on Thursday dropped part of its plans to cut agricultural subsidies in the face of massive protests from farmers.\n\nContrary to the initial...",
+        "url": "https://www.macaubusiness.com/germany-drops-planned-subsidy-cuts-after-farmers-protest/",
+        "image_url": "https://www.macaubusiness.com/wp-content/uploads/2019/03/mb-logo@2x.png",
+        "language": "en",
+        "published_at": "2024-01-04T23:41:54.000000Z",
+        "source": "macaubusiness.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "9f1c0244-3492-4ea2-98fc-67fd134f07e5",
+        "title": "Zscaler Trust",
+        "description": "",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://trust.zscaler.com/zscaler.net/posts/17251",
+        "image_url": "https://trust.zscaler.com/favicons/favicon-57.png",
+        "language": "en",
+        "published_at": "2024-01-04T23:41:44.000000Z",
+        "source": "trust.zscaler.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "08ce258f-47b1-4b12-942a-0593be4433a2",
+        "title": "Clicks Adds a Physical Keyboard to Your iPhone [Video]",
+        "description": "Clicks Technology has unveiled the 'Clicks Creator Keyboard', a new physical keyboard case for the iPhone.",
+        "keywords": "",
+        "snippet": "Clicks Technology has unveiled the 'Clicks Creator Keyboard', a new physical keyboard case for the iPhone. The accessory features a full keyboard with real butt...",
+        "url": "https://www.iClarified.com/92462/clicks-adds-a-physical-keyboard-to-your-iphone-video",
+        "image_url": "https://www.iclarified.com/images/news/92462/92462/92462-640.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:41:39.000000Z",
+        "source": "iClarified.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "36235f39-eb4b-41b4-b0ad-8c7b1f1bc317",
+        "title": "MacMini 2012 nvme on board installation",
+        "description": "Hi all,\n\nI would love to install on my macmini 2012 a fast nvme, so don't want to have a SATA SSD since its limited to 500mbs\n\nThe 2012 does not have a PCI...",
+        "keywords": "",
+        "snippet": "Hi all,I would love to install on my macmini 2012 a fast nvme, so don't want to have a SATA SSD since its limited to 500mbsThe 2012 does not have a PCI connecto...",
+        "url": "https://forums.macrumors.com/threads/macmini-2012-nvme-on-board-installation.2415492/",
+        "image_url": "https://forums.macrumors.com/attachments/1704411236738-png.2332857/",
+        "language": "en",
+        "published_at": "2024-01-04T23:40:25.000000Z",
+        "source": "forums.macrumors.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "08f50f59-10e9-4222-8861-c6121e81af02",
+        "title": "MONEY FINE Loan CusTomer Care Helpline Number--.. \u2014 \u2792\u2790\u2790\u2790\u278c\u278f\u278d\u2791\u278b\u278e+()\u246600\u2467\u2461\u2463\u2460\u2462\u2462\u2461customer care number.MONEY FINE Loan CusTomer Care Helpline Number--.. \u2014 \u2792\u2790\u2790\u2790\u278c\u278f\u278d\u2791\u278b\u278e+()\u246600\u2467\u2461\u2463\u2460\u2462\u2462\u2461customer care number.MONEY\u2026",
+        "description": "MONEY FINE Loan CusTomer Care Helpline Number--.. \u2014 \u2792\u2790\u2790\u2790\u278c\u278f\u278d\u2791\u278b\u278e+()\u246600\u2467\u2461\u2463\u2460\u2462\u2462\u2461customer care number.MONEY FINE Loan CusTomer C...",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://medium.com/@jgjxgxdugg/photo-by-boliviainteligente-on-unsplashmoney-fine-loan-customer-care-helpline-number-42e568825dab",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*iX9eAPhJ4outi-cR",
+        "language": "en",
+        "published_at": "2024-01-04T23:40:02.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "d9e41d4f-a2da-4967-ac02-e20ea0950d32",
+        "title": "Therabody, the Global Leader In Wellness Technology, Defends Against Recent Patent Infringement Lawsuit Filed by Hyperice",
+        "description": "PR Newswire | As the leading percussive patent owner and the driving",
+        "keywords": "",
+        "snippet": "As the leading percussive patent owner and the driving force behind many of today\u2019s wellness innovations, Therabody will vigorously defend itself against the ...",
+        "url": "https://www.macaubusiness.com/therabody-the-global-leader-in-wellness-technology-defends-against-recent-patent-infringement-lawsuit-filed-by-hyperice/",
+        "image_url": "https://mma.prnewswire.com/media/1163402/Therabody_Logo.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:40:01.000000Z",
+        "source": "macaubusiness.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "9965b82d-f75d-480f-9491-2cbf45305859",
+        "title": "Latest Ingenuity flight breaks even more records",
+        "description": "NASA's Ingenuity has completed its 70th flight, breaking even more records as it hops its way across the Martian surface.",
+        "keywords": "",
+        "snippet": "Since its arrival on the Red Planet alongside Perseverance, the Ingenuity helicopter has done some incredible things. Not only has it proven that flight is poss...",
+        "url": "https://bgr.com/science/nasas-ingenuity-celebrates-70th-flight-with-new-record/",
+        "image_url": "https://bgr.com/wp-content/uploads/2020/08/Untitled-2-copy-1.jpg?quality=82&strip=all",
+        "language": "en",
+        "published_at": "2024-01-04T23:40:00.000000Z",
+        "source": "bgr.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "a870cc1d-e666-4d52-94a5-02452c438e70",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvdXMtbmV3cy9kb2N1bWVudHMtamVmZnJleS1lcHN0ZWluLWNhc2UtcmVsZWFzZWQtcmNuYTEzMjIzNtIBK2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW1wL3JjbmExMzIyMzY?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-04T23:39:18.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "general",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "2026ee03-7526-40aa-95a5-6b6d1ba1746d",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvdXMtbmV3cy9kb2N1bWVudHMtamVmZnJleS1lcHN0ZWluLWNhc2UtcmVsZWFzZWQtcmNuYTEzMjIzNtIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-04T23:39:00.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "sports",
+            "general",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "39def23e-5f73-410c-b5e6-b1388434034d",
+        "title": "Microchip Technology gets $162M in U.S. government funding to boost domestic chip production",
+        "description": "Microchip Technology gets $162M in U.S. government funding to boost domestic chip production - SiliconANGLE",
+        "keywords": "Mike Wheatley, SiliconANGLE, Microchip Technology gets $162M in U.S. government funding to boost domestic chip production",
+        "snippet": "",
+        "url": "https://siliconangle.com/2024/01/04/microchip-technology-gets-162m-u-s-government-funding-boost-domestic-chip-production/",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/Microchip-Technologies-1_620x376_1_0.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:38:05.000000Z",
+        "source": "siliconangle.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "f419d367-298e-4fd4-8a2e-bb5624bcb898",
+        "title": "Sinclair Strikes Deal With CBS to Make Comet, CHARGE!, TBD., and The Nest Easier to Find in Major Markets",
+        "description": "Sinclair Broadcasting on Thursday said that it had reached a deal with CBS Television Stations to add its free over-the-air networks to CBS affiliates in severa...",
+        "keywords": "",
+        "snippet": "Sinclair Broadcasting on Thursday said that it had reached a deal with CBS Television Stations to add its free over-the-air networks to CBS affiliates in severa...",
+        "url": "https://cordcuttersnews.com/sinclair-strikes-deal-with-cbs-to-make-comet-charge-tbd-and-the-nest-easier-to-find-in-major-markets/",
+        "image_url": "https://cordcuttersnews.com/wp-content/uploads/2019/12/Splash-1-2.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:37:55.000000Z",
+        "source": "cordcuttersnews.com",
+        "categories": [
+            "tech",
+            "entertainment"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "51871b8a-4961-414f-8b69-f000fe0aba75",
+        "title": "The Good, the Bad, and the Ugly of Being \u2018Woke\u2019",
+        "description": "Ah, being \u2018woke\u2019. A term that\u2019s about as polarizing as pineapple on pizza (which, for the record, is a culinary abomination). Today, we\u2019re diving deep i...",
+        "keywords": "",
+        "snippet": "The Good, the Bad, and the Ugly of Being \u2018Woke\u2019\n\nNavigating the tightrope of modern wokeness \u2014 It\u2019s a wild ride, folks Nathan Chen \u00b7 Follow 4 min read ...",
+        "url": "https://medium.com/@thenathanchen/the-good-the-bad-and-the-ugly-of-being-woke-10c9dd694919",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*WePlsVdC5gBG6EIL",
+        "language": "en",
+        "published_at": "2024-01-04T23:37:52.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "8f19def7-18c6-40a2-a041-d09a49082f9a",
+        "title": "Wisconsin\u2019s largest solar farm is now fully online",
+        "description": "Electricity providers Madison Gas and Electric (MGE) and We Energies just brought Wisconsin's largest solar farm online.",
+        "keywords": "",
+        "snippet": "Electricity providers Madison Gas and Electric (MGE) and We Energies just brought Wisconsin\u2019s largest solar farm \u2013 and one of the largest of its kind in the...",
+        "url": "https://electrek.co/2024/01/04/wisconsins-largest-solar-farm-is-now-fully-online/",
+        "image_url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/01/Badger-Hollow-wisconsin-solar_wind-background.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "language": "en",
+        "published_at": "2024-01-04T23:37:14.000000Z",
+        "source": "electrek.co",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "5c65a7fb-2d73-4e6b-8b72-4e94c7d6af7d",
+        "title": "Marvel Fans Are Getting More of One of Our Favorite Teen Superheroes (and Her Dino Friend)",
+        "description": "The trailer for Moon Girl and Devil Dinosaur season 2 has dropped, revealing some exciting guest stars!",
+        "keywords": "",
+        "snippet": "Fans of Moon Girl and Devil Dinosaur don\u2019t have to wait much longer for our favorite duo to return! Season 2 of the critically acclaimed animated series is he...",
+        "url": "https://www.themarysue.com/marvel-fans-are-getting-more-of-one-of-our-favorite-teen-superheroes-and-her-dino-friend/",
+        "image_url": "https://www.themarysue.com/wp-content/uploads/2024/01/lunella-moon-girl-season-2.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:35:45.000000Z",
+        "source": "themarysue.com",
+        "categories": [
+            "tech",
+            "entertainment",
+            "general"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "cd184779-b473-4b9d-bff8-694f5404cf9f",
+        "title": "MONEY FINE Loan CusTomer Care Helpline Number=..=9398786939-(+)-9398786939customer",
+        "description": "",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://medium.com/@poyer12634/money-fine-loan-customer-care-helpline-number-9398786939-9398786939customer-48321eb4398d",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*uNUpwOn50iVd8quc",
+        "language": "en",
+        "published_at": "2024-01-04T23:35:35.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "37a7d2f8-cdf4-430d-9fa3-6837f353048e",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wMS8wNC9sb25nZXZpdHktaXMtdGhlLXdyb25nLWdvYWwv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-04T23:35:09.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "0abfe0b0-3408-4d76-8978-ea199336f582",
+        "title": "Kevin Hart calls Katt Williams 'sad' after the comedian slammed him and other famous comics in a new interview",
+        "description": "Katt Williams and Kevin Hart have a long history of taking verbal jabs at each other.",
+        "keywords": "",
+        "snippet": "By clicking \u201cSign Up\u201d, you accept our Terms of Service and Privacy Policy . You can opt-out at any time.\n\nAccess your favorite topics in a personalized feed...",
+        "url": "https://www.businessinsider.com/kevin-hart-katt-williams-interview-response-comments-2024-1",
+        "image_url": "https://i.insider.com/659706e41c5c7b8c9a0e0863?width=1200&format=jpeg",
+        "language": "en",
+        "published_at": "2024-01-04T23:34:27.000000Z",
+        "source": "businessinsider.com",
+        "categories": [
+            "business",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "66644c25-8cd2-4d9e-92d3-02980b461ffa",
+        "title": "Rust dev finally adds highly requested backpacks, says pets are coming",
+        "description": "Facepunch Studios looks back at its successful survival game's past decade, revealing new Rust features yet to come such as backpacks.",
+        "keywords": "",
+        "snippet": "Rust isn\u2019t going to die out any time soon, after going strong for well over a decade now. Facepunch Studios\u2019 unique multiplayer survival game has all the es...",
+        "url": "https://www.pcgamesn.com/rust/backpacks",
+        "image_url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2024/01/Rust-backpacks.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:34:16.000000Z",
+        "source": "pcgamesn.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "9f346049-8cad-452d-9407-c9803f06a623",
+        "title": "Lutron Ra2 setup",
+        "description": "Easy on the flames - Brand new to Home Assistant! While Im not new to tech or home automation, this platform IS new to me. Im attempting to connect a brand new ...",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://community.home-assistant.io/t/lutron-ra2-setup/666814",
+        "image_url": "https://community-assets.home-assistant.io/original/4X/5/0/e/50e585faea85010ebb16d3d466f071ef90ec1393.png",
+        "language": "en",
+        "published_at": "2024-01-04T23:34:10.000000Z",
+        "source": "community.home-assistant.io",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "7befdac5-d043-4a28-905c-8a5387ff2bf3",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzAxLzA0L2VudGVydGFpbm1lbnQvc2FuZHJhLWJ1bGxvY2stc3ByZWFkcy1sYXRlLXBhcnRuZXItYnJ5YW4tcmFuZGFsbHMtYXNoZXMtaW4td3lvbWluZy_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-04T23:34:00.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "general",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "5893600f-797d-42f3-a57f-a8e5ffb9bfc9",
+        "title": "This is what the iPhone 16 Pro could look like",
+        "description": "It's still very early in development, but here's our best look at what the iPhone 16 Pro is going to look like.",
+        "keywords": "Mobile, Apple, Apple iPhone 16 Pro, Apple iPhone 16 Pro Max, iPhone, Apple Inc., Apple Inc. hardware, Apple Inc. products, Apple Inc. software, ARM-based computers, Computers, Computing, Consumer electronics, Film and video technology, Information appliances, IOS, IPhone, MacOS, Mobile computers, Mobile phones, Mobile telecommunications user equipment, Personal computing, Personal digital assistants, Portable electronics, Product introductions, Smart devices, Smartphones, Tablet computers, Technology",
+        "snippet": "The year has just begun, and we\u2019ve already got an idea of what the next iPhone 16 Pro is going to look like. MacRumors created some new mock-ups based on leak...",
+        "url": "https://www.digitaltrends.com/mobile/apple-iphone-16-pro-could-look-like-this-renders-news/",
+        "image_url": "https://www.digitaltrends.com/wp-content/uploads/2024/01/iPhone-16-Pro-Perspective-Feature.jpg?resize=1200%2C630&p=1",
+        "language": "en",
+        "published_at": "2024-01-04T23:34:00.000000Z",
+        "source": "digitaltrends.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "26ceadc0-cd0d-4db5-be76-e79fbab26108",
+        "title": "What happened between Natalia Grace and the Mans family? The 'Natalia Speaks' ending suggests they've turned on her",
+        "description": "Natalia Grace and the Mans family appear to have fallen out, based on the cliffhanger \"Curious Case of Natalia Grace: Natalia Speaks\" ending.",
+        "keywords": "",
+        "snippet": "\"The Curious Case of Natalia Grace: Natalia Speaks\" ends with new allegations against the Ukrainian orphan.\n\nHer new adoptive parents, Cynthia and Antwon Mans, ...",
+        "url": "https://www.businessinsider.com/natalia-speaks-ending-explained-natalia-grace-new-parents-antwon-cynthia-mans-2024-1",
+        "image_url": "https://i.insider.com/659729de6979d7371820959f?width=1200&format=jpeg",
+        "language": "en",
+        "published_at": "2024-01-04T23:33:54.000000Z",
+        "source": "insider.com",
+        "categories": [
+            "general",
+            "entertainment",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "cc87f30e-8fbc-4fe5-9753-f13bc556ef40",
+        "title": "6 signs you grew up with a reactive parent who had trouble controlling their emotions, even if you're close with them",
+        "description": "Reactive parents have no filter for their emotions, causing their children to walk on eggshells. Here are signs you grew up with a volatile parent.",
+        "keywords": "",
+        "snippet": "By clicking \u201cSign Up\u201d, you accept our Terms of Service and Privacy Policy . You can opt-out at any time.\n\nAccess your favorite topics in a personalized feed...",
+        "url": "https://www.businessinsider.com/signs-grew-up-reactive-parent-emotionally-volatile-unstable-2024-1",
+        "image_url": "https://i.insider.com/6596d3956979d73718205cee?width=1200&format=jpeg",
+        "language": "en",
+        "published_at": "2024-01-04T23:33:54.000000Z",
+        "source": "insider.com",
+        "categories": [
+            "general",
+            "entertainment",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "064daf19-7a08-4153-9521-8c105aff0ce6",
+        "title": "What is 'smellmaxxing'? A new fad involves mostly men trying to maximize or improve their body scent",
+        "description": "An offshoot of the looksmaxxing community, \"smellmaxxing\" involves mostly men giving each other hygiene and cologne tips.",
+        "keywords": "",
+        "snippet": "By clicking \u201cSign Up\u201d, you accept our Terms of Service and Privacy Policy . You can opt-out at any time.\n\nAccess your favorite topics in a personalized feed...",
+        "url": "https://www.businessinsider.com/smellmaxxing-explained-looksmaxxing-tiktok-men-cologne-jeremy-fragrance-body-odor-2024-1",
+        "image_url": "https://i.insider.com/659734646979d7371820a1af?width=1200&format=jpeg",
+        "language": "en",
+        "published_at": "2024-01-04T23:33:54.000000Z",
+        "source": "insider.com",
+        "categories": [
+            "general",
+            "entertainment",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "daa4d760-4159-4e09-b3d0-0b862032abe5",
+        "title": "Christopher Nolan says his Peloton instructor slammed his movie while he was 'dying' mid-workout \u2014 and someone found the video",
+        "description": "After Christopher Nolan revealed his fitness instructor criticized his movie mid-workout, someone found the video of the class.",
+        "keywords": "",
+        "snippet": "Christopher Nolan got a surprise critique while working out.\n\nThe director said that the instructor brought up his movie during a virtual Peloton class.\n\nA vide...",
+        "url": "https://www.businessinsider.com/christopher-nolan-peloton-instructor-movie-criticism-video-tenet-2024-1",
+        "image_url": "https://i.insider.com/6596cdd1ec62ab5daf809a59?width=1200&format=jpeg",
+        "language": "en",
+        "published_at": "2024-01-04T23:33:54.000000Z",
+        "source": "insider.com",
+        "categories": [
+            "general",
+            "entertainment",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "6d8713cc-4824-4149-81ab-5197a8a78500",
+        "title": "MONEY FINE Loan CusTomer Care Helpline Number=..=9398786939-(+)-9398786939customer care number. Photo by MONEY FINE Loan CusTomer Care Helpline Number=..=9398786939-(+)-9398786939customer care\u2026",
+        "description": "",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://medium.com/@poyer12634/photo-by-boliviainteligente-on-unsplash-530e1f1ecc0a",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*LB58zBPgKq7dSEJo",
+        "language": "en",
+        "published_at": "2024-01-04T23:33:53.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "c7edc967-aad2-4b8a-9d04-d8bb59fab1e0",
+        "title": "Cash Box loan CusTomer Care Helpline Number/6\u2782\u277c\u277e440\u277c\u277e\u2777/\u2122 //\u2122\u2713 99608751671 \u2713\u2713/7090175805. Call Now.",
+        "description": "",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://medium.com/@vixis70435/cash-box-loan-customer-care-helpline-number-6%E2%9E%82%E2%9D%BC%E2%9D%BE440%E2%9D%BC%E2%9D%BE%E2%9D%B7-99608751671-7090175805-call-now-44112b346066",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*Mtl4cAy10FCryAoJ",
+        "language": "en",
+        "published_at": "2024-01-04T23:33:40.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "8e398b26-b623-459f-8379-6dbc211e5d0d",
+        "title": "Loan plaNet CusTomeR Care Helpline Number \u277c\u277b\u277c\u277d\u2776-\u2778\u277d\u277b\u277a\u277b -//-** 7978138656-//- 7978138656 just call\u2026",
+        "description": "",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://medium.com/@s9qfomypcp/loan-planet-customer-care-helpline-number-%E2%9D%BC%E2%9D%BB%E2%9D%BC%E2%9D%BD%E2%9D%B6-%E2%9D%B8%E2%9D%BD%E2%9D%BB%E2%9D%BA%E2%9D%BB-7978138656-7978138656-just-call-149741cc5e8f",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*CDEtDMznbAOovXu-",
+        "language": "en",
+        "published_at": "2024-01-04T23:33:34.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "caf60415-f5bc-43cd-bd2a-5ed6a747903c",
+        "title": "MONEY FINE Loan CusTomer Care Helpline Number--.. \u2014 \u2792\u2790\u2790\u2790\u278c\u278f\u278d\u2791\u278b\u278e+()\u246600\u2467\u2461\u2463\u2460\u2462\u2462\u2461customer care number.MONEY FINE Loan CusTomer Care Helpline Number--.. \u2014 \u2792\u2790\u2790\u2790\u278c\u278f\u278d\u2791\u278b\u278e+()\u246600\u2467\u2461\u2463\u2460\u2462\u2462\u2461customer care number.MONEY\u2026",
+        "description": "MONEY FINE Loan CusTomer Care Helpline Number--.. \u2014 \u2792\u2790\u2790\u2790\u278c\u278f\u278d\u2791\u278b\u278e+()\u246600\u2467\u2461\u2463\u2460\u2462\u2462\u2461customer care number.MONEY FINE Loan CusTomer C...",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://medium.com/@jgjxgxdugg/photo-by-boliviainteligente-on-unsplashmoney-fine-loan-customer-care-helpline-number-b0572aa07d9f",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*71vs1E19ob1BklYI",
+        "language": "en",
+        "published_at": "2024-01-04T23:33:21.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "9225b48a-9e10-4524-962d-383b6536b0f8",
+        "title": "Loan plaNet CusTomeR Care Helpline Number \u277c\u277b\u277c\u277d\u2776-\u2778\u277d\u277b\u277a\u277b -//-** 7978138656-//- 7978138656 just call\u2026",
+        "description": "",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://medium.com/@s9qfomypcp/loan-planet-customer-care-helpline-number-%E2%9D%BC%E2%9D%BB%E2%9D%BC%E2%9D%BD%E2%9D%B6-%E2%9D%B8%E2%9D%BD%E2%9D%BB%E2%9D%BA%E2%9D%BB-7978138656-7978138656-just-call-62f1b9ac180b",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*MHT_FZavAx-h8NSR",
+        "language": "en",
+        "published_at": "2024-01-04T23:33:19.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "4ddafc9c-6f82-4cb1-aa4e-7d9a0386929e",
+        "title": "Cash Box loan CusTomer Care Helpline Number/6\u2782\u277c\u277e440\u277c\u277e\u2777/\u2122 //\u2122\u2713 99608751671 \u2713\u2713/7090175805. Call Now.",
+        "description": "",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://medium.com/@vixis70435/cash-box-loan-customer-care-helpline-number-6%E2%9E%82%E2%9D%BC%E2%9D%BE440%E2%9D%BC%E2%9D%BE%E2%9D%B7-99608751671-7090175805-call-now-84f7aae1b50c",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*p4tITuZ9aVX09WXb",
+        "language": "en",
+        "published_at": "2024-01-04T23:33:16.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "14dfdc9c-ea4c-4a36-a52d-bc5a7793c285",
+        "title": "Loan plaNet CusTomeR Care Helpline Number \u277c\u277b\u277c\u277d\u2776-\u2778\u277d\u277b\u277a\u277b -//-** 7978138656-//- 7978138656 just call\u2026",
+        "description": "",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://medium.com/@s9qfomypcp/loan-planet-customer-care-helpline-number-%E2%9D%BC%E2%9D%BB%E2%9D%BC%E2%9D%BD%E2%9D%B6-%E2%9D%B8%E2%9D%BD%E2%9D%BB%E2%9D%BA%E2%9D%BB-7978138656-7978138656-just-call-32ea174e9576",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*sFRwOuXV5kSb82uU",
+        "language": "en",
+        "published_at": "2024-01-04T23:32:59.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "ba70be13-7faa-4349-a995-a463d29206d4",
+        "title": "Netflix launches Money Heist: Ultimate Choice mobile game",
+        "description": "Coinciding with the recent release of\u00a0Money Heist\u00a0spin-off\u00a0Berlin,\u00a0Money Heist: Ultimate Choice\u00a0lets players take on La Perla de Barcelona.",
+        "keywords": "",
+        "snippet": "Netflix has launched a new game based on its popular Money Heist original series.\n\nCoinciding with the recent release of Money Heist spin-off Berlin, Money Heis...",
+        "url": "https://mobilesyrup.com/2024/01/04/netflix-money-heist-ultimate-choice-mobile-game/",
+        "image_url": "https://cdn.mobilesyrup.com/wp-content/uploads/2024/01/money-heist-ultimate-choice-scaled.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:32:45.000000Z",
+        "source": "mobilesyrup.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "62117416-0581-4621-b7d1-3f502dcb1d8d",
+        "title": "Loan plaNet CusTomeR Care Helpline Number \u277c\u277b\u277c\u277d\u2776-\u2778\u277d\u277b\u277a\u277b -//-** 7978138656-//- 7978138656 just call\u2026",
+        "description": "",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://medium.com/@s9qfomypcp/loan-planet-customer-care-helpline-number-%E2%9D%BC%E2%9D%BB%E2%9D%BC%E2%9D%BD%E2%9D%B6-%E2%9D%B8%E2%9D%BD%E2%9D%BB%E2%9D%BA%E2%9D%BB-7978138656-7978138656-just-call-38a44f893127",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*Qz_R-hwvSDFKbc2X",
+        "language": "en",
+        "published_at": "2024-01-04T23:32:43.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "c3987f0d-7b80-4f91-ba98-f12242880c16",
+        "title": "Google-owned cybersecurity firm Mandiant targeted in X account takeover",
+        "description": "Google-owned cybersecurity firm Mandiant targeted in X account takeover - SiliconANGLE",
+        "keywords": "Duncan Riley, SiliconANGLE, Google-owned cybersecurity firm Mandiant targeted in X account takeover",
+        "snippet": "",
+        "url": "https://siliconangle.com/2024/01/04/google-owned-cybersecurity-firm-mandiant-targeted-x-account-takeover/",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/mandiant.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:32:38.000000Z",
+        "source": "siliconangle.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "fc3e86bc-d2a1-42b5-9d5d-d1a74f4f4cc8",
+        "title": "Loan plaNet CusTomeR Care Helpline Number \u277c\u277b\u277c\u277d\u2776-\u2778\u277d\u277b\u277a\u277b -//-** 7978138656-//- 7978138656 just call\u2026",
+        "description": "",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://medium.com/@s9qfomypcp/loan-planet-customer-care-helpline-number-%E2%9D%BC%E2%9D%BB%E2%9D%BC%E2%9D%BD%E2%9D%B6-%E2%9D%B8%E2%9D%BD%E2%9D%BB%E2%9D%BA%E2%9D%BB-7978138656-7978138656-just-call-6793d402042c",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*EqOwNY6UIGQdFNtX",
+        "language": "en",
+        "published_at": "2024-01-04T23:32:31.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "cf62df5b-2182-4781-a1a6-579fcb46afc3",
+        "title": "ICv2: RIP John M. Burns",
+        "description": "Daily coverage of the pop culture products industry, including toys (action figures, models and statues), anime (anime, manga, and Japanese imports), games (col...",
+        "keywords": "Star Wars, Star Trek, X-Men, Gundam Wing, Dragonball Z, Pokemon, Akira, Lone Wolf and Cub, Magic the Gathering, Dungeons and Dragons, Mage Knight, Superman, Spider-man, JLA, Batman, Buffy the Vampire Slayer, J.R.R. Tolkien, Sailor Moon, Sandman, Harry Potter. Genres we cover include fantasy, science fiction, horror.",
+        "snippet": "Artist for 'Judge Dredd,' 'Nikolai Dante,' Other '2000AD' Titles\n\nBritish artist John M. Burns, best known for his work on Judge Dredd, Nikolai Dante, and other...",
+        "url": "https://icv2.com/articles/news/view/55948/rip-john-m-burns",
+        "image_url": "https://icv2.com/images/article_thumbs/650x650_94c1f1eef2eea7db1e4cabbb46906a989e8c9d39810d71863d19c89a.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:32:15.000000Z",
+        "source": "icv2.com",
+        "categories": [
+            "entertainment",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "39508847-cfee-4009-9b36-abb558d34b8b",
+        "title": "Geeking with Greg",
+        "description": "",
+        "keywords": "",
+        "snippet": "",
+        "url": "http://glinden.blogspot.com/feeds/3023132425895541322/comments/default",
+        "image_url": "",
+        "language": "en",
+        "published_at": "2024-01-04T23:32:08.000000Z",
+        "source": "glinden.blogspot.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "fc8ab72e-642c-41aa-99c9-f1957a6ffced",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnN1bmpvdXJuYWwuY29tLzIwMjQvMDEvMDQvbWV4aWNvLXRlY2gtc2Nob29sLXRvLXNlZWstY29udHJhY3RvcnMtZm9yLW5ldy1idWlsZGluZ3Mv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-04T23:32:05.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "43ce106b-a1d6-4d91-86fd-0fb81cf0ffcb",
+        "title": "Truist to Close 3.5% of Branches as Customers Bank Digitally",
+        "description": "Truist Financial will close 3.5% of its branches in March to cut operating costs as more clients are choosing to bank with it digitally.",
+        "keywords": "",
+        "snippet": "Truist Financial will close 3.5% of its branches in March because more clients are choosing to bank with it digitally.\n\nThe Charlotte, North Carolina-based bank...",
+        "url": "https://www.pymnts.com/news/digital-banking/2024/truist-to-close-3-5percent-of-branches-as-customers-bank-digitally/",
+        "image_url": "https://www.pymnts.com/wp-content/uploads/2022/08/favicon-32x32-1.png",
+        "language": "en",
+        "published_at": "2024-01-04T23:30:41.000000Z",
+        "source": "pymnts.com",
+        "categories": [
+            "business",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "49ea80e5-27ca-4e4e-8d3f-5baf5aeea304",
+        "title": "The Diamond ADU Is A Cedar-Clad Home Inspired By Farm Buildings",
+        "description": "Designed by American studio Schwartz and Architecture, this appealing cedar-clad ADU is part of a family estate in Sonoma, which is a historic town nestled in N...",
+        "keywords": "",
+        "snippet": "Designed by American studio Schwartz and Architecture, this appealing cedar-clad ADU is part of a family estate in Sonoma, which is a historic town nestled in N...",
+        "url": "https://www.yankodesign.com/2024/01/04/the-diamond-adu-is-a-cedar-clad-home-inspired-by-farm-buildings/",
+        "image_url": "https://www.yankodesign.com/images/design_news/2024/01/diamond-adu/diamond_adu_yanko_design_01.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:30:38.000000Z",
+        "source": "yankodesign.com",
+        "categories": [
+            "tech",
+            "entertainment"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "25f82989-37b8-457a-8fdf-c6491233b481",
+        "title": "Patrick Stewart Agrees His Doctor Strange in the Multiverse of Madness Cameo Was Truly Awkward",
+        "description": "The Star Trek and X-Men star has addressed his much-hyped appearance in Sam Raimi's 2022 Marvel superhero sequel.",
+        "keywords": "Doctor Strange, Patrick Stewart, Multiverse, Doctor Strange in the Multiverse of Madness, Fictional universes, Entertainment, Culture, Stephen Strange, Draft:America Chavez, Charles Xavier, Josh Horowitz, Illuminati, Hugh Jackman, Sam Raimi, X-Men in other media, Professor X, Continuity, Gizmodo",
+        "snippet": "Of all the weird moments and choices in Doctor Strange in the Multiverse of Madness, the Illuminati scene might be the one that most made us wonder \u201cwait... w...",
+        "url": "https://gizmodo.com/patrick-stewart-xmen-cameo-doctor-strange-deadpool-3-1851141839",
+        "image_url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7f09eb2344763edc5cc5d8bf1748495b.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:30:00.000000Z",
+        "source": "paleofuture.gizmodo.com",
+        "categories": [
+            "tech",
+            "entertainment",
+            "science",
+            "general"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "cc08fc7b-55a0-406e-83cf-350d8d826353",
+        "title": "The Kindle Scribe Is $70 Off Right Now",
+        "description": "The Kindle Scribe offers one of the best ways to read e-books since it lets you add your handwritten notes. You can also create to-do lists, journal, or sketch....",
+        "keywords": "",
+        "snippet": "We may earn a commission from links on this page.\n\nCredit: Product images courtesy of Amazon.\n\nOne of the biggest downfalls of e-readers is that highlighting an...",
+        "url": "https://lifehacker.com/tech/kindle-scribe-e-reader-on-sale",
+        "image_url": "https://lifehacker.com/imagery/articles/01HKB7MRBAN5N75NQ8ZBYHQJY3/hero-image.fill.size_1200x675.png",
+        "language": "en",
+        "published_at": "2024-01-04T23:30:00.000000Z",
+        "source": "lifehacker.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "7a4bfd55-312a-43f0-9aaf-625a5b6418b7",
+        "title": "FFXIV Auto-Housing Demolition Timer Suspended After Earthquake",
+        "description": "Square Enix has suspended the auto-housing demolition timer in FFXIV due to the massive earthquake that occurred in Japan on January 1, 2024.",
+        "keywords": "",
+        "snippet": "From January 4, 2024, Square Enix will temporarily suspend the auto-housing demolition timer in FFXIV. This is in response to the Noto Peninsula earthquake that...",
+        "url": "https://www.siliconera.com/ffxiv-auto-housing-demolition-timer-suspended-after-earthquake/",
+        "image_url": "https://www.siliconera.com/wp-content/uploads/2024/01/ffxiv-housing-auto-demolition-timer-01042024.png",
+        "language": "en",
+        "published_at": "2024-01-04T23:30:00.000000Z",
+        "source": "siliconera.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "b56c72b7-8928-431d-b55e-4193d70b1240",
+        "title": "Blued upgraded its international version to an online community HeeSay",
+        "description": "Media OutReach | BANGKOK, THAILAND - Media OutReach Newswire - 5 Januar",
+        "keywords": "",
+        "snippet": "BANGKOK, THAILAND \u2013 Media OutReach Newswire \u2013 5 January 2024 \u2013 Blued, the LGBTQ+ social frontrunner, upgraded its international version to an online commu...",
+        "url": "https://www.macaubusiness.com/blued-upgraded-its-international-version-to-an-online-community-heesay/",
+        "image_url": "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2024/01/447114-image-1-png-400x0-BmlowO.png",
+        "language": "en",
+        "published_at": "2024-01-04T23:30:00.000000Z",
+        "source": "macaubusiness.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "40feb482-8414-4162-ba4a-9f80c73deb9e",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vbGlmZWhhY2tlci5jb20vdGVjaC9raW5kbGUtc2NyaWJlLWUtcmVhZGVyLW9uLXNhbGXSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-04T23:30:00.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "31cc3665-8abd-4e0d-8cce-066bfd82a423",
+        "title": "More chances to save money on Nintendo Switch games and gear",
+        "description": "The iDB team has found all the best deals on Nintendo Switch games and gear so that you can save money and get more for that money.",
+        "keywords": "",
+        "snippet": "Hey; guess what time it is\u2026\n\nIf you guessed Nintendo Switch game and accessory deal roundup time, then you guessed right.\n\nYour friends at iDB search the inte...",
+        "url": "https://www.idownloadblog.com/2024/01/04/nintendo-switch-deals-part-55/",
+        "image_url": "https://media.idownloadblog.com/wp-content/uploads/2023/04/Games-Accessories-Deals-for-Nintendo-Switch.jpg",
+        "language": "en",
+        "published_at": "2024-01-04T23:29:50.000000Z",
+        "source": "idownloadblog.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "2b60d1d0-a739-4d14-b451-b294739f8ad4",
+        "title": "Hideo Kojima says OD is as different as Boktai, his solar-powered Gameboy game",
+        "description": "Hideo Kojima has commented on his reputation on making subversive games, and believes that OD is as out-there as Boktai\u2026",
+        "keywords": "",
+        "snippet": "Hideo Kojima has commentated on his reputation as a developer that's responsible for games that \"go against the current of the times\", while also doing the equi...",
+        "url": "https://www.vg247.com/hideo-kojima-says-od-different-as-boktai-solar-powered-gameboy-game",
+        "image_url": "https://assetsio.reedpopcdn.com/OD-boktai.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "language": "en",
+        "published_at": "2024-01-04T23:29:47.000000Z",
+        "source": "vg247.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "334b9cec-fc6d-457b-be9f-ed8e499263a8",
+        "title": "Please help me improve my thermostats",
+        "description": "Dear community, \nRecently I bought a few Tuya Zigbee TRV\u2019s that I installed on 3 of my radiators and work quite well. I iinstalled them via Zigbee2MQTT and th...",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://community.home-assistant.io/t/please-help-me-improve-my-thermostats/666813",
+        "image_url": "https://community-assets.home-assistant.io/original/4X/5/0/e/50e585faea85010ebb16d3d466f071ef90ec1393.png",
+        "language": "en",
+        "published_at": "2024-01-04T23:29:24.000000Z",
+        "source": "community.home-assistant.io",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "91b1882a-aaf9-4a75-ae38-f9febdf18f78",
+        "title": "Portugal: Transparency Authority hopes to have platform working by election time",
+        "description": "International, MNA | Portugal's Entidade para a Transpar\u00eancia (EpT), whose team is based in Coimbra, is making every effort to have its platform up and running",
+        "keywords": "",
+        "snippet": "Portugal\u2019s Entidade para a Transpar\u00eancia (EpT), whose team is based in Coimbra, is making every effort to have its platform up and running by the legislative...",
+        "url": "https://www.macaubusiness.com/portugal-transparency-authority-hopes-to-have-platform-working-by-election-time/",
+        "image_url": "https://www.macaubusiness.com/wp-content/uploads/2019/03/mb-logo@2x.png",
+        "language": "en",
+        "published_at": "2024-01-04T23:28:54.000000Z",
+        "source": "macaubusiness.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "e189906f-ea87-4363-bb05-566cdd56a84f",
+        "title": "If You\u2019re Feeling Lonely, Watch This",
+        "description": "YouTube video essayist and composer Babila wants you to know you're not the only one with a large, gaping, unfillable hole in the center of your chest. [41:29]",
+        "keywords": "",
+        "snippet": "MeFi business update: help us plan the future of MetaFilter",
+        "url": "https://www.metafilter.com/202030/If-Youre-Feeling-Lonely-Watch-This",
+        "image_url": "http://cdn.mefi.us/images/mefi/apple-touch-icon.png",
+        "language": "en",
+        "published_at": "2024-01-04T23:28:45.000000Z",
+        "source": "metafilter.com",
+        "categories": [
+            "general",
+            "entertainment",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "b53b8b1b-6f1e-4618-b0b3-a130a3bf4c4d",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmV2ZW50aHVicy5jb20vbmV3cy8yMDI0L2phbi8wNC9iZXN0LWVsZW5hLWNvc3BsYXktZXZlci_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-04T23:28:16.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    }
+]

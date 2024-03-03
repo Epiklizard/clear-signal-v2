@@ -1,0 +1,1665 @@
+[
+    {
+        "uuid": "a3ae8f85-136a-4ba7-911a-b50ccfe94217",
+        "title": "Datasette 1.0a9",
+        "description": "A new Datasette alpha release today. This adds basic alter table support API support, so you can request Datasette modify a table to add new columns needed for ...",
+        "keywords": "",
+        "snippet": "Datasette 1.0a9. A new Datasette alpha release today. This adds basic alter table support API support, so you can request Datasette modify a table to add new co...",
+        "url": "https://simonwillison.net/2024/Feb/16/datasette-10a9/#atom-everything",
+        "image_url": "",
+        "language": "en",
+        "published_at": "2024-02-16T23:59:58.000000Z",
+        "source": "simonwillison.net",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "2d3f6191-d183-4321-8aa2-67145e91598b",
+        "title": "wwt+wit: Wiimms WBFS+ISO Tools",
+        "description": "WIT: Wiimms ISO Tools v3.01a - 2017-12-03\nA command line ISO+WBFS tool set for various os.\n\nWIT (Wiimms ISO Tools) is a set of command line tools to...",
+        "keywords": "",
+        "snippet": "Code:\n\n# wwt --help wwt: Wiimms WBFS Tool V0.00c r145 - Dirk Clemens - 2009-09-30 This is a command line tool to manage WBFS partitions and Wii ISO Images. Synt...",
+        "url": "https://gbatemp.net/threads/wwt-wit-wiimms-wbfs-iso-tools.182236/",
+        "image_url": "https://wit.wiimm.de/images/wiimms-tools.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:59:56.000000Z",
+        "source": "gbatemp.net",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "3b1cafb2-62cb-4f19-9d5d-a7415e94ecec",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm9wZXJhdGlvbnNwb3J0cy5jb20vbm8tdGVjaC10ZXN0LWZvci1tbGItdGhlLXNob3ctMjQtd2hhdC1kb2VzLXRoaXMtbWVhbi_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-02-16T23:59:11.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "40d6b0f4-685a-47bf-8c85-d33daa573ee8",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDIvMTYvYnVzaW5lc3MvbWVkaWEvdHVja2VyLWNhcmxzb24tcHV0aW4tbmF2YWxueS5odG1s0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-02-16T23:58:51.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "science",
+            "general",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "53bbd1e4-d076-4f27-ba28-1bf019e131c8",
+        "title": "React Interview: What Gets Rendered in the Browser, a Component or an Element?",
+        "description": "In the world of React, there is often confusion surrounding the terms \u201ccomponent\u201d and \u201celement.\u201d Many beginners struggle to understand the distinction b...",
+        "keywords": "",
+        "snippet": "React Interview: What Gets Rendered in the Browser, a Component or an Element? J.D Christie \u00b7 Follow 3 min read \u00b7 Just now Just now -- Share\n\nIn the world of ...",
+        "url": "https://medium.com/@barrytwice/react-interview-what-gets-rendered-in-the-browser-a-component-or-an-element-616aaaaa6c38",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1000/0*Ohq7HpCCsoj3pSsU.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:58:28.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "4cb02618-3d62-4ab2-ac92-725f375a4d10",
+        "title": "Google inaugura o AI Hub em Paris, mas isso n\u00e3o \u00e9 uma boa not\u00edcia para a empresa",
+        "description": "A empresa parece buscar um novo an\u00fancio toda semana, em uma tentativa de enviar uma mensagem para o p\u00fablico: Somos uma empresa de IA Com capacidade para cerca...",
+        "keywords": "",
+        "snippet": "Com capacidade para cerca de 300 pesquisadores e engenheiros, o CEO do Google, Sundar Pichai, inaugurou no \u00faltimo dia 15 de Fevereiro o AI Hub em Paris.\n\nO cur...",
+        "url": "https://ealexbarros.medium.com/google-inaugura-o-ai-hub-em-paris-mas-isso-n%C3%A3o-%C3%A9-uma-boa-not%C3%ADcia-para-a-empresa-da8ddced9be3",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1024/1*pqXAt_43dUckMCFew5Wvqg.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:56:42.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "337ff5a5-b625-4aac-b053-73ff18a8e8cb",
+        "title": "The Communication Vacuum Is Causing More Chaos As GameStop Tweets And Deletes Promo",
+        "description": "The chaos for Xbox keeps on rolling, it seems. We were just talking about how years of muddled communication coming from Microsoft's Xbox team over exclusives a...",
+        "keywords": "",
+        "snippet": "The Communication Vacuum Is Causing More Chaos As GameStop Tweets And Deletes Promo\n\nfrom the literally-just-say-something! dept\n\nThe chaos for Xbox keeps on ro...",
+        "url": "https://www.techdirt.com/2024/02/16/the-communication-vacuum-is-causing-more-chaos-as-gamestop-tweets-and-deletes-promo/",
+        "image_url": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:56:25.000000Z",
+        "source": "techdirt.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "9e86a56a-f39e-4a00-8dad-699abeb3c4d6",
+        "title": "memeorandum: Trump hit with $354.9 million penalty, 3-year ban in NY civil fraud case (Reuters)",
+        "description": "A continuously updated summary of the news stories that US political commentators are discussing online right now.",
+        "keywords": "",
+        "snippet": "About memeorandum:\n\nmemeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\n\nUnlike sister sites...",
+        "url": "https://www.memeorandum.com/240216/p73",
+        "image_url": "https://www.reuters.com/resizer/4_9pMqsHUtxfzTWet55WAIXh_Kk=/1920x1005/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UQLWEWEYGFNLLFDCJ67IS5XNMQ.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:55:01.000000Z",
+        "source": "memeorandum.com",
+        "categories": [
+            "general",
+            "politics",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "ae695b5e-6ae5-499b-bc92-b71fb8f085f6",
+        "title": "memeorandum: Trump is suddenly in need of a lot of cash. That's everyone's problem. (Abdallah Fayyad",
+        "description": "A continuously updated summary of the news stories that US political commentators are discussing online right now.",
+        "keywords": "",
+        "snippet": "About memeorandum:\n\nmemeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now.\n\nUnlike sister sites...",
+        "url": "https://www.memeorandum.com/240216/p72",
+        "image_url": "https://cdn.vox-cdn.com/thumbor/pXX_UbrNG13eByEFFjBO6kcFRng=/0x715:5000x3333/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25288333/1704614118.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:55:01.000000Z",
+        "source": "memeorandum.com",
+        "categories": [
+            "general",
+            "politics",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "7489b4c4-bdbf-4d77-bcfe-d080a4d6bde2",
+        "title": "Top 20 Adult and Kids Graphic Novels",
+        "description": "Daily coverage of the pop culture products industry, including toys (action figures, models and statues), anime (anime, manga, and Japanese imports), games (col...",
+        "keywords": "Star Wars, Star Trek, X-Men, Gundam Wing, Dragonball Z, Pokemon, Akira, Lone Wolf and Cub, Magic the Gathering, Dungeons and Dragons, Mage Knight, Superman, Spider-man, JLA, Batman, Buffy the Vampire Slayer, J.R.R. Tolkien, Sailor Moon, Sandman, Harry Potter. Genres we cover include fantasy, science fiction, horror.",
+        "snippet": "Lack of Anime Drives Readers to Manga; New Titles on Kids Chart\n\nCircana BookScan Top 20 Adult Graphic Novels \u2013 January 2024 (12/31/23 - 2/3/24) Rank Title Au...",
+        "url": "https://icv2.com/articles/markets/view/56265/january-2024-circana-bookscan-top-20-adult-kids-graphic-novels",
+        "image_url": "https://icv2.com/images/article_thumbs/650x650_bb081e84c0daf36f7b383a42ec98d1921a3a5f350699af6e369322c4.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:55:01.000000Z",
+        "source": "icv2.com",
+        "categories": [
+            "entertainment",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "0dd10a8d-73d4-4b09-8fa3-1623655a4cdb",
+        "title": "Introducing Sora: OpenAI\u2019s Revolutionary Video Creation Tool",
+        "description": "From Words to Worlds: Unleashing Creativity with OpenAI's Revolutionary Video Tool, Sora \nA.I. Directs Your Vision: Sora, the Game-Changing Video Creation Tool ...",
+        "keywords": "",
+        "snippet": "Introducing Sora: OpenAI\u2019s Revolutionary Video Creation Tool M.Umair \u00b7 Follow 3 min read \u00b7 Just now Just now -- Listen Share\n\nIn the realm of artificial int...",
+        "url": "https://medium.com/@Shawanwang/introducing-sora-openais-revolutionary-video-creation-tool-1bbfe2aad9de",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*qKmFi6pS7lfnW3XiqdKKlA.jpeg",
+        "language": "en",
+        "published_at": "2024-02-16T23:54:53.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "828c26af-4ea0-4f44-b78e-43ff250d7090",
+        "title": "Top 20 Adult and Kids Graphic Novels with Actual Sales",
+        "description": "Daily coverage of the pop culture products industry, including toys (action figures, models and statues), anime (anime, manga, and Japanese imports), games (col...",
+        "keywords": "Star Wars, Star Trek, X-Men, Gundam Wing, Dragonball Z, Pokemon, Akira, Lone Wolf and Cub, Magic the Gathering, Dungeons and Dragons, Mage Knight, Superman, Spider-man, JLA, Batman, Buffy the Vampire Slayer, J.R.R. Tolkien, Sailor Moon, Sandman, Harry Potter. Genres we cover include fantasy, science fiction, horror.",
+        "snippet": "Lack of Anime Drives Readers to Manga; New Titles on Kids Chart\n\nWhen the anime ends but the manga keeps going, fans pick up the manga; on the Kids chart, two n...",
+        "url": "https://icv2.com/articles/icv2-pro/view/56264/january-2024-circana-bookscan-top-20-adult-kids-graphic-novels-actual-sales",
+        "image_url": "https://icv2.com/images/article_thumbs/650x650_a94b5f20e445269ac3e3433859098c0c7142e1c48d4eb6ce56264ab7.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:54:40.000000Z",
+        "source": "icv2.com",
+        "categories": [
+            "entertainment",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "cbb7ac0f-5903-4037-965d-edf6d626a0f0",
+        "title": "Amazon and SpaceX are quietly trying to demolish national labor law",
+        "description": "Amazon alleged in a legal filing published Friday morning that the National Labor Relations Board (NLRB) is unconstitutional. SpaceX and Trader Joe's --",
+        "keywords": "",
+        "snippet": "Amazon alleged in a legal filing published Friday morning that the National Labor Relations Board (NLRB) is unconstitutional. SpaceX and Trader Joe\u2019s \u2014 comp...",
+        "url": "https://techcrunch.com/2024/02/16/amazon-and-spacex-are-quietly-trying-to-demolish-national-labor-law/",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-535059003.jpg?w=1024",
+        "language": "en",
+        "published_at": "2024-02-16T23:54:37.000000Z",
+        "source": "news.ycombinator.com",
+        "categories": [
+            "tech",
+            "general"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "0ce526d3-440d-477d-9ece-351a3dcd80e6",
+        "title": "WTB: 7700(X)/7800X3D, 2x16/24/32GB, 1TB SSD (DRAM/TLC)",
+        "description": "As title but, only interested in particular boards after finding out that debug displays have been segmented away :(.\n\nOrdered by interest most to least...",
+        "keywords": "",
+        "snippet": "Follow along with the video below to see how to install our site as a web app on your home screen.\n\nNote: This feature may not be available in some browsers.",
+        "url": "https://hardforum.com/threads/wtb-7700-x-7800x3d-2x16-24-32gb-1tb-ssd-dram-tlc.2033101/",
+        "image_url": "https://hardforum.com/data/assets/logo/192.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:53:10.000000Z",
+        "source": "hardforum.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "390a80fa-062b-4ddf-9055-e24d4d67d675",
+        "title": "You should play Splatoon with your family",
+        "description": "Turns out, video games really can bring families closer together. Like mine, for instance.",
+        "keywords": "",
+        "snippet": "Usually my younger siblings wait until I\u2019m done with work \u2014 they\u2019re in earlier time zones than I am, so they\u2019re being polite \u2014 then the group chat lig...",
+        "url": "https://www.theverge.com/2024/2/16/24075342/splatoon-3-family-bonding",
+        "image_url": "https://cdn.vox-cdn.com/thumbor/yd3YDMsa9FAvsTikXJXRSUngU9g=/0x0:1357x904/1200x628/filters:focal(679x452:680x453)/cdn.vox-cdn.com/uploads/chorus_asset/file/22311018/splatoon3.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:52:55.000000Z",
+        "source": "theverge.com",
+        "categories": [
+            "entertainment",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "115f8a28-e97f-4cbc-b2d3-f8fa990efc6a",
+        "title": "Bose Portable Bluetooth Speakers Are on Sale!",
+        "description": "Are you looking for a high-quality Bluetooth speaker for your home or travel? This portable Bose Bluetooth speaker is on sale right now for just $129! They also...",
+        "keywords": "",
+        "snippet": "Are you looking for a high-quality Bluetooth speaker for your home or travel? This portable Bose Bluetooth speaker is on sale right now for just $129! They also...",
+        "url": "https://cordcuttersnews.com/bose-portable-bluetooth-speakers-are-on-sale/",
+        "image_url": "https://cordcuttersnews.com/wp-content/uploads/2023/04/71we5E107KL._AC_SL1500_.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:52:51.000000Z",
+        "source": "cordcuttersnews.com",
+        "categories": [
+            "tech",
+            "entertainment"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "1105e98f-5065-42ce-9101-ff73d13afc16",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDIvMTYvYmlkZW4taGVhbHRoLXJlc2VhcmNoLWVhc3QtcGFsZXN0aW5lLXRyYWluLTAwMTQyMDMx0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-02-16T23:52:41.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "general",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "d1adcab9-9602-4d3b-8564-0749c59200c6",
+        "title": "my 3ds keeps crash every time it try's to load a game image",
+        "description": "so I have all my games in one folder and when I try opening it crashes for a split second I can see my games but it crashes as soon as super smash bros load...",
+        "keywords": "",
+        "snippet": "so I have all my games in one folder and when I try opening it crashes for a split second I can see my games but it crashes as soon as super smash bros load the...",
+        "url": "https://gbatemp.net/threads/my-3ds-keeps-crash-every-time-it-trys-to-load-a-game-image.648813/",
+        "image_url": "https://gbatemp.net/icon-512x512.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:52:25.000000Z",
+        "source": "gbatemp.net",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "5f7c881f-3a3e-494a-8042-9a0e492e3e7d",
+        "title": "Will bank interest rate fall due to this new CPF change?",
+        "description": "currently for those above 55 (after setting aside FRS) should have a good mix of fund between OA (2.5%) and SA (4%).\nhence, most will remain status quo and...",
+        "keywords": "",
+        "snippet": "currently for those above 55 (after setting aside FRS) should have a good mix of fund between OA (2.5%) and SA (4%).\n\nhence, most will remain status quo and not...",
+        "url": "https://forums.hardwarezone.com.sg/threads/will-bank-interest-rate-fall-due-to-this-new-cpf-change.7001293/",
+        "image_url": "https://assets.hardwarezone.com/logo/hwz-logo-1280.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:51:40.000000Z",
+        "source": "forums.hardwarezone.com.sg",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "073f4e39-d481-4d5a-a118-8e21c61a687a",
+        "title": "Slave Descendants Want $74,000,000,000 From Saint Louis University",
+        "description": "Link",
+        "keywords": "",
+        "snippet": "Since learning of their family\u2019s history of being owned and traded by the Jesuits in Missouri, descendants have worked to piece together their lineage and pus...",
+        "url": "https://forums.hardwarezone.com.sg/threads/slave-descendants-want-74-000-000-000-from-saint-louis-university.7001335/",
+        "image_url": "https://assets.hardwarezone.com/logo/hwz-logo-1280.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:50:35.000000Z",
+        "source": "forums.hardwarezone.com.sg",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "619a34df-650a-448b-ab90-1e93787a2cf0",
+        "title": "Price of 2 TB external hardisk",
+        "description": "Is the price of 2 TB external hardisk over SGD$100 now? Where do you usually shop for external hardisk online...",
+        "keywords": "",
+        "snippet": "Special Events Tech Show Central\n\nInfoTech Clinics Hardware Clinic Hardware Clinic Knowledge Base Personal Projects and Reviews Den Notebook Clinic The Tablet D...",
+        "url": "https://forums.hardwarezone.com.sg/threads/price-of-2-tb-external-hardisk.7001337/",
+        "image_url": "https://assets.hardwarezone.com/logo/hwz-logo-1280.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:50:33.000000Z",
+        "source": "forums.hardwarezone.com.sg",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "6c40f26e-bf6f-4dd1-baf5-3e786eca9e20",
+        "title": "The Purge: # 4489 L.O.L. Surprise: 7 Layers of Fun Game: Does your little fan NEED this game?",
+        "description": "Please check out my Geeklist at:\n\nhttps://boardgamegeek.com/geeklist/145695/purge-reviews-record-my-reviews-games\n\nMy video reviews can be found here:\n\nwww.yout...",
+        "keywords": "board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo",
+        "snippet": "",
+        "url": "https://boardgamegeek.com/thread/3248587/purge-4489-lol-surprise-7-layers-fun-game-does-you",
+        "image_url": "https://cf.geekdo-images.com/8iA1HoAzrguNYSKOx7bN5g__opengraph_left/img/GyMcB-x8IdIfZjoDpU2Hykjs22U=/fit-in/445x445/filters:strip_icc()/pic4105215.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:50:31.000000Z",
+        "source": "boardgamegeek.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "0214f1fe-2ffe-4fd0-a6f2-1854a1c1be0a",
+        "title": "WTB: 5950X/5900x",
+        "description": "Would really prefer the 5950X.\nPaypal payment.\n\nhttps://www.heatware.com/u/9835/to",
+        "keywords": "",
+        "snippet": "Follow along with the video below to see how to install our site as a web app on your home screen.\n\nNote: This feature may not be available in some browsers.",
+        "url": "https://hardforum.com/threads/wtb-5950x-5900x.2033408/",
+        "image_url": "https://hardforum.com/data/assets/logo/192.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:50:02.000000Z",
+        "source": "hardforum.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "b5024066-3a90-4409-b781-d0f8287b810c",
+        "title": "Debian NEW package overview",
+        "description": "",
+        "keywords": "",
+        "snippet": "No README.source in this package",
+        "url": "https://ftp-master.debian.org/new/rust-nalgebra-macros_0.2.1-1.html",
+        "image_url": "https://www.debian.org/favicon.ico",
+        "language": "en",
+        "published_at": "2024-02-16T23:49:58.000000Z",
+        "source": "ftp-master.debian.org",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "d7662197-52ba-4098-9597-531d37d294c5",
+        "title": "Debian NEW package overview",
+        "description": "",
+        "keywords": "",
+        "snippet": "No README.source in this package",
+        "url": "https://ftp-master.debian.org/new/rust-simba_0.8.1-1.html",
+        "image_url": "https://www.debian.org/favicon.ico",
+        "language": "en",
+        "published_at": "2024-02-16T23:49:46.000000Z",
+        "source": "ftp-master.debian.org",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "be4a5a4f-624a-4d65-88de-f5a587fb1d41",
+        "title": "Good News! You Can Still Catch Bluey X Camp in Los Angeles",
+        "description": "Want to get in on Bluey x Camp? Here are the details about the Los Angeles experience.",
+        "keywords": "",
+        "snippet": "(Disney+)\n\nBluey is a global phenomenon, enchanting children and parents alike. As soon as audiences realized how good the show is, it was only a matter of time...",
+        "url": "https://www.themarysue.com/bluey-camp-los-angeles-location-tickets-dates-and-more/",
+        "image_url": "https://www.themarysue.com/wp-content/uploads/2023/08/sleepytime-bluey.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:49:38.000000Z",
+        "source": "themarysue.com",
+        "categories": [
+            "tech",
+            "entertainment",
+            "general"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "07d9cad4-cf7a-4344-b4af-cad5444a0aa6",
+        "title": "Ask HN: Making Simple Apps Profitable?",
+        "description": "",
+        "keywords": "",
+        "snippet": "I'm wonder whats the latest in revenue models for simple software apps and how to sell them?\n\nLet's say the app is a EXIF editor to process bulk images. It's a ...",
+        "url": "https://news.ycombinator.com/item?id=39404601",
+        "image_url": "https://news.ycombinator.com/y18.svg",
+        "language": "en",
+        "published_at": "2024-02-16T23:49:36.000000Z",
+        "source": "news.ycombinator.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "528cf258-63ed-49aa-9cc0-798e81dff88a",
+        "title": "Donald Trump Whines AI Photos Emphasizing His Weight Are 'Despicable' Despite History of Calling Rivals 'Fat Pigs'",
+        "description": "Donald Trump took to Truth Social and shared a series of photos \u2014 one that emphasized his belly that he claimed was edited and three others he said were real.",
+        "keywords": "NEWS, Top Slots",
+        "snippet": "Donald Trump has a long history of branding his political rivals and other people he doesn't like with demeaning nicknames, but the embattled ex-prez wasn't hap...",
+        "url": "https://okmagazine.com/p/donald-trump-whines-ai-photos-emphasizing-weight-despicable/",
+        "image_url": "https://media.okmagazine.com/brand-img/ceeNi8cMY/1200x628/donald-trump-whines-ai-photos-emphasizing-weight-despicable-ppjpg-1708125241354.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:49:34.000000Z",
+        "source": "flipboard.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "73505c48-1ed0-4383-a189-ee276fbc27eb",
+        "title": "Debian NEW package overview",
+        "description": "",
+        "keywords": "",
+        "snippet": "Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/ Upstream-Name: lopdf Upstream-Contact: Junfeng Liu Emulator Source: https://github.co...",
+        "url": "https://ftp-master.debian.org/new/rust-lopdf_0.32.0-1.html",
+        "image_url": "https://www.debian.org/favicon.ico",
+        "language": "en",
+        "published_at": "2024-02-16T23:49:31.000000Z",
+        "source": "ftp-master.debian.org",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "04a614f2-7b3a-425e-851d-6744d02f8b20",
+        "title": "RiP 1M65? No more?",
+        "description": "After the latest changes....I think 1M65 people can shut up....no point keeping any money beyond what is siphoned to RA...take it out...\n\nNo more 1M65 since...",
+        "keywords": "",
+        "snippet": "Important Forum Advisory Note\n\nThis forum is moderated by volunteer moderators who will react only to members' feedback on posts. Moderators are not employees o...",
+        "url": "https://forums.hardwarezone.com.sg/threads/rip-1m65-no-more.7001282/",
+        "image_url": "https://assets.hardwarezone.com/logo/hwz-logo-1280.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:49:21.000000Z",
+        "source": "forums.hardwarezone.com.sg",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "9331545e-ff62-4cb6-969e-bf8464ad5da6",
+        "title": "Why did AI explode now?",
+        "description": "In the dawn of the digital age, the dreams of artificial intelligence were stifled, trapped by the absence of technology capable of meeting its insatiable deman...",
+        "keywords": "",
+        "snippet": "Why did AI explode now? Jhoan Sebasti\u00e1n Fuentes Hern\u00e1ndez \u00b7 Follow 2 min read \u00b7 Just now Just now -- Listen Share\n\nIn the dawn of the digital age, the dream...",
+        "url": "https://medium.com/@jhoansfuentes1999/why-did-ai-explode-now-fb39216558aa",
+        "image_url": "https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:49:01.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "71f2bff3-25aa-4683-834f-39a10d6daf54",
+        "title": "So if the white party still wins big next year....",
+        "description": "Does that mean our lives would get worse because such a big change in CPF still doesn't falter the white supporters?\n\nTiagong it isn't a retirement fund...",
+        "keywords": "",
+        "snippet": "Special Events Tech Show Central\n\nInfoTech Clinics Hardware Clinic Hardware Clinic Knowledge Base Personal Projects and Reviews Den Notebook Clinic The Tablet D...",
+        "url": "https://forums.hardwarezone.com.sg/threads/so-if-the-white-party-still-wins-big-next-year.7001336/",
+        "image_url": "https://assets.hardwarezone.com/logo/hwz-logo-1280.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:48:55.000000Z",
+        "source": "forums.hardwarezone.com.sg",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "fb6cfaf6-a2d4-4c81-a9c3-d82bcd1797c9",
+        "title": "The best Assassin\u2019s Creed game is just $10 right now",
+        "description": "The best Assassin's Creed game is available at 75% off its regular price right now as part of Steam's ongoing Ubisoft Publisher Sale.",
+        "keywords": "",
+        "snippet": "The Assassin\u2019s Creed series is meant to be videogames\u2019 version of the kind of historical epics presented in film, TV, and books. Most of the entries to the ...",
+        "url": "https://www.pcgamesn.com/assassin-s-creed-iii/best-assassins-creed-discount",
+        "image_url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2024/02/ubisoft-best-assassins-creed-discount.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:48:32.000000Z",
+        "source": "pcgamesn.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "d680877c-b51f-4e79-bce8-23ef6178f486",
+        "title": "Thorn in Putin\u2019s flesh \u201cdied\u201d in Prison",
+        "description": "https://www.straitstimes.com/asia/jailed-russian-opposition-leader-navalny-dead-prison-service...",
+        "keywords": "",
+        "snippet": "Special Events Tech Show Central\n\nInfoTech Clinics Hardware Clinic Hardware Clinic Knowledge Base Personal Projects and Reviews Den Notebook Clinic The Tablet D...",
+        "url": "https://forums.hardwarezone.com.sg/threads/thorn-in-putins-flesh-died-in-prison.7001222/",
+        "image_url": "https://assets.hardwarezone.com/logo/hwz-logo-1280.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:48:31.000000Z",
+        "source": "forums.hardwarezone.com.sg",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "1ab0712a-79f3-4dc0-a41f-42061d4b5991",
+        "title": "The Nintendo Switch 2 has been delayed to 2025, according to reports",
+        "description": "The Nintendo Switch has had a dominant life as a hybrid console-handheld, enjoying success since its launch in 2017. However, late last year heard some...",
+        "keywords": "",
+        "snippet": "The Nintendo Switch has had a dominant life as a hybrid console-handheld, enjoying success since its launch in 2017. However, late last year heard some rumbling...",
+        "url": "https://gbatemp.net/threads/the-nintendo-switch-2-has-been-delayed-to-2025-according-to-reports.648812/",
+        "image_url": "https://gbatemp.net/attachments/420460/",
+        "language": "en",
+        "published_at": "2024-02-16T23:46:59.000000Z",
+        "source": "gbatemp.net",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "d5a625dc-3720-4a4c-9c50-65fe0983c550",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS93YXRjaC1zYXR1cmRheS11bmMtdnMtdmlyZ2luaWEtMjM0NjIyMDY5Lmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-02-16T23:46:22.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "b4212b23-7786-46e1-9d01-d981b47f87fd",
+        "title": "3ds tickets all gone after doing something with files, data is still in my SD card however.",
+        "description": "I was fixing stuff with the nds roms because they wouldnt load using ndsforwarder, and im pretty new to the hacking scene. after i moved the nds files to...",
+        "keywords": "",
+        "snippet": "I was fixing stuff with the nds roms because they wouldnt load using ndsforwarder, and im pretty new to the hacking scene. after i moved the nds files to the nd...",
+        "url": "https://gbatemp.net/threads/3ds-tickets-all-gone-after-doing-something-with-files-data-is-still-in-my-sd-card-however.648811/",
+        "image_url": "https://gbatemp.net/icon-512x512.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:45:59.000000Z",
+        "source": "gbatemp.net",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "ed894aca-9823-48c1-b2c6-e603abecc8f8",
+        "title": "The most popular character in Tekken 8 is very different on PC vs. PlayStation 5",
+        "description": "We've been excitedly tracking the overall character popularity/usage in Tekken 8 over the last three weeks since the game dropped, and in no small part that's t...",
+        "keywords": "Tekken news",
+        "snippet": "We've been excitedly tracking the overall character popularity/usage in Tekken 8 over the last three weeks since the game dropped, and in no small part that's t...",
+        "url": "https://www.eventhubs.com/news/2024/feb/16/popular-character-tekken8-pc-ps5/",
+        "image_url": "https://media.eventhubs.com/images/2024/02/16_tekt.webp",
+        "language": "en",
+        "published_at": "2024-02-16T23:45:40.000000Z",
+        "source": "eventhubs.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "61aa2777-d5de-4c26-b1c0-fcf55d16f5c1",
+        "title": "Simple templating question for last_changed",
+        "description": "Can I template the last changed attribute of an entity_id? \ne.g. If I pass a script a variable which is an entity_id can that script then determine the last cha...",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://community.home-assistant.io/t/simple-templating-question-for-last-changed/691130",
+        "image_url": "https://community-assets.home-assistant.io/original/4X/5/0/e/50e585faea85010ebb16d3d466f071ef90ec1393.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:45:18.000000Z",
+        "source": "community.home-assistant.io",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "e94f6d72-b514-4d3c-912d-1e6c0d8f2781",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CCAiC09ZdXNBdy1Cc0NjmAEB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-02-16T23:45:00.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "sports",
+            "general",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "0d62dd6b-f398-4548-9d8b-70957e892162",
+        "title": "Jade Scorpion - New Diablo 4 Rogue Cosmetics",
+        "description": "Jade and leather - what's a better combination for a Rogue? Take a look at Jade Scorpion, the newest Rogue cosmetics!",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://www.wowhead.com/diablo-4/news/jade-scorpion-new-diablo-4-rogue-cosmetics-337758",
+        "image_url": "https://wow.zamimg.com/uploads/blog/images/39348-jade-scorpion-new-diablo-4-rogue-cosmetics.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:45:00.000000Z",
+        "source": "wowhead.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "aa9f032b-8900-40ce-85be-53ccd3570878",
+        "title": "Tom Thomas VE3IJE SK February 10 2024",
+        "description": "Obituary,\nMr Thomas \"Tom\" Theodore Thomas, a resident of Wallaceburg, passed away peacfeflly at Bluewater Health in Sarnia on February 10,2024 at the...",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://forums.qrz.com/index.php?threads/tom-thomas-ve3ije-sk-february-10-2024.901777/",
+        "image_url": "https://forums.qrz.com/styles/default/xenforo/avatars/avatar_m.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:44:50.000000Z",
+        "source": "forums.qrz.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "29a497c5-8660-444b-8525-3fa85876c4af",
+        "title": "Pacman Jones On How His Family Candy Connection Runs Deep",
+        "description": "Pacman Jones just dropped his latest song, \"Ferrari Kit,\" so we asked what he eats in his Ferrari plus a whole lot of other food questions.",
+        "keywords": "home page, life, adam \"pacman\" jones, ferrari kit, music, pacman, snack down, snacks, sour gummies, sports",
+        "snippet": "The new Pacman Jones record \u201cFerrari Kit\u201d is a ball of kinetic energy and a metaphorical representation of the former NFL pro bowler\u2019s mentality. Built li...",
+        "url": "https://uproxx.com/life/pacman-jones-favorite-food/",
+        "image_url": "https://uproxx.com/wp-content/uploads/2024/02/pacman_food710x400.jpg?w=710",
+        "language": "en",
+        "published_at": "2024-02-16T23:44:32.000000Z",
+        "source": "uproxx.com",
+        "categories": [
+            "entertainment",
+            "general",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "811aff8c-bf96-4e96-b83f-811bcbe309a3",
+        "title": "Are you a robot?",
+        "description": "",
+        "keywords": "",
+        "snippet": "Why did this happen?\n\nPlease make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you ca...",
+        "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=b88b8cc3-cd2a-11ee-ac3c-8aa1e76ab93a&url=L25ld3MvYXJ0aWNsZXMvMjAyNC0wMi0xNi9yZWRkaXQtaXMtc2FpZC10by1zaWduLWFpLWNvbnRlbnQtbGljZW5zaW5nLWRlYWwtYWhlYWQtb2YtaXBv",
+        "image_url": "",
+        "language": "en",
+        "published_at": "2024-02-16T23:44:21.000000Z",
+        "source": "app.buzzsumo.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "c446d2de-414b-4fbb-91cd-299df6d5df66",
+        "title": "Mediagazer: Sources: Reddit signed a deal early in 2024, worth ~$60M on an annualized basis, allowing a large unnamed AI company to train its models on Reddit's content (Amy Or",
+        "description": "Mediagazer presents the day's must-read media news on a single page.",
+        "keywords": "",
+        "snippet": "About Mediagazer:\n\nMediagazer presents the day's must-read media news on a single page.\n\nThe media business is in tumult: from the production side to the distri...",
+        "url": "https://mediagazer.com/240216/p10",
+        "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iedZTq7oWyZ8/v0/1200x801.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:42:10.000000Z",
+        "source": "mediagazer.com",
+        "categories": [
+            "general",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "32aad203-1f57-411f-bd33-7b763eff2061",
+        "title": "Ivanka Trump's spotty memory called 'suspect' by judge in fraud trial verdict, even though she was dismissed from the case",
+        "description": "Ivanka Trump testified in the NY civil fraud trial and claimed she had a tough time remembering. Judge Engoron's ruling took a shot at her memory.",
+        "keywords": "",
+        "snippet": "By clicking \u201cSign Up\u201d, you accept our Terms of Service and Privacy Policy . You can opt-out at any time.\n\nAccess your favorite topics in a personalized feed...",
+        "url": "https://www.businessinsider.com/ivanka-trump-memory-fraud-trial-verdict-judge-engoron-2024-2",
+        "image_url": "https://i.insider.com/65cba355f533b039a882fab6?width=1200&format=jpeg",
+        "language": "en",
+        "published_at": "2024-02-16T23:41:05.000000Z",
+        "source": "businessinsider.com",
+        "categories": [
+            "tech",
+            "business",
+            "science"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "162bd7c5-1d95-4fe1-a4ef-73693385e60c",
+        "title": "Ask HN: How to block ads while watching Facebook videos?",
+        "description": "",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.ycombinator.com/item?id=39404534",
+        "image_url": "https://news.ycombinator.com/y18.svg",
+        "language": "en",
+        "published_at": "2024-02-16T23:40:45.000000Z",
+        "source": "news.ycombinator.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "8ffd54a3-dad8-4954-9400-1aae324a4d5f",
+        "title": "Six in UK hospital after police find migrants in lorry",
+        "description": "International, MNA | UK police said six people had been taken to hospital, and two men arrested, after \"several people\" were found Friday in a lorry aboard a fe...",
+        "keywords": "",
+        "snippet": "UK police said six people had been taken to hospital, and two men arrested, after \u201cseveral people\u201d were found Friday in a lorry aboard a ferry in southern E...",
+        "url": "https://www.macaubusiness.com/six-in-uk-hospital-after-police-find-migrants-in-lorry/",
+        "image_url": "https://www.macaubusiness.com/wp-content/uploads/2019/03/mb-logo@2x.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:40:27.000000Z",
+        "source": "macaubusiness.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "02f4377a-37e9-4075-ba1e-eb4175c03b00",
+        "title": "Bybit Web3 Swap\u5347\u7d1a\uff1a\u8207SWFT Blockchain\u7684\u6230\u7565\u5408\u4f5c\u5e36\u4f86\u524d\u6240\u672a\u6709\u7684\u6d41\u52d5\u6027\u548c\u53ef\u53ca\u6027",
+        "description": "PR Newswire | \u963f\u806f\u914b\u8fea\u62dc2024\u5e742",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://www.macaubusiness.com/bybit-web3-swap%e5%8d%87%e7%b4%9a%ef%bc%9a%e8%88%87swft-blockchain%e7%9a%84%e6%88%b0%e7%95%a5%e5%90%88%e4%bd%9c%e5%b8%b6%e4%be%86%e5%89%8d%e6%89%80%e6%9c%aa%e6%9c%89%e7%9a%84%e6%b5%81%e5%8b%95/",
+        "image_url": "https://mma.prnewswire.com/media/2341695/Bybit_Web3_Swap_Levels_Up_Strategic_Partnership_SWFT_Blockchain_Unveils.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:40:08.000000Z",
+        "source": "macaubusiness.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "a134405d-6ffd-4e25-b8b9-f346be7ee63d",
+        "title": "Nightingale prepares for release day with pre-launch updates",
+        "description": "Nightingale is nearly ready to go",
+        "keywords": "",
+        "snippet": "Nightingale\u2019s Early Access launch day is just around the corner, and plans for numerous updates come with it. During multiple stress test sessions and hands-o...",
+        "url": "https://www.destructoid.com/nightingale-prepares-for-release-day-with-pre-launch-updates/",
+        "image_url": "https://www.destructoid.com/wp-content/uploads/2024/02/nightingale-pre-launch-update-patch-notes.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:40:03.000000Z",
+        "source": "destructoid.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "328e9a9f-1d00-4bf4-81f7-32ea28fa71f7",
+        "title": "Format PS4 and stay at 9.00?",
+        "description": "Hey\n\nCan i format / restore my PS4 to factory default and stay to 9.00? \nI want to have a virgin clean PS4 but stay at 9.00 and not updating",
+        "keywords": "",
+        "snippet": "15K views\n\nWith the overwhelmingly positive reception that Palworld has gotten the past few couple of days, the surge of mods for the game was more than expecte...",
+        "url": "https://gbatemp.net/threads/format-ps4-and-stay-at-9-00.648810/",
+        "image_url": "https://gbatemp.net/icon-512x512.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:40:00.000000Z",
+        "source": "gbatemp.net",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "5e6aa29f-12e5-412e-9b16-18bef0345452",
+        "title": "Questions about Lora",
+        "description": "I want to consult you about the following situation. I think I\u2019ve described it before but I\u2019ve not found yet a solution.\n\nMy family owns forests in a very.....",
+        "keywords": "",
+        "snippet": "I want to consult you about the following situation. I think I\u2019ve described it before but I\u2019ve not found yet a solution.\n\n\n\nMy family owns forests in a very...",
+        "url": "https://hardforum.com/threads/questions-about-lora.2033407/",
+        "image_url": "https://hardforum.com/data/assets/logo/192.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:39:45.000000Z",
+        "source": "hardforum.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "7dcfec15-5bab-4c60-95e7-35d5543a0d7a",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CCAiC2VFYkNxTlNZODhnmAEB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-02-16T23:39:17.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "sports",
+            "general",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "27d5396c-149e-406c-9449-46e773d9e8e1",
+        "title": "Stikkan",
+        "description": "This is completely fascinating. It's the story of the biggest Swedish export to the world, told through an unexpected lens. Stig Anderson [Wikipedia] was the fo...",
+        "keywords": "",
+        "snippet": "This is completely fascinating. It's the story of the biggest Swedish export to the world, told through an unexpected lens. Stig Anderson [Wikipedia] was the fo...",
+        "url": "https://www.metafilter.com/202565/Stikkan",
+        "image_url": "http://cdn.mefi.us/images/mefi/apple-touch-icon.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:39:05.000000Z",
+        "source": "metafilter.com",
+        "categories": [
+            "general",
+            "entertainment",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "cf9b893e-9912-45eb-986f-8bfb727bb07c",
+        "title": "Understanding the Gell-Mann Amnesia Effect: The Intersection of Knowledge, Media, and Belief",
+        "description": "Introduction In a world inundated with information, the Gell-Mann Amnesia effect provides a critical lens to view our interaction with media. Coined by author M...",
+        "keywords": "",
+        "snippet": "Introduction\n\nIn a world inundated with information, the Gell-Mann Amnesia effect provides a critical lens to view our interaction with media. Coined by author ...",
+        "url": "https://wmathison.substack.com/p/understanding-the-gell-mann-amnesia",
+        "image_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fwmathison.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1493631119%26version%3D9",
+        "language": "en",
+        "published_at": "2024-02-16T23:38:25.000000Z",
+        "source": "news.ycombinator.com",
+        "categories": [
+            "tech",
+            "general"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "88fb7778-6ea9-4358-b692-e6dead126705",
+        "title": "FOX Weather Launched on Two More Streaming Platforms",
+        "description": "FOX Weather, a free round-the-clock live weather service, launched on two more platforms this week. Hulu+ Live TV and TCLtv+ now host \u201cAmerica\u2019s Weather Tea...",
+        "keywords": "",
+        "snippet": "FOX Weather, a free round-the-clock live weather service, launched on two more platforms this week. Hulu+ Live TV and TCLtv+ now host \u201cAmerica\u2019s Weather Tea...",
+        "url": "https://cordcuttersnews.com/fox-weather-launched-on-two-more-streaming-platforms/",
+        "image_url": "https://cordcuttersnews.com/wp-content/uploads/2021/10/FoxWeather.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:37:42.000000Z",
+        "source": "cordcuttersnews.com",
+        "categories": [
+            "tech",
+            "entertainment"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "f2c89dc8-036c-4e15-bf25-2a6fd4b91315",
+        "title": "What Happens When You Click a URL: DNS Lookup, TCP Handshake & HTTP Request",
+        "description": "DNS\u00a0stands for\u00a0Domain Name System,\u00a0and it is a huge database where domain names are stored with their corresponding IP addresses.",
+        "keywords": "",
+        "snippet": "What Happens When You Click a URL: DNS Lookup, TCP Handshake & HTTP Request\n\nFebruary 16th 2024 New Story 3 m by @ jaypmedia",
+        "url": "https://hackernoon.com/what-happens-when-you-click-a-url-dns-lookup-tcp-handshake-and-http-request",
+        "image_url": "https://hackernoon.imgix.net/images/OvBGt46oGAcBSX3jKWMtVuNCZGh2-dh8346z.jpeg?mark-pad=0&mark=http://hackernoon.imgix.net/HackerNoon%20Rounded%20Horizontal.png?w=400",
+        "language": "en",
+        "published_at": "2024-02-16T23:37:13.000000Z",
+        "source": "github.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "932c1cbb-5b1a-4146-8509-f57e55e687bd",
+        "title": "Techmeme: Sources: Reddit signed a deal early in 2024, worth ~$60M on an annualized basis, allowing a large unnamed AI company to train its models on Reddit's content (Amy Or",
+        "description": "The essential tech news of the moment. Technology's news site of record. Not for dummies.",
+        "keywords": "",
+        "snippet": "\u2014 Sam Altman is being secretive in all the wrong places as he barrels toward superintelligent AI. \u2014 Every new OpenAI announcement sparks some measure of awe...",
+        "url": "https://www.techmeme.com/240216/p26",
+        "image_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iedZTq7oWyZ8/v0/1200x801.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:35:16.000000Z",
+        "source": "techmeme.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "5b861c33-0977-4075-8216-b216ac75f337",
+        "title": "Setanta Sports secures international Bundesliga rights",
+        "description": "Bundesliga International and Setanta Sports have agreed to an expansion of their broadcast rights partnership, which includes the renewal of 10 Eurasian markets...",
+        "keywords": "",
+        "snippet": "Bundesliga International and Setanta Sports have agreed to an expansion of their broadcast rights partnership, which includes the renewal of 10 Eurasian markets...",
+        "url": "https://www.broadbandtvnews.com/2024/02/16/setanta-sports-secures-international-bundesliga-rights/",
+        "image_url": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/02/16223911/General_BundesligaNews-Setanta-Sports.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:34:20.000000Z",
+        "source": "broadbandtvnews.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "2fc20844-2246-4b73-a242-fbdb5f302616",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmFuZHJvaWRjZW50cmFsLmNvbS9hcHBzLXNvZnR3YXJlL3NhbXN1bmctZ2FsYXh5LWFpLWJpeGJ5LWludGVncmF0aW9uLWFubm91bmNlZNIBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-02-16T23:32:47.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "377ee791-5c21-4f46-ba02-b5da0df52572",
+        "title": "Win a Free Apple HomePod from Mactrast",
+        "description": "Mactrast is hosting its first HomePod Giveaway in 2024! The Apple HomePod (2nd gen) showcases a refined design with acoustically transparent mesh fabric",
+        "keywords": "",
+        "snippet": "Mactrast is hosting its first HomePod Giveaway in 2024! The Apple HomePod (2nd gen) showcases a refined design with acoustically transparent mesh fabric and a b...",
+        "url": "https://www.mactrast.com/2024/02/homepod-giveaway-2nd-gen-from-mactrast/",
+        "image_url": "https://www.mactrast.com/wp-content/uploads/2024/02/HomePod.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:32:43.000000Z",
+        "source": "mactrast.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "34dd3a19-ceda-4fad-8969-a1e024f3fe02",
+        "title": "Amazon Rainforest Facing Drastic Collapse From 2050, Scientists Warn",
+        "description": "The Amazon rainforest is facing a barrage of pressures that might tip it into large-scale ecosystem collapse as soon as 2050, according to new research Wednesda...",
+        "keywords": "",
+        "snippet": "The Amazon rainforest is facing a barrage of pressures that might tip it into large-scale ecosystem collapse as soon as 2050, according to new research Wednesda...",
+        "url": "https://www.sciencealert.com/amazon-rainforest-facing-drastic-collapse-from-2050-scientists-warn",
+        "image_url": "https://www.sciencealert.com/images/2024/02/AmazonRainforestDissapearingBehindWildfireSmoke.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:32:01.000000Z",
+        "source": "sciencealert.com",
+        "categories": [
+            "science",
+            "tech",
+            "general"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "ba73c861-c28a-4178-a351-f28305fce102",
+        "title": "How to add daily electricity charge to energy dashboard",
+        "description": "On my monthly energy bill the electric company charges something like \u20ac0.78c for every day. \nI\u2019d like to add it that 78c charge to each of my daily running ...",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://community.home-assistant.io/t/how-to-add-daily-electricity-charge-to-energy-dashboard/691128",
+        "image_url": "https://community-assets.home-assistant.io/original/4X/c/9/d/c9d768f84dc051d5e533fe4bda9a259c6fbe28c9.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:31:56.000000Z",
+        "source": "community.home-assistant.io",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "f0c7374f-6e8f-43ae-83fe-018a5579ce47",
+        "title": "Omega's Constellation 41mm Has Meteorite Dials and New Materials",
+        "description": "Dial it in.",
+        "keywords": "",
+        "snippet": "We all know the legendary status of Omega\u2019s Speedmaster chronograph and Seamaster diver. Simply put, these are two of the most iconic wristwatches ever made a...",
+        "url": "https://hiconsumption.com/watches/omega-constellation-41mm-meteorite-collection/",
+        "image_url": "https://cdn.hiconsumption.com/wp-content/uploads/2024/02/Omega-Constellation-41mm-Meteorite-Collection-00-Hero.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:31:51.000000Z",
+        "source": "hiconsumption.com",
+        "categories": [
+            "tech",
+            "entertainment"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "1fa3ee46-1abf-4d2c-a6fa-ec17e8233eb6",
+        "title": "Arc\u2019teryx Gears up for Its First Solo Footwear Drop with the Kragg, Vertex Alpine, and Sylan",
+        "description": "Mountain-ready support with lightweight running capabilities.",
+        "keywords": "",
+        "snippet": "Arc\u2019teryx is such a legend in the outdoor space, that it may surprise you to learn that the label has never made its own in-house footwear before. Before this...",
+        "url": "https://hiconsumption.com/style/arcteryx-kragg-vertex-alpine-sylan-footwear/",
+        "image_url": "https://cdn.hiconsumption.com/wp-content/uploads/2024/02/Arcteryx-Kragg-Sylan-and-Vertex-0-Hero.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:31:28.000000Z",
+        "source": "hiconsumption.com",
+        "categories": [
+            "tech",
+            "entertainment"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "0e0cc3cb-8716-4fdd-bf16-0026f4bbe4d7",
+        "title": "OpenAI can\u2019t register \u2018GPT\u2019 as a trademark \u2014 yet",
+        "description": "The US Patent and Trademark Office says the term GPT is too broad and OpenAI registering it would prohibit competitors from using the word themselves.",
+        "keywords": "",
+        "snippet": "The US Patent and Trademark Office (PTO) has denied OpenAI\u2019s application to register the word GPT, which means generative pre-trained transformer, saying GPT ...",
+        "url": "https://www.theverge.com/2024/2/16/24075304/trademark-pto-openai-gpt-deny",
+        "image_url": "https://cdn.vox-cdn.com/thumbor/AhMKtXCq37T2-zlrZMpaO59AB2k=/0x0:1820x1213/1200x628/filters:focal(910x607:911x608)/cdn.vox-cdn.com/uploads/chorus_asset/file/24247717/lp_logo_3.0.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:30:58.000000Z",
+        "source": "theverge.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "3ba128b3-d5f3-4acb-a4d6-451ad8e9d207",
+        "title": "New custom button assignment option on Z8 (with firmware 2.0): Nikon Z Mirrorless Talk Forum: Digital Photography Review",
+        "description": "Expert news, reviews and videos of the latest digital cameras, lenses, accessories, and phones. Get answers to your questions in our photography forums.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://www.dpreview.com/forums/post/67535316",
+        "image_url": "https://www.dpreview.com/resources/favicons/apple-touch-icon.png?v=2",
+        "language": "en",
+        "published_at": "2024-02-16T23:30:33.000000Z",
+        "source": "dpreview.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "b53299db-1782-4de3-a6b1-26356bdd3abd",
+        "title": "How to Stake Openfabric AI: A Beginner\u2019s Guide",
+        "description": "Explore the fundamentals of Openfabric AI  staking and unlock the potential for secure passive income. Understand how staking works and start reaping the reward...",
+        "keywords": "",
+        "snippet": "How to Stake Openfabric AI: A Beginner\u2019s Guide Roman Fairy Meadow \u00b7 Follow 2 min read \u00b7 Just now Just now -- Listen Share\n\nIn the world of cryptocurrency, o...",
+        "url": "https://medium.com/@epukikawune1963/how-to-stake-openfabric-ai-a-beginners-guide-a498f607ed82",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*OI_kZqEm7CslgW5PeMcQTA.jpeg",
+        "language": "en",
+        "published_at": "2024-02-16T23:30:32.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "2a6323bb-6eb2-4fe0-8f83-ca0be24a0ba9",
+        "title": "How to Stake REVV: A Beginner\u2019s Guide",
+        "description": "Get started on your REVV  staking journey with this easy-to-follow guide. Learn the basics, follow the step-by-step instructions, and begin earning rewards hass...",
+        "keywords": "",
+        "snippet": "How to Stake REVV: A Beginner\u2019s Guide Osiris Pizza Vortex \u00b7 Follow 2 min read \u00b7 Just now Just now -- Listen Share\n\nIn the world of cryptocurrency, one popul...",
+        "url": "https://medium.com/@karilsearchto1979/how-to-stake-revv-a-beginners-guide-6543bac6dfb5",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*hvgeX1w-6NedWM-BvOImPA.jpeg",
+        "language": "en",
+        "published_at": "2024-02-16T23:30:30.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "acc05519-394a-43ab-ba39-16f2acd72a58",
+        "title": "How to Stake MASQ: A Beginner\u2019s Guide",
+        "description": "Get started on your MASQ  staking journey with this easy-to-follow guide. Learn the basics, follow the step-by-step instructions, and begin earning rewards hass...",
+        "keywords": "",
+        "snippet": "How to Stake MASQ: A Beginner\u2019s Guide Roman Fairy Meadow \u00b7 Follow 2 min read \u00b7 Just now Just now -- Listen Share\n\nIn the world of cryptocurrency, one popula...",
+        "url": "https://medium.com/@epukikawune1963/how-to-stake-masq-a-beginners-guide-a194706a1d50",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*ZHLgBSmbxZLw7atBjF7sMQ.jpeg",
+        "language": "en",
+        "published_at": "2024-02-16T23:30:27.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "4c3e72a0-3361-4d32-9f50-beba68bf9a16",
+        "title": "How to Stake Ferrum Network: A Beginner\u2019s Guide",
+        "description": "Understand the risks associated with Ferrum Network  staking and learn what you need to know before getting started. Explore common pitfalls and essential consi...",
+        "keywords": "",
+        "snippet": "How to Stake Ferrum Network: A Beginner\u2019s Guide Diana Orc Troll \u00b7 Follow 2 min read \u00b7 Just now Just now -- Listen Share\n\nIn the world of cryptocurrency, one...",
+        "url": "https://medium.com/@neynanondtimm1981/how-to-stake-ferrum-network-a-beginners-guide-c83dfe9e7c24",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*rjUoPg0wDbRl1NmWzARxzw.jpeg",
+        "language": "en",
+        "published_at": "2024-02-16T23:30:23.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "bd8e8b04-283e-4bf7-9563-149696185e63",
+        "title": "How to Stake NFTX: A Beginner\u2019s Guide",
+        "description": "Understand the risks associated with NFTX  staking and learn what you need to know before getting started. Explore common pitfalls and essential considerations ...",
+        "keywords": "",
+        "snippet": "How to Stake NFTX: A Beginner\u2019s Guide Galaxy Unicorn Mirage \u00b7 Follow 2 min read \u00b7 Just now Just now -- Listen Share\n\nIn the world of cryptocurrency, one pop...",
+        "url": "https://medium.com/@darubvetend1973/how-to-stake-nftx-a-beginners-guide-fb768278cfac",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*M0aKau3EdTmo4xRM4wDrUA.jpeg",
+        "language": "en",
+        "published_at": "2024-02-16T23:30:18.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "4ff00f02-531d-45c4-9ff3-7b5906135208",
+        "title": "What is Gamium staking and how does it work?",
+        "description": "Explore the advantages of Gamium  staking and understand why it's a secure source of passive income. Learn why staking Gamium  is an attractive investment oppor...",
+        "keywords": "",
+        "snippet": "What is Gamium staking and how does it work? Stream Azure Phantom \u00b7 Follow 2 min read \u00b7 Just now Just now -- Listen Share\n\nIn the world of cryptocurrency, one...",
+        "url": "https://medium.com/@dreamanalen1982/what-is-gamium-staking-and-how-does-it-work-09c2da93e9cf",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*05vHkP2yjTf5DcGJvdDtXQ.jpeg",
+        "language": "en",
+        "published_at": "2024-02-16T23:30:16.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "9f88ac06-2a77-45e9-81b5-1eee82edadc0",
+        "title": "How to Stake MainnetZ: A Beginner\u2019s Guide",
+        "description": "Navigate the landscape of MainnetZ  staking platforms with expert tips for choosing the best option. Compare features, security measures, and rewards to make an...",
+        "keywords": "",
+        "snippet": "How to Stake MainnetZ: A Beginner\u2019s Guide Diana Orc Troll \u00b7 Follow 2 min read \u00b7 Just now Just now -- Listen Share\n\nIn the world of cryptocurrency, one popul...",
+        "url": "https://medium.com/@neynanondtimm1981/how-to-stake-mainnetz-a-beginners-guide-c10a52618186",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*LDz3u7fdDu4vG-Utv8bq2Q.jpeg",
+        "language": "en",
+        "published_at": "2024-02-16T23:30:16.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "f449364e-e95b-416d-b3a0-bcfb5a73c7c6",
+        "title": "How to Stake Fuse: A Beginner\u2019s Guide",
+        "description": "Navigate the landscape of Fuse  staking platforms with expert tips for choosing the best option. Compare features, security measures, and rewards to make an inf...",
+        "keywords": "",
+        "snippet": "How to Stake Fuse: A Beginner\u2019s Guide Galaxy Unicorn Mirage \u00b7 Follow 2 min read \u00b7 Just now Just now -- Listen Share\n\nIn the world of cryptocurrency, one pop...",
+        "url": "https://medium.com/@darubvetend1973/how-to-stake-fuse-a-beginners-guide-f8c5c647bd44",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*KKghyzIRs2Xrc1ehT_sVAg.jpeg",
+        "language": "en",
+        "published_at": "2024-02-16T23:30:14.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "5eb8e260-97e7-4c56-b619-2b64fe44acad",
+        "title": "Lunar New Year-themed Custom Mechanical Keycaps ring in the \u2018Year Of The Dragon\u2019",
+        "description": "Celebrating the Chinese New Year in fitting spirit, this limited-edition mechanical keyboard comes with both QWERTY and the Standard Chinese Script... but what ...",
+        "keywords": "",
+        "snippet": "Celebrating the Chinese New Year in fitting spirit, this limited-edition mechanical keyboard comes with both QWERTY and the Standard Chinese Script\u2026 but what ...",
+        "url": "https://www.yankodesign.com/2024/02/16/lunar-new-year-themed-custom-mechanical-keycaps-ring-in-the-year-of-the-dragon/",
+        "image_url": "https://www.yankodesign.com/images/design_news/2024/02/auto-draft/drop_bobatypes_chinese_new_year_keyboard_1.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:30:12.000000Z",
+        "source": "yankodesign.com",
+        "categories": [
+            "tech",
+            "entertainment"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "4ef32b8f-7d06-446a-bfae-de916f66d546",
+        "title": "Beginner's Guide to Staking pNetwork",
+        "description": "Gain a deep understanding of pNetwork  staking and the proof-of-stake mechanisms behind it. Learn how staking contributes to network security and explore its po...",
+        "keywords": "",
+        "snippet": "Beginner's Guide to Staking pNetwork Stream Azure Phantom \u00b7 Follow 2 min read \u00b7 Just now Just now -- Listen Share\n\nIn the world of cryptocurrency, one popular...",
+        "url": "https://medium.com/@dreamanalen1982/beginners-guide-to-staking-pnetwork-8fa2d40b02cc",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*bgozsIsxVL6sbxLJEeEemQ.jpeg",
+        "language": "en",
+        "published_at": "2024-02-16T23:30:10.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "0c9c70a7-c448-4fcd-b9c5-1c29a4870eb4",
+        "title": "Apple is Working On New AI Tool for Developers That Will Rival Github's Copilot",
+        "description": "Apple is working on a new AI tool for developers that will rival Github's Copilot.",
+        "keywords": "",
+        "snippet": "Apple is working on a new AI tool for developers that will rival Github's Copilot, according to a report from Bloomberg . The tool has been in development for t...",
+        "url": "https://www.iClarified.com/92825/apple-is-working-on-new-ai-tool-for-developers-that-will-rival-githubs-copilot",
+        "image_url": "https://www.iclarified.com/images/news/92825/92825/92825-640.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:30:10.000000Z",
+        "source": "iClarified.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "d2253638-f6d5-42fc-92e2-b2d5f3653510",
+        "title": "How to Stake RFOX: A Beginner\u2019s Guide",
+        "description": "Discover the ins and outs of earning passive income through RFOX  staking with this beginner-friendly guide. Learn the step-by-step process and start securing y...",
+        "keywords": "",
+        "snippet": "How to Stake RFOX: A Beginner\u2019s Guide Diana Orc Troll \u00b7 Follow 2 min read \u00b7 Just now Just now -- Listen Share\n\nIn the world of cryptocurrency, one popular w...",
+        "url": "https://medium.com/@neynanondtimm1981/how-to-stake-rfox-a-beginners-guide-9531087e65d4",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*7Tk_RdEmqmBJq1gl0wJong.jpeg",
+        "language": "en",
+        "published_at": "2024-02-16T23:30:09.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "9a8233fa-215b-41e3-bda0-e9834b8a2650",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CCAiC0pDOF9TRlc3anlFmAEB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-02-16T23:30:04.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "a826b8fe-9250-42e7-b4ad-2cb2c7e65d1a",
+        "title": "I Finally Watched The Last Airbender, and It Wasn't Worth It",
+        "description": "After over a decade of avoiding M. Night Shyamalan's live-action adaptation of Avatar: The Last Airbender, I found it...pretty bad, but not in a special way.",
+        "keywords": "The Last Airbender, Korra, Aang, Dev Patel, Films, Avatar: The Last Airbender, Entertainment, Culture, Eragon, Zhao, Aasif Mandvi, Michael Dante DiMartino, Netflix, Harry Potter, Avatar, Sokka, The Legend of Korra, Night Shyamalan, Zuko, Bryan Konietzko, The Spiderwick Chronicles, Katara, Gizmodo",
+        "snippet": "Adaptations can be tricky, particularly when the source material is animated. More often than not, they\u2019re reviled upon reveal, because they often feel like t...",
+        "url": "https://gizmodo.com/last-airbender-avatar-movie-14-year-retrospective-1851250518",
+        "image_url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3d48db830a97a8f67612fdaed2ccaa7c.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:30:00.000000Z",
+        "source": "io9.gizmodo.com",
+        "categories": [
+            "tech",
+            "entertainment",
+            "general"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "100ca0a5-25df-497b-b2bd-c3de36c90596",
+        "title": "EZ-Flash Omega (Screwed up firmware and not booting)",
+        "description": "Hi there,\n\nI need some help as I've accidently mucked up my EZ-Flash Omega that I've owned for two years by installing the wrong firmware on it, and now...",
+        "keywords": "",
+        "snippet": "Hi there,\n\n\n\nI need some help as I've accidently mucked up my EZ-Flash Omega that I've owned for two years by installing the wrong firmware on it, and now it's ...",
+        "url": "https://gbatemp.net/threads/ez-flash-omega-screwed-up-firmware-and-not-booting.648809/",
+        "image_url": "https://gbatemp.net/icon-512x512.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:29:24.000000Z",
+        "source": "gbatemp.net",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "52f0ce77-756d-467d-8456-57052bd3b3fb",
+        "title": "NFT Insider Trading? Moonbirds Sales Spiked Before Yuga Deal Was Official",
+        "description": "A surge in sales earlier this week is fueling insider trading speculation after Yuga Labs revealed its acquisition of Proof and Moonbirds.",
+        "keywords": "",
+        "snippet": "Your Web3 Gaming Power-Up Enjoy exclusive benefits with the GG Membership Pass\n\nDecrypt\u2019s Art, Fashion, and Entertainment Hub. Discover SCENE\n\nPrices and trad...",
+        "url": "https://decrypt.co/217935/nft-insider-trading-moonbirds-yuga-labs",
+        "image_url": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/06/moonbirds-ethereum-nft-fire-head-gID_7.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:29:22.000000Z",
+        "source": "decrypt.co",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "0edb0273-c839-4579-863e-48675672572e",
+        "title": "Debian NEW package overview",
+        "description": "",
+        "keywords": "",
+        "snippet": "NOTE: Copyright is the same as cpdb-libs-tools (cpdb-libs-tools_2.0~b5-1_amd64.deb). Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/ ...",
+        "url": "https://ftp-master.debian.org/new/cpdb-libs_2.0~b5-1.html",
+        "image_url": "https://www.debian.org/favicon.ico",
+        "language": "en",
+        "published_at": "2024-02-16T23:29:17.000000Z",
+        "source": "ftp-master.debian.org",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "4cc051ec-779f-4b29-86c1-920aec3d9aff",
+        "title": "Oppenheimer, Thanksgiving on Netflix, The Iron Claw, and every new movie to watch this weekend",
+        "description": "Oppenheimer comes to streaming, along with Eli Roth\u2019s Thanksgiving on Netflix, TMNT: Mutant Mayhem, The Iron Claw on VOD, and more.",
+        "keywords": "",
+        "snippet": "Greetings, Polygon readers! Each week, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to w...",
+        "url": "https://www.polygon.com/2024/2/16/24068008/new-movies-watch-oppenheimer-netflix-thanksgiving-iron-claw",
+        "image_url": "https://cdn.vox-cdn.com/thumbor/vAXYwB2oI1ZAuHRFmYWZuy2u37A=/0x227:2000x1274/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25155562/xNWnYXaj.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:27:45.000000Z",
+        "source": "polygon.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "2f6815d1-576c-4fc1-b11c-69e9be63c008",
+        "title": "Here\u2019s What We Can Expect From the Bene Gesserit in \u2018Dune: Part Two\u2019",
+        "description": "Who exactly are the Bene Gesserit in Dune? Here are the basics.",
+        "keywords": "",
+        "snippet": "Dune: Part Two is coming soon, and the trailers give us a hint at where Jessica (Rebecca Ferguson) is heading. To understand Jessica\u2019 transformation into the ...",
+        "url": "https://www.themarysue.com/who-are-the-bene-gesserit-in-dune-part-two-jessicas-religious-order-explained/",
+        "image_url": "https://www.themarysue.com/wp-content/uploads/2023/05/Dune-Part-One-Denis-Villeneuve-Lady-Jessica-Rebecca-Ferguson.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:27:31.000000Z",
+        "source": "themarysue.com",
+        "categories": [
+            "tech",
+            "entertainment",
+            "general"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "83f23ea2-499f-41bc-9f5c-7bd915ff2296",
+        "title": "Astrophysicists Solve Mystery of \u201cDisappearing\u201d Sulfur in Planetary Nebulae",
+        "description": "Two astrophysicists from the Laboratory for Space Research (LSR) at The University of Hong Kong (HKU) have finally solved a 20-year-old astrophysical puzzle con...",
+        "keywords": "",
+        "snippet": "Two astrophysicists from the Laboratory for Space Research (LSR) at The University of Hong Kong (HKU) have finally solved a 20-year-old astrophysical puzzle con...",
+        "url": "https://scitechdaily.com/astrophysicists-solve-mystery-of-disappearing-sulfur-in-planetary-nebulae/",
+        "image_url": "https://scitechdaily.com/images/Planetary-Nebulae-PN-NGC-5189.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:27:08.000000Z",
+        "source": "scitechdaily.com",
+        "categories": [
+            "science",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "47667358-b37c-4c40-8a84-5de272571385",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LndzbHMuY29tL25ld3MvbG9jYWwvMjAyNC8wMi8xNi9hcmUtZGF0aW5nLWFwcHMtYWRkaWN0aXZlLXZpcmdpbmlhLXRlY2gtcHJvZmVzc29yLXdlaWdocy1pbi1vbi1uZXctbGF3c3VpdC_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-02-16T23:26:05.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "07424c63-f0d1-47b5-bd99-642af54dc867",
+        "title": "Defeat Clintin the Mini-Boss in Steam\u2019s New \u2018Epstein\u2019 Island Game",
+        "description": "Yes, you heard that right. There's now an",
+        "keywords": "Epstein, Windows games, Single-player video games, Andro, Bill Gites, Jefry, Gizmodo",
+        "snippet": "A new video game popped up online on Friday, swiftly capturing quite a few people\u2019s attention. The game\u2019s name? \u201cEpstein.\u201d Notably, it\u2019s set on an isl...",
+        "url": "https://gizmodo.com/jeffrey-epstein-island-video-game-steam-1851265617",
+        "image_url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/035967a82c97a3899af2126086b2d5b9.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:25:00.000000Z",
+        "source": "paleofuture.gizmodo.com",
+        "categories": [
+            "tech",
+            "entertainment",
+            "science",
+            "general"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "e80d59ee-a716-45c9-8a33-b934ebf1b7f2",
+        "title": "Ryan Whalen's TypeWryter Is a Pocket-Friendly Alternative to the Astrohaus Freewrite Traveler",
+        "description": "Designed for distraction-free writing on a budget, the TypeWryter houses a Raspberry Pi Zero 2 with a terminal-based text editor.",
+        "keywords": "",
+        "snippet": "Maker Ryan Whalen has put together a distraction-free \"digital typewriter,\" powered by a Raspberry Pi Zero 2 W and an ePaper display: the TypeWryter.\n\n\"I wanted...",
+        "url": "https://www.hackster.io/news/ryan-whalen-s-typewryter-is-a-pocket-friendly-alternative-to-the-astrohaus-freewrite-traveler-df961cc2cd0e",
+        "image_url": "https://hackster.imgix.net/uploads/attachments/1685430/_NPzMWACctw.blob?auto=compress%2Cformat&w=600&h=450&fit=min",
+        "language": "en",
+        "published_at": "2024-02-16T23:24:23.000000Z",
+        "source": "hackster.io",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "be4d2b54-f119-44c4-8565-03568e29786a",
+        "title": "A Camera So Cute We Could Just Eat It",
+        "description": "We\u2019re in love with this cake created by Hazal and Abigail that is also a completely functional camera.",
+        "keywords": "",
+        "snippet": "There has been a trend in recent years of confectionary magicians blurring the line between cakes and just about every other imaginable object. SNL\u2019s Mikey Da...",
+        "url": "https://www.hackster.io/news/a-camera-so-cute-we-could-just-eat-it-5965cf83e99e",
+        "image_url": "https://hackster.imgix.net/uploads/attachments/1685223/_qPSWocsFSK.blob?auto=compress%2Cformat&w=600&h=450&fit=min",
+        "language": "en",
+        "published_at": "2024-02-16T23:24:23.000000Z",
+        "source": "hackster.io",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "625eaf51-3e61-4ee7-ad6b-aad0d8cc372b",
+        "title": "I have questions about companies\u2019 use of biometric data. You should, too.",
+        "description": "In my state of Illinois, we have a law about companies\u2019 collection of biometric identifiers. California, Texas, New York, and Washington also passed biometric...",
+        "keywords": "",
+        "snippet": "I have questions about companies\u2019 use of biometric data. You should, too.\n\nBut companies say move along, nothing to see here. Ellen Beth Gill \u00b7 Follow 6 min ...",
+        "url": "https://ellenbethgill.medium.com/i-have-questions-about-companies-use-of-biometric-data-you-should-too-dc4383cc26cf",
+        "image_url": "https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:24:09.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "4eb1c83a-081e-4d6a-b33a-08364aadb136",
+        "title": "How To Start A Painting Business In 2024",
+        "description": "In this comprehensive guide, we will walk you through the essential steps of how to start a painting business.",
+        "keywords": "",
+        "snippet": "Are you passionate about painting and dreaming of starting your own business? Starting a painting business can be an exciting and rewarding venture. However, it...",
+        "url": "https://www.killerstartups.com/how-to-start-a-painting-business/",
+        "image_url": "https://images.killerstartups.com/wp-content/uploads/2024/02/Residential-Painting.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:24:01.000000Z",
+        "source": "killerstartups.com",
+        "categories": [
+            "business",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "1383bf27-e6e0-499b-ada5-40a6ef19cf22",
+        "title": "ICv2: Preview: 'Deapool' #1 Covers",
+        "description": "Daily coverage of the pop culture products industry, including toys (action figures, models and statues), anime (anime, manga, and Japanese imports), games (col...",
+        "keywords": "Star Wars, Star Trek, X-Men, Gundam Wing, Dragonball Z, Pokemon, Akira, Lone Wolf and Cub, Magic the Gathering, Dungeons and Dragons, Mage Knight, Superman, Spider-man, JLA, Batman, Buffy the Vampire Slayer, J.R.R. Tolkien, Sailor Moon, Sandman, Harry Potter. Genres we cover include fantasy, science fiction, horror.",
+        "snippet": "From Marvel Comics\n\nMain Cover by Taurin Clark\n\nVariant Cover by Miguel Mercado\n\nVampire Variant Cover by Javier Garr\u00f2n\n\nSaturday Morning Connecting Cover by S...",
+        "url": "https://icv2.com/articles/previews/view/56263/preview-deapool-1-covers",
+        "image_url": "https://icv2.com/images/article_thumbs/650x650_aac88170f73e43029bbec3d39db944b78c874bbd72b51b0d30a527fe.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:23:43.000000Z",
+        "source": "icv2.com",
+        "categories": [
+            "entertainment",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "beed68a3-f0e3-49bd-bd3c-75582acc1d7a",
+        "title": "Peloton Reverses Course, Will Continue to Support Apple GymKit",
+        "description": "Earlier this week, Peloton said that it would drop support for Apple's GymKit feature that syncs data to the Health app. Customers were unhappy with the...",
+        "keywords": "",
+        "snippet": "Earlier this week, Peloton said that it would drop support for Apple's GymKit feature that syncs data to the Health app. Customers were unhappy with the decisio...",
+        "url": "https://forums.macrumors.com/threads/peloton-reverses-course-will-continue-to-support-apple-gymkit.2419666/",
+        "image_url": "https://images.macrumors.com/article-new/2020/09/peloton-bike-plus-treadmill-gymkit.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:23:21.000000Z",
+        "source": "forums.macrumors.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "06f68fcb-d2d4-457e-9f20-0da662a2671a",
+        "title": "Man Defeats Air Canada in AI Chatbot Misinformation Case \u2022 iPhone in Canada Blog",
+        "description": "In what is being seen as a landmark decision, a B.C. civil resolution tribunal has ruled in favour of Jake Moffatt, a passenger who contested Air Canada's refus...",
+        "keywords": "",
+        "snippet": "In what is being seen as a landmark decision, a B.C. civil resolution tribunal has ruled in favour of Jake Moffatt, a passenger who contested Air Canada\u2019s ref...",
+        "url": "https://www.iphoneincanada.ca/2024/02/16/man-air-canada-ai-chatbot-misinformation/",
+        "image_url": "https://cdn.iphoneincanada.ca/wp-content/uploads/2017/09/iic-logo-1.svg",
+        "language": "en",
+        "published_at": "2024-02-16T23:22:23.000000Z",
+        "source": "iphoneincanada.ca",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "2754b910-d5a6-490f-8119-4fc0467152f1",
+        "title": "Air Canada ordered to pay customer who was misled by airline\u2019s chatbot",
+        "description": "Company claimed its chatbot \u2018was responsible for its own actions\u2019 when giving wrong information about bereavement fare",
+        "keywords": "",
+        "snippet": "Canada\u2019s largest airline has been ordered to pay compensation after its chatbot gave a customer inaccurate information, misleading him into buying a full-pric...",
+        "url": "https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit",
+        "image_url": "https://i.guim.co.uk/img/media/cfc9850546ec46b6cb3e2a0f49e3f95636bffea7/0_103_3097_1858/master/3097.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e15993f9aede55b4382c0eab1369ce07",
+        "language": "en",
+        "published_at": "2024-02-16T23:21:46.000000Z",
+        "source": "news.ycombinator.com",
+        "categories": [
+            "tech",
+            "general"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "9b4eed8b-c797-47a2-aff8-c065a2247e7a",
+        "title": "Microsoft Is Killing Azure IoT Central",
+        "description": "Keywords",
+        "keywords": "",
+        "snippet": "Microsoft surprised developers with news that it will kill of its Azure IoT Central, beginning in April 2024.\n\nAccording to The Register, Microsoft says develop...",
+        "url": "https://www.webpronews.com/microsoft-is-killing-azure-iot-central/",
+        "image_url": "https://www.webpronews.com/wp-content/uploads/2019/10/Azure.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:20:19.000000Z",
+        "source": "webpronews.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "f66b9f2d-d14e-4939-8371-4b6c0e25cef6",
+        "title": "Macron says recognising a Palestinian state \u2018not a taboo\u2019 for France",
+        "description": "International, MNA | President Emmanuel Macron said on Friday that recognising a Palestinian state was \"not a taboo for France\" in his first such comments since...",
+        "keywords": "",
+        "snippet": "President Emmanuel Macron said on Friday that recognising a Palestinian state was \u201cnot a taboo for France\u201d in his first such comments since the start of the...",
+        "url": "https://www.macaubusiness.com/macron-says-recognising-a-palestinian-state-not-a-taboo-for-france/",
+        "image_url": "https://www.macaubusiness.com/wp-content/uploads/2019/03/mb-logo@2x.png",
+        "language": "en",
+        "published_at": "2024-02-16T23:20:07.000000Z",
+        "source": "macaubusiness.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "f44e16be-e5c3-4b7a-9fe2-70af837987a3",
+        "title": "What\u2019s new on Kickstarter?",
+        "description": "Fjord 50-C camera backpack\u00a0\u2013 a 40L adventure photography backpack that expands to 50L. Radiant Mega Sling\u00a0\u2013 new sling bag designed for modern explorers, p...",
+        "keywords": "",
+        "snippet": "\n\nFjord 50-C camera backpack \u2013 a 40L adventure photography backpack that expands to 50L.\n\n\n\nRadiant Mega Sling \u2013 new sling bag designed for modern explorers...",
+        "url": "https://photorumors.com/2024/02/16/whats-new-on-kickstarter-11/",
+        "image_url": "https://photorumors.com/wp-content/uploads/2024/02/Radiant-Mega-Sling.jpg",
+        "language": "en",
+        "published_at": "2024-02-16T23:20:03.000000Z",
+        "source": "photorumors.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    }
+]

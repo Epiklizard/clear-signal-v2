@@ -1,0 +1,234 @@
+[
+    {
+        "date": "2024-02-01",
+        "business": 17,
+        "entertainment": 9,
+        "politics": 11,
+        "science": 37,
+        "tech": 8
+    },
+    {
+        "date": "2024-02-02",
+        "business": 21,
+        "entertainment": 6,
+        "politics": 12,
+        "science": 50,
+        "tech": 19
+    },
+    {
+        "date": "2024-02-03",
+        "business": 31,
+        "entertainment": 9,
+        "politics": 14,
+        "science": 42,
+        "tech": 21
+    },
+    {
+        "date": "2024-02-04",
+        "business": 20,
+        "entertainment": 28,
+        "politics": 14,
+        "science": 62,
+        "tech": 14
+    },
+    {
+        "date": "2024-02-05",
+        "business": 15,
+        "entertainment": 11,
+        "politics": 13,
+        "science": 33,
+        "tech": 9
+    },
+    {
+        "date": "2024-02-06",
+        "business": 17,
+        "entertainment": 12,
+        "politics": 13,
+        "science": 20,
+        "tech": 11
+    },
+    {
+        "date": "2024-02-07",
+        "business": 24,
+        "entertainment": 12,
+        "politics": 11,
+        "science": 28,
+        "tech": 13
+    },
+    {
+        "date": "2024-02-08",
+        "business": 17,
+        "entertainment": 12,
+        "politics": 23,
+        "science": 24,
+        "tech": 7
+    },
+    {
+        "date": "2024-02-09",
+        "business": 32,
+        "entertainment": 7,
+        "politics": 12,
+        "science": 36,
+        "tech": 20
+    },
+    {
+        "date": "2024-02-10",
+        "business": 38,
+        "entertainment": 12,
+        "politics": 16,
+        "science": 72,
+        "tech": 19
+    },
+    {
+        "date": "2024-02-11",
+        "business": 41,
+        "entertainment": 50,
+        "politics": 29,
+        "science": 70,
+        "tech": 36
+    },
+    {
+        "date": "2024-02-12",
+        "business": 25,
+        "entertainment": 13,
+        "politics": 16,
+        "science": 34,
+        "tech": 13
+    },
+    {
+        "date": "2024-02-13",
+        "business": 16,
+        "entertainment": 11,
+        "politics": 11,
+        "science": 26,
+        "tech": 10
+    },
+    {
+        "date": "2024-02-14",
+        "business": 14,
+        "entertainment": 9,
+        "politics": 10,
+        "science": 40,
+        "tech": 14
+    },
+    {
+        "date": "2024-02-15",
+        "business": 15,
+        "entertainment": 10,
+        "politics": 19,
+        "science": 48,
+        "tech": 16
+    },
+    {
+        "date": "2024-02-16",
+        "business": 18,
+        "entertainment": 11,
+        "politics": 18,
+        "science": 28,
+        "tech": 16
+    },
+    {
+        "date": "2024-02-17",
+        "business": 41,
+        "entertainment": 6,
+        "politics": 14,
+        "science": 62,
+        "tech": 24
+    },
+    {
+        "date": "2024-02-18",
+        "business": 33,
+        "entertainment": 15,
+        "politics": 12,
+        "science": 62,
+        "tech": 27
+    },
+    {
+        "date": "2024-02-19",
+        "business": 11,
+        "entertainment": 8,
+        "politics": 12,
+        "science": 43,
+        "tech": 12
+    },
+    {
+        "date": "2024-02-20",
+        "business": 32,
+        "entertainment": 7,
+        "politics": 17,
+        "science": 28,
+        "tech": 18
+    },
+    {
+        "date": "2024-02-21",
+        "business": 28,
+        "entertainment": 9,
+        "politics": 20,
+        "science": 23,
+        "tech": 20
+    },
+    {
+        "date": "2024-02-22",
+        "business": 14,
+        "entertainment": 11,
+        "politics": 10,
+        "science": 32,
+        "tech": 22
+    },
+    {
+        "date": "2024-02-23",
+        "business": 20,
+        "entertainment": 12,
+        "politics": 12,
+        "science": 47,
+        "tech": 17
+    },
+    {
+        "date": "2024-02-24",
+        "business": 44,
+        "entertainment": 26,
+        "politics": 18,
+        "science": 72,
+        "tech": 23
+    },
+    {
+        "date": "2024-02-25",
+        "business": 28,
+        "entertainment": 10,
+        "politics": 13,
+        "science": 62,
+        "tech": 34
+    },
+    {
+        "date": "2024-02-26",
+        "business": 11,
+        "entertainment": 15,
+        "politics": 14,
+        "science": 37,
+        "tech": 14
+    },
+    {
+        "date": "2024-02-27",
+        "business": 23,
+        "entertainment": 10,
+        "politics": 13,
+        "science": 28,
+        "tech": 10
+    },
+    {
+        "date": "2024-02-28",
+        "business": 21,
+        "entertainment": 9,
+        "politics": 16,
+        "science": 25,
+        "tech": 15
+    },
+    {
+        "date": "2024-02-29",
+        "business": 53,
+        "entertainment": 8,
+        "politics": 14,
+        "science": 35,
+        "tech": 13
+    }
+]

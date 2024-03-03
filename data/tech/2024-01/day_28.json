@@ -1,0 +1,1654 @@
+[
+    {
+        "uuid": "d7fbd3af-8b19-4365-84ce-ab225164ee08",
+        "title": "Why i am getting this error message while init the cluster?",
+        "description": "[kubelet-check] The HTTP call equal to \u2018curl -sSL http://localhost:10248/healthz\u2019 failed with error: Get \u201chttp://localhost:10248/healthz\u201d: dial tcp 127....",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://discuss.kubernetes.io/t/why-i-am-getting-this-error-message-while-init-the-cluster/26780#post_3",
+        "image_url": "https://global.discourse-cdn.com/business6/uploads/kubernetes/original/1X/9d7268f40e32b387214eab6ed73fa246ee2659de.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:59:42.000000Z",
+        "source": "discuss.kubernetes.io",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "3ad7a504-3cd1-4257-93e5-6f28dc0898ef",
+        "title": "Augmented Reality, Virtual Reality, and Mixed Reality \u2014 What You Need to Know",
+        "description": "Over the past decade, you may have familiarized yourself with the term Virtual Reality (VR) as it\u2019s come into the mainstream. Headsets like the Oculus and HTC...",
+        "keywords": "",
+        "snippet": "Augmented Reality, Virtual Reality, and Mixed Reality \u2014 What You Need to Know\n\nThese experiences are starting to make waves in the Tech world, but what exactl...",
+        "url": "https://medium.com/@anjali.sapra7/augmented-reality-virtual-reality-and-mixed-reality-what-you-need-to-know-4e6a8ae7c237",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*zMLhiDuS2XaV-21J",
+        "language": "en",
+        "published_at": "2024-01-28T23:59:28.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "bfd37be9-ee53-4296-9f71-0b436a21f332",
+        "title": "'Beekeeper' tops North American box office with $7.4M",
+        "description": "Jason Statham's action movie,",
+        "keywords": "Entertainment, Movies, Jason Statham",
+        "snippet": "Jason Statham's \"The Beekeeper\" is the No. 1 movie in North America this weekend. File Photo by Jim Ruymen/UPI | License Photo\n\nJan. 28 (UPI) -- Jason Statham's...",
+        "url": "https://www.upi.com/Entertainment_News/Movies/2024/01/28/beekeeper-box-office/1461706485618/",
+        "image_url": "https://cdnph.upi.com/sv/ph/og/upi/1461706485618/2024/1/effbfc967003d3708208d389eed8c52f/v1.5/Beekeeper-tops-North-American-box-office-with-74M.jpg",
+        "language": "en",
+        "published_at": "2024-01-28T23:58:49.000000Z",
+        "source": "upi.com",
+        "categories": [
+            "general",
+            "business",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "4674d61e-400e-4724-997b-16c2fead6885",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3dvcmxkL2phcGFuLWpvaW5zLWxpc3QtY291bnRyaWVzLXN1c3BlbmRpbmctZnVuZHMtdW5yd2EtYWxsZWdhdGlvbnMtc3RhZmZlcnMtcGFydGljaXBhdGluZ9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-28T23:58:00.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "general",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "8b61419f-819e-499b-9499-50d1f60765fe",
+        "title": "Aquarius Season- The Rebellious Humanitarian",
+        "description": "Aquarius Season begins and we move into the Fixed Air sign ruled by Uranus. The planet Uranus is lightning fast, think unexpected changes and lightening fast th...",
+        "keywords": "",
+        "snippet": "Aquarius Season- The Rebellious Humanitarian Anne M. \u00b7 Follow 6 min read \u00b7 Just now Just now -- Listen Share\n\nAquarius Season begins and we move into the Fixe...",
+        "url": "https://starlight88zodiac.medium.com/aquarius-season-the-rebellious-humanitarian-3b726317a966",
+        "image_url": "https://miro.medium.com/v2/resize:fit:281/1*_Ig1SMoMkRClWvmFqE7RYg.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:57:30.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "25de5814-ba24-4438-900e-37b2dbaf363f",
+        "title": "Altimeter Complication with Large Font?",
+        "description": "Several versions of WatchOS ago, you used to be able to set the middle complication to Altitude and it would show the altitude with large digits.\n\nIn...",
+        "keywords": "",
+        "snippet": "Several versions of WatchOS ago, you used to be able to set the middle complication to Altitude and it would show the altitude with large digits.\n\n\n\nIn current ...",
+        "url": "https://forums.macrumors.com/threads/altimeter-complication-with-large-font.2417715/",
+        "image_url": "https://images.macrumors.com/social/?t=2417715&v=6",
+        "language": "en",
+        "published_at": "2024-01-28T23:57:01.000000Z",
+        "source": "forums.macrumors.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "1092f752-b2a1-4774-992f-0a0ef2a36a5b",
+        "title": "Kubernetes Cluster setup loadbalancing",
+        "description": "We have Kubernetes cluster on-premises setup like 3 nodes, one master node and two worker nodes. \nmaster node   : 192.168.0.1 \nworker1 node : 192.168.0.2 \nworke...",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://discuss.kubernetes.io/t/kubernetes-cluster-setup-loadbalancing/26622#post_2",
+        "image_url": "https://global.discourse-cdn.com/business6/uploads/kubernetes/original/1X/9d7268f40e32b387214eab6ed73fa246ee2659de.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:56:23.000000Z",
+        "source": "discuss.kubernetes.io",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "19edbafe-b885-499d-8597-1eb2e3f11889",
+        "title": "Apple shares new Vision Pro ad just days before launch",
+        "description": "Just days from launch, Apple has dropped a new Vision Pro ad showing the mixed-reality headset being used in a variety of settings.",
+        "keywords": "Computing, Apple, mixed reality, Virtual Reality, Vision Pro, vision pro headset, Apple Inc., Apple Vision Pro, Computers, Computing, Consumer electronics, Digital media, Information appliances, Mobile computers, Software, Technology",
+        "snippet": "Hello Apple Vision Pro\n\nApple has dropped a new Vision Pro ad just a few days before the launch of the new device. You can watch it above.\n\nRecommended Videos\n\n...",
+        "url": "https://www.digitaltrends.com/computing/apple-shares-vision-pro-ad-just-days-before-launch/",
+        "image_url": "https://www.digitaltrends.com/wp-content/uploads/2024/01/vision-pro-ad.jpg?resize=1200%2C630&p=1",
+        "language": "en",
+        "published_at": "2024-01-28T23:55:41.000000Z",
+        "source": "digitaltrends.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "a9a253e5-c74d-4928-8325-0636fa909ced",
+        "title": "Page Redirection",
+        "description": "",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://www.skynettoday.com/digests/the-two-hundred-and-fifty-fourth",
+        "image_url": "",
+        "language": "en",
+        "published_at": "2024-01-28T23:55:29.000000Z",
+        "source": "skynettoday.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "60445348-ebab-4952-a737-eef4abaf0be1",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL25vcnRoLWtvcmVhLWNydWlzZS1taXNzaWxlcy1zdWJtYXJpbmUta2ltLWpvbmctdW4tZTQ0Njk1MjQ3NTllYThlODg0ZTZiNjNjNzQ3YjA2ZjLSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-28T23:55:23.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "general",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "bd87c654-6564-4f22-b28e-107afa0b4bcc",
+        "title": "Create videos with texts in seconds!",
+        "description": "The video content avalanche is upon us. Brands, influencers, even your neighbor down the street \u2013 everyone\u2019s scrambling to join the visual storytelling fies...",
+        "keywords": "",
+        "snippet": "Create videos with texts in seconds! Swave Tech \u00b7 Follow 2 min read \u00b7 Just now Just now -- Listen Share\n\nPhoto by Alan Alves on Unsplash\n\nThe video content av...",
+        "url": "https://medium.com/@SwaveTech/create-videos-with-texts-in-seconds-9c6be24dda56",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*YlPF99a1DzTKKdLgJy2rGg@2x.jpeg",
+        "language": "en",
+        "published_at": "2024-01-28T23:55:22.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "ea1a0534-e60a-48d1-b8da-8eda6a1ece21",
+        "title": "Embracing AI: Canada\u2019s Path to Tech Innovation",
+        "description": "Introduction: In the dynamic world of technology, Artificial Intelligence (AI) stands as a beacon of progress and innovation. Canada, a burgeoning hub of tech a...",
+        "keywords": "",
+        "snippet": "Embracing AI: Canada\u2019s Path to Tech Innovation\n\nThe AI Revolution in Canadian Tech Digital Edge A.i \u00b7 Follow 3 min read \u00b7 Just now Just now -- Share\n\nIntrod...",
+        "url": "https://digitaledge41.medium.com/embracing-ai-canadas-path-to-tech-innovation-76af580ef009",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1024/0*D2uJell9Zf02EAeF",
+        "language": "en",
+        "published_at": "2024-01-28T23:55:16.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "96952bf4-f8a3-4bae-9d93-c128d865c97e",
+        "title": "LibreAutomate Download: This specialized application comes with a series of purpose-fit tools and serves as an open-source automation library and C# script editor",
+        "description": "Download LibreAutomate 1.0.1 - This specialized application comes with a series of purpose-fit tools and serves as an open-source automation library and C# scri...",
+        "keywords": "LibreAutomate, download LibreAutomate, LibreAutomate free download, Automate Desktop, C# Script, Script Editor, Automate, C#, C, Script",
+        "snippet": "The benefits of automation in a broader digital context are endless, and although are quite often taken for granted, lie at the center of most operations that c...",
+        "url": "https://www.softpedia.com/get/Programming/File-Editors/LibreAutomate.shtml",
+        "image_url": "https://windows-cdn.softpedia.com/screenshots/LibreAutomate_1.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:55:01.000000Z",
+        "source": "win.softpedia.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "655c77bb-c793-44b2-acb8-c52f99944d86",
+        "title": "A DIY IoT Power Monitor",
+        "description": "An ESP32 with a current transformer sensor is used to monitor current flowing in a circuit.   On/Off events are recorded and uploaded to an FTP server.  Battery...",
+        "keywords": "",
+        "snippet": "An ESP32 with a current transformer sensor is used to monitor current flowing in a circuit. On/Off events are recorded and uploaded to an FTP server. Battery op...",
+        "url": "https://www.codeproject.com/Articles/5376215/A-DIY-IoT-Power-Monitor",
+        "image_url": "https://www.codeproject.com/KB/Articles/5376215/Thumbnail.jpg",
+        "language": "en",
+        "published_at": "2024-01-28T23:55:00.000000Z",
+        "source": "codeproject.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "1f12b5e1-81ac-47ed-96da-7998c85e1237",
+        "title": "Dragon Ball Games Battle Hour 2024 Reveals New Kakarot DLC, Out Next Month",
+        "description": "Here's your first look at 'Goku's Next Journey' - https://youtu.be/MTHshF8E3o0\nUpdate [Sun 28th Jan, 2024 23:55 GMT]:\nAt D...",
+        "keywords": "News, Dragon Ball FighterZ, Nintendo Switch, Action Adventure, Fighting, Dragon Ball Z: Kakarot + A New Power Awakens Set, RPG, Dragon Ball, Bandai Namco, US, North America, DLC, Updates, Arc System Works, CyberConnect2, Switch",
+        "snippet": "Subscribe to Nintendo Life on\n\nUpdate [Sun 28th Jan, 2024 23:55 GMT]:\n\nAt Dragon Ball Battle Hour 2024, Bandai Namco and CyberConnect2 announced the new Dragon ...",
+        "url": "https://www.nintendolife.com/news/2024/01/dragon-ball-games-battle-hour-2024-reveals-new-kakarot-dlc-out-next-month",
+        "image_url": "https://images.nintendolife.com/e21aedd5e3ff4/1280x720.jpg",
+        "language": "en",
+        "published_at": "2024-01-28T23:55:00.000000Z",
+        "source": "nintendolife.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "c1d4ca40-790d-4907-92da-9dad559d833a",
+        "title": "oto-labs/librarian: Better Bookmark Search",
+        "description": "Better Bookmark Search. Contribute to oto-labs/librarian development by creating an account on GitHub.",
+        "keywords": "",
+        "snippet": "This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.",
+        "url": "https://github.com/oto-labs/librarian",
+        "image_url": "https://opengraph.githubassets.com/ba47546dbcda55b9ddd1288ccac6305c43c3f4a8f34c8af72ab36bf76d40bf18/oto-labs/librarian",
+        "language": "en",
+        "published_at": "2024-01-28T23:54:31.000000Z",
+        "source": "news.ycombinator.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "69629672-9119-4747-91ef-64ef31ab28c2",
+        "title": "Understanding Foundational Models in Artificial Intelligence",
+        "description": "Artificial Intelligence (AI) has made significant strides over the years, transforming everything from healthcare to transportation. It\u2019s a broad field with v...",
+        "keywords": "",
+        "snippet": "Understanding Foundational Models in Artificial Intelligence Anuj Mehta \u00b7 Follow 2 min read \u00b7 Just now Just now -- Listen Share\n\nArtificial Intelligence (AI) ...",
+        "url": "https://medium.com/@anuj.mehta2015/understanding-foundational-models-in-artificial-intelligence-2b5f0e945f88",
+        "image_url": "https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:54:22.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "03f8cc3f-6012-4439-a788-2b8da0ed7610",
+        "title": "New Dragon Ball: Sparking! Zero trailer released focusing on Goku vs. Vegeta, FighterZ rollback update provided but still no date",
+        "description": "With the Dragon Ball Games Battle Hour 2024 going down this weekend, there's a lot of high energy and action flying around including some announcements.Bandai N...",
+        "keywords": "Dragon Ball Z news",
+        "snippet": "With the Dragon Ball Games Battle Hour 2024 going down this weekend, there's a lot of high energy and action flying around including some announcements.\n\nBandai...",
+        "url": "https://www.eventhubs.com/news/2024/jan/28/dragon-ball-sparking-rollback-update/",
+        "image_url": "https://media.eventhubs.com/images/2024/01/28-dragon-ball-sparking-rollback-updatet.webp",
+        "language": "en",
+        "published_at": "2024-01-28T23:54:05.000000Z",
+        "source": "eventhubs.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "07603fdf-3573-42ad-9587-cd543a93ac81",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vaW5zaWRlci1nYW1pbmcuY29tL3N0YXRlLW9mLXBsYXktamFuLTIwMjQv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-28T23:53:45.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "1497e8ae-26bf-4fbe-ae30-2e94b8ba5a49",
+        "title": "Donor countries halt funding to UN agency in Gaza",
+        "description": "International, MNA | Several key donor countries to the UN agency for Palestinian refugees have said they would halt funding following Israeli charges that some...",
+        "keywords": "",
+        "snippet": "Several key donor countries to the UN agency for Palestinian refugees have said they would halt funding following Israeli charges that some UNRWA staff took par...",
+        "url": "https://www.macaubusiness.com/donor-countries-halt-funding-to-un-agency-in-gaza/",
+        "image_url": "https://www.macaubusiness.com/wp-content/uploads/2019/03/mb-logo@2x.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:53:43.000000Z",
+        "source": "macaubusiness.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "2e36a701-8f2d-47a6-a6d4-5f8ecbf3f5e0",
+        "title": "Info-Base Download: Store and organize notes, comments or other pieces of information with this intuitive and effective personal information management tool",
+        "description": "Download Info-Base 13.0 - 28.01.2024 - Store and organize notes, comments or other pieces of information with this intuitive and effective personal information ...",
+        "keywords": "Info-Base, download Info-Base, Info-Base free download, note keeper, store note, freeform database, note, comment, research, organizer",
+        "snippet": "Info-Base is a lightweight and easy to understand software solution created to serve as a means of organizing various bits and pieces of information into severa...",
+        "url": "https://www.softpedia.com/get/Office-tools/Diary-Organizers-Calendar/Info-Base.shtml",
+        "image_url": "https://windows-cdn.softpedia.com/screenshots/Info-Base_1.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:52:01.000000Z",
+        "source": "win.softpedia.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "ffb56530-41cf-4338-b9a6-9e29fbe32b3a",
+        "title": "Who will be responsible if the AI system goes wrong?",
+        "description": "The question of associating legal liability with AI is a matter of controversy. Some argue that AI should not be held accountable due to its lack of consciousne...",
+        "keywords": "",
+        "snippet": "Who will be responsible if the AI system goes wrong? Savneet Singh \u00b7 Follow 4 min read \u00b7 Just now Just now -- Listen Share\n\nThe question of associating legal ...",
+        "url": "https://medium.com/@savusavneet_28467/who-will-be-responsible-if-the-ai-system-goes-wrong-b61a70956071",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*g2O3e9SDAM3BzB0RzHBy3Q.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:51:20.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "61818f29-0ab9-4e78-ae4b-ee739589abd1",
+        "title": "Claim Your Free GMX $GMX Tokens: Step-by-Step Guide",
+        "description": "GMX $GMX Airdrop: Unlock hidden rewards with our step-by-step guide.",
+        "keywords": "",
+        "snippet": "Claim Your Free GMX $GMX Tokens: Step-by-Step Guide Troll CheetahAzure \u00b7 Follow 6 min read \u00b7 Just now Just now -- Listen Share\n\nGet ready to dive deep into th...",
+        "url": "https://medium.com/@cingniperu1976/claim-your-free-gmx-gmx-tokens-step-by-step-guide-b3687b883b49",
+        "image_url": "https://miro.medium.com/v2/resize:fit:720/1*dW-5J8_8uB6NGDhbEcPxaQ.jpeg",
+        "language": "en",
+        "published_at": "2024-01-28T23:51:08.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "1caa6085-45d0-4d10-84ea-1045cd5a6ee3",
+        "title": "How To Get APENFT $NFT \u2014 Complete Guide",
+        "description": "Elevate your crypto game with active participation in APENFT $NFT Airdrops.",
+        "keywords": "",
+        "snippet": "How To Get APENFT $NFT \u2014 Complete Guide Troll CheetahAzure \u00b7 Follow 6 min read \u00b7 Just now Just now -- Listen Share\n\nGet ready to dive deep into the enigmati...",
+        "url": "https://medium.com/@cingniperu1976/how-to-get-apenft-nft-complete-guide-38317df5dcda",
+        "image_url": "https://miro.medium.com/v2/resize:fit:720/1*LjzyOKtGP4civy2g0hwk3g.jpeg",
+        "language": "en",
+        "published_at": "2024-01-28T23:50:57.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "3d3c4d72-08e0-4622-9ea4-5c97f3a46820",
+        "title": "The subtlety of falling short",
+        "description": "Jenny is about to watch a movie called \u201cA Knight in Shining Armor.\u201d As a fan of romantic comedies, she has high expectations based on the trailer she watche...",
+        "keywords": "",
+        "snippet": "The subtlety of falling short Amogh Mahapatra \u00b7 Follow 4 min read \u00b7 Just now Just now -- Listen Share\n\nLaughter. Subversion. Originality\n\nJenny is about to wa...",
+        "url": "https://medium.com/@amogh.mahapatra/the-subtlety-of-falling-short-f38a80672d84",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*15hxr2nUae3hahDQ_Ny7QA.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:50:48.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "93669e2b-5201-4190-ac67-de1bd4edf7d8",
+        "title": "Claiming aelf $ELF: Your Ticket to Crypto Prosperity",
+        "description": "Elevate your crypto game with active participation in aelf $ELF Airdrops.",
+        "keywords": "",
+        "snippet": "Claiming aelf $ELF: Your Ticket to Crypto Prosperity Troll CheetahAzure \u00b7 Follow 6 min read \u00b7 Just now Just now -- Listen Share\n\nGet ready to dive deep into t...",
+        "url": "https://medium.com/@cingniperu1976/claiming-aelf-elf-your-ticket-to-crypto-prosperity-429b0c59b257",
+        "image_url": "https://miro.medium.com/v2/resize:fit:720/1*veM2EGy_wLjhXE76MZbaLA.jpeg",
+        "language": "en",
+        "published_at": "2024-01-28T23:50:47.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "788d1c00-a2c3-43d5-86ed-963367c671c4",
+        "title": "Navigating the Rich Landscape of the React JS Ecosystem",
+        "description": "Welcome to the dynamic world of React JS, where innovation and evolution are the norm. Whether you\u2019re a seasoned developer or just starting out, understanding...",
+        "keywords": "",
+        "snippet": "Navigating the Rich Landscape of the React JS Ecosystem\n\nA Comprehensive Guide: Let\u2019s embark on a journey to uncover the vast possibilities within the React J...",
+        "url": "https://vinayak-hegde.medium.com/navigating-the-rich-landscape-of-the-react-js-ecosystem-fb0d632d3a7f",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*NhcE5xBKY4yPZwU1",
+        "language": "en",
+        "published_at": "2024-01-28T23:50:35.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "857042f0-5aef-4943-8b1d-73f98bf30ba0",
+        "title": "Claim Your Free Axelar $AXL Tokens: Step-by-Step Guide",
+        "description": "Axelar $AXL Airdrop: A golden opportunity to enter the world of crypto prosperity.",
+        "keywords": "",
+        "snippet": "Claim Your Free Axelar $AXL Tokens: Step-by-Step Guide Moon FutureBaron \u00b7 Follow 6 min read \u00b7 Just now Just now -- Listen Share\n\nGet ready to dive deep into t...",
+        "url": "https://medium.com/@nabjaugruniz1977/claim-your-free-axelar-axl-tokens-step-by-step-guide-3ce994bf6420",
+        "image_url": "https://miro.medium.com/v2/resize:fit:720/1*INbv7T05bunf73xELO48-Q.jpeg",
+        "language": "en",
+        "published_at": "2024-01-28T23:50:22.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "98f32bef-4b23-4bda-b243-3afee02e9cc7",
+        "title": "Pixel 6 Pro deal takes $512 off its price, making it too affordable to let go",
+        "description": "At the new lower price, the Pixel 6 Pro is a better option than recent midrangers.",
+        "keywords": "",
+        "snippet": "If you are struggling to find a phone that doesn't scream mid-range for under $400, Woot is running an unbelievably good deal on the Google Pixel 6 Pro\n\n\n\n\n\nPix...",
+        "url": "https://www.phonearena.com/news/Pixel-6-Pro-deal-takes-512-off-its-price-making-it-too-affordable-to-let-go_id154759",
+        "image_url": "https://m-cdn.phonearena.com/images/article/154759-wide-two_1200/Pixel-6-Pro-deal-takes-512-off-its-price-making-it-too-affordable-to-let-go.jpg",
+        "language": "en",
+        "published_at": "2024-01-28T23:50:13.000000Z",
+        "source": "phonearena.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "6a4dc600-aed6-4a96-b329-171008ce0779",
+        "title": "How To Get Siacoin $SC Airdrop \u2014 Complete Guide",
+        "description": "Siacoin $SC Airdrop: Your gateway to financial freedom and governance tokens.",
+        "keywords": "",
+        "snippet": "How To Get Siacoin $SC Airdrop \u2014 Complete Guide Moon FutureBaron \u00b7 Follow 6 min read \u00b7 Just now Just now -- Listen Share\n\nGet ready to dive deep into the en...",
+        "url": "https://medium.com/@nabjaugruniz1977/how-to-get-siacoin-sc-airdrop-complete-guide-d43922c31b21",
+        "image_url": "https://miro.medium.com/v2/resize:fit:720/1*yzbaBCcnRkwD_BYWxuMiXg.jpeg",
+        "language": "en",
+        "published_at": "2024-01-28T23:50:05.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "2aa613de-adc2-4a43-9151-eec00340c671",
+        "title": "Gnosis $GNO Airdrop Claim \u2014 Full Step-by-Step",
+        "description": "Discover Gnosis $GNO Airdrops and boost your crypto portfolio.",
+        "keywords": "",
+        "snippet": "Gnosis $GNO Airdrop Claim \u2014 Full Step-by-Step Moon FutureBaron \u00b7 Follow 6 min read \u00b7 Just now Just now -- Listen Share\n\nGet ready to dive deep into the enig...",
+        "url": "https://medium.com/@nabjaugruniz1977/gnosis-gno-airdrop-claim-full-step-by-step-b9657368d4f8",
+        "image_url": "https://miro.medium.com/v2/resize:fit:720/1*i-dHXg01Yb3ylkRV35Yr8Q.jpeg",
+        "language": "en",
+        "published_at": "2024-01-28T23:49:52.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "d1074629-8afb-47d7-b461-9d435a7a2e92",
+        "title": "\"Silent Subliminals Abnehmen: Effektive Gewichtsreduktion durch digitale Unterst\u00fctzung\"",
+        "description": "In der st\u00e4ndig digitalisierten Welt suchen Menschen nach innovativen Ans\u00e4tzen, um ihre Ziele zu erreichen. Eine aufstrebende Methode, die an Popularit\u00e4t gewi...",
+        "keywords": "",
+        "snippet": "\"Silent Subliminals Abnehmen: Effektive Gewichtsreduktion durch digitale Unterst\u00fctzung\"\n\nIn der st\u00e4ndig digitalisierten Welt suchen Menschen nach innovativen ...",
+        "url": "https://medium.com/@wahyuwardana73/silent-subliminals-abnehmen-effektive-gewichtsreduktion-durch-digitale-unterst%C3%BCtzung-3935b7fad382",
+        "image_url": "https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:49:36.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "7b62b518-fc17-400c-a81b-9d411fb61c6f",
+        "title": "Flash Builder Download: Convert SWF files into borderless and translucent executables with the help of this minimal yet highly effective building application",
+        "description": "Download Flash Builder 1.46 - Convert SWF files into borderless and translucent executables with the help of this minimal yet highly effective building applicat...",
+        "keywords": "Flash Builder, download Flash Builder, Flash Builder free download, Flash Builder, Flash Converter, EXE Builder, Build, Convert, Builder, Converter",
+        "snippet": "With its self-explanatory name, Flash Builder is a streamlined and easy to use application that makes it as simple as possible for you to build Windows executab...",
+        "url": "https://www.softpedia.com/get/Multimedia/Video/Encoders-Converter-DIVX-Related/Flash-Builder.shtml",
+        "image_url": "https://windows-cdn.softpedia.com/screenshots/flash-builder_1.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:49:02.000000Z",
+        "source": "win.softpedia.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "68c3fcf0-5ea3-4745-94bb-f1bb3d79af3f",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2JpZGVuLWFtZXJpY2FuLXNlcnZpY2UtbWVtYmVycy1raWxsZWQtam9yZGFuLWlyYW4tNWNiNzc0ZmQ4MzVhNTU4ZDg0MGFlOTEyNjMwMzc0ODnSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-28T23:49:00.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "general",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "cfd0d2b8-965f-42eb-8d06-7ec993d49476",
+        "title": "NSPanel(US) Blueprint version mismatch!",
+        "description": "I keep getting \u201cBlueprint version mismatch!\u201d \nI am on version 4.24 for ESPhome, TFT and Blueprint. \nWhat can I do to fix this error? \n\n[18:39:30][I][script....",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://community.home-assistant.io/t/nspanel-us-blueprint-version-mismatch/681172",
+        "image_url": "https://community-assets.home-assistant.io/original/4X/5/0/e/50e585faea85010ebb16d3d466f071ef90ec1393.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:48:17.000000Z",
+        "source": "community.home-assistant.io",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "889c3aa1-91f2-4e44-adfc-46dfe7ee7fc1",
+        "title": "Learn How To Overcome Laziness With These Two Proven Steps",
+        "description": "If you\u2019re in love and waiting for your loved one at the airport, they will be there in less than 10 minutes, and you will continuously check your watch. Try t...",
+        "keywords": "",
+        "snippet": "Overcome | Laziness| Two Steps Approach\n\nLearn How To Overcome Laziness With These Two Proven Steps\n\n1 in 4 people are lazy. Sufyan Maan, M.Eng \u00b7 Follow Publis...",
+        "url": "https://medium.com/illumination/learn-how-to-overcome-laziness-with-these-two-proven-steps-e8a234015a30",
+        "image_url": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*OG8n7yWSbS9ps6b6",
+        "language": "en",
+        "published_at": "2024-01-28T23:47:13.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "6f0f19fd-c0a4-4610-9643-98cc0e4dc6ac",
+        "title": "M4 macbook pro in 2024?",
+        "description": "Do you guys think apple will release a new macbook pro this year?",
+        "keywords": "",
+        "snippet": "You are using an out of date browser. It may not display this or other websites correctly.You should upgrade or use an alternative browser",
+        "url": "https://forums.macrumors.com/threads/m4-macbook-pro-in-2024.2417714/",
+        "image_url": "https://images.macrumors.com/social/?t=2417714&v=6",
+        "language": "en",
+        "published_at": "2024-01-28T23:46:34.000000Z",
+        "source": "forums.macrumors.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "23788b77-21f6-45fd-9245-67013d44a4a0",
+        "title": "Claim Your Sei $SEI Airdrop: Full Explanation",
+        "description": "Sei $SEI Airdrops: Claim your rewards and make a meaningful impact.",
+        "keywords": "",
+        "snippet": "Claim Your Sei $SEI Airdrop: Full Explanation Galactic RiverGalactic \u00b7 Follow 6 min read \u00b7 Just now Just now -- Listen Share\n\nGet ready to dive deep into the ...",
+        "url": "https://medium.com/@sivelica1977/claim-your-sei-sei-airdrop-full-explanation-2b99a03b6382",
+        "image_url": "https://miro.medium.com/v2/resize:fit:720/1*uz7IyW9AuC9lRFvVCHGUiw.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:46:18.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "d2cc157a-e06d-4c43-bd06-09263599803e",
+        "title": "BLACK+DECKER 1500W Oscillating Space Heater w/ Remote Control",
+        "description": "Woot!\u00a0has BLACK+DECKER 1500W Oscillating Space Heater w/ Remote Control (BHT907R) for $19.99. Shipping is free for Amazon Prime members, otherwise is $6 flat-r...",
+        "keywords": "",
+        "snippet": "Did you like this deal?\n\nYour vote will help the community find the best deals.",
+        "url": "https://slickdeals.net/f/17259778-black-decker-oscillating-space-heater-19-99-free-shipping-for-prime-members-19-99",
+        "image_url": "https://static.slickdealscdn.com/attachment/1/0/6/6/9/4/14919664.attach",
+        "language": "en",
+        "published_at": "2024-01-28T23:45:11.000000Z",
+        "source": "slickdeals.net",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "9ea5ba77-7c3c-4baf-ad37-5f79dab2b68f",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wMS8yOC8xMjI3NDg3NTcxL3BlbG9zaS1nYXphLWZiaS1jZWFzZWZpcmUtcHJvdGVzdGVycy1ydXNzaWHSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-28T23:44:32.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "sports",
+            "general",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "2782b63f-e432-4023-9755-9a76ee8f24bd",
+        "title": "Space-themed tourism takes off in Gobi Desert",
+        "description": "International, MNA | The remote and expansive Gobi Desert in northwest China is increasingly accessible to the public, thanks to the emergence of space-themed",
+        "keywords": "",
+        "snippet": "The remote and expansive Gobi Desert in northwest China is increasingly accessible to the public, thanks to the emergence of space-themed tourism, which has ope...",
+        "url": "https://www.macaubusiness.com/space-themed-tourism-takes-off-in-gobi-desert/",
+        "image_url": "https://www.macaubusiness.com/wp-content/uploads/2019/03/mb-logo@2x.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:44:31.000000Z",
+        "source": "macaubusiness.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "f6e423b5-15ef-4ab0-867b-ed0918ee5e4f",
+        "title": "GPU Compatibility List for cMP",
+        "description": "Content:\n1. Summary\n2. Information on common GPUs that can be used in cMP\n3. GPU power consumption\n4. Color compatibility\n5. Flashing nuances\n6. What to...",
+        "keywords": "",
+        "snippet": "\n\n\u200b\n\n\n\n\n\n1. Summary \u200b\n\n\"mac edition\" GPUs (were officially made to work in cMP) which are fully compatible with cMP out of the box;\n\ncompatible with cMP out...",
+        "url": "https://forums.macrumors.com/threads/gpu-compatibility-list-for-cmp.2174600/",
+        "image_url": "https://forums.macrumors.com/attachments/gpus-jpg.828897/",
+        "language": "en",
+        "published_at": "2024-01-28T23:44:24.000000Z",
+        "source": "forums.macrumors.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "2516acf6-0c21-4b8b-b3d1-6fb34a63bc4a",
+        "title": "The Last of Us 2 should not exist despite its near universal acclaim",
+        "description": "In a perfect world where hunger and poverty do not exist, Naughty Dog doesn\u2019t end up making The Last of Us Part II. In this rather unperfect world where corpo...",
+        "keywords": "The Last of Us, the last of us part 2, tlou, notebook, laptop, review, reviews, tests, test, reports, netbook, benchmarks, graphics card, processor",
+        "snippet": "In a perfect world where hunger and poverty do not exist, Naughty Dog doesn\u2019t end up making The Last of Us Part II. In this rather unperfect world where corpo...",
+        "url": "https://www.notebookcheck.net/The-Last-of-Us-2-should-not-exist-despite-its-near-universal-acclaim.797782.0.html",
+        "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc4/TLOU.jpg",
+        "language": "en",
+        "published_at": "2024-01-28T23:44:00.000000Z",
+        "source": "notebookcheck.net",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "62474e06-a099-445d-91a0-396a10103d5f",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnNpLmNvbS9jb2xsZWdlL3N5cmFjdXNlL2Jhc2tldGJhbGwvc3lyYWN1c2UtdmlyZ2luaWEtdGVjaC13YmItcmVjYXAtMDEyODI00gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-28T23:43:42.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "683bc4c5-ed01-42e9-ae1c-2e4058a08d6a",
+        "title": "Options for a self-service membership database",
+        "description": "I run a discussion group for event organizers and have a membership database, currently hosted on Airtable. Maintaining this requires more hand-work by me than ...",
+        "keywords": "",
+        "snippet": "\n\nThis is a pretty simple set-up, with one table for organizations, one for events, and one for people. Orgs are associated to events one \u21d4 many, and orgs are...",
+        "url": "https://ask.metafilter.com/378043/Options-for-a-self-service-membership-database",
+        "image_url": "http://cdn.mefi.us/images/askmefi/apple-touch-icon.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:43:27.000000Z",
+        "source": "ask.metafilter.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "1d08e124-8aaf-4108-a14a-5811060cab07",
+        "title": "Dark-Age Skeletons Uncovered With Buckets on Their Feet And Rings Around Their Necks",
+        "description": "Archaeologists discovered human remains ceremonially adorned with buckets on their feet and rings around their necks in a 1,000-year-old cemetery, reports say.",
+        "keywords": "",
+        "snippet": "Archaeologists discovered human remains ceremonially adorned with buckets on their feet and rings around their necks in a 1,000-year-old cemetery, reports say.\n...",
+        "url": "https://www.sciencealert.com/dark-age-skeletons-uncovered-with-buckets-on-their-feet-and-rings-around-their-necks",
+        "image_url": "https://www.sciencealert.com/images/2024/01/SkullRopeDarkages.jpg",
+        "language": "en",
+        "published_at": "2024-01-28T23:42:13.000000Z",
+        "source": "sciencealert.com",
+        "categories": [
+            "science",
+            "tech",
+            "general"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "2c697481-be8d-418f-9192-50df3d341ddb",
+        "title": "\u201cNext-Gen IoT: Unleashing the Potential of AI and Machine Learning for Smarter Systems\u201d",
+        "description": "The integration of Artificial Intelligence (AI) and Machine Learning (ML) into Internet of Things (IoT) systems marks a transformative step in the evolution of ...",
+        "keywords": "",
+        "snippet": "\u201cNext-Gen IoT: Unleashing the Potential of AI and Machine Learning for Smarter Systems\u201d Aniket Fasate \u00b7 Follow 6 min read \u00b7 Just now Just now -- Listen Sh...",
+        "url": "https://medium.com/@fasateaniket5/next-gen-iot-unleashing-the-potential-of-ai-and-machine-learning-for-smarter-systems-e1be7f3814d9",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*JEH_2ULbFZpfskNXX0Ypfg.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:41:49.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "ffd88f14-ba45-4e18-b9c8-4fdf70a9a34d",
+        "title": "2024 Money-Making Trio: Bitcoin Mining, CPAGrip, and AI on Fiverr \ud83d\udd25",
+        "description": "Diversify Your Earnings with Cryptocurrency, Affiliate Marketing, and AI Freelancing Opportunities",
+        "keywords": "",
+        "snippet": "Seasoned storyteller crafting tales to captivate minds and stir souls. Join me on an adventure guided by the ink of experience. \u270d\ufe0f\ud83d\udcda",
+        "url": "https://medium.com/@CerebralInkWell/2024-money-making-trio-bitcoin-mining-cpagrip-and-ai-on-fiverr-a916df843934",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*X6k1a7t_uzUn7Ln6MdtEwg@2x.jpeg",
+        "language": "en",
+        "published_at": "2024-01-28T23:41:40.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "9e522ff7-1d54-42c3-af08-fefca97e09f3",
+        "title": "Ask HN: Those who've joined a friend's startup as an employee, how did that go?",
+        "description": "",
+        "keywords": "",
+        "snippet": "While much has been said about co-founding with friends, the dynamics of joining a friend's startup as an employee aren't as widely discussed.\n\nHave you gone to...",
+        "url": "https://news.ycombinator.com/item?id=39171079",
+        "image_url": "https://news.ycombinator.com/y18.svg",
+        "language": "en",
+        "published_at": "2024-01-28T23:41:15.000000Z",
+        "source": "news.ycombinator.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "9913242d-a7f9-46c1-91ca-9a917a431cf4",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDEvMjgvdXMvcG9saXRpY3MvbmFuY3ktcGVsb3NpLWZiaS1ydXNzaWEtZ2F6YS1wcm90ZXN0ZXJzLmh0bWzSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-28T23:40:18.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "general",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "48426d5c-a415-46d2-8e87-cf0a2a0c4ce1",
+        "title": "Dhai Dubai: Stunning new light art festival featuring world-class lineup launches at Expo City Dubai",
+        "description": "PR Newswire | The inaugural event takes place at\u00a0Expo City Dubai",
+        "keywords": "",
+        "snippet": "The inaugural event takes place at Expo City Dubai from January 26 to February 4\n\nfrom The first Emirati-led light art festival features works by seven local ar...",
+        "url": "https://www.macaubusiness.com/dhai-dubai-stunning-new-light-art-festival-featuring-world-class-lineup-launches-at-expo-city-dubai/",
+        "image_url": "https://mma.prnewswire.com/media/2328175/Dhai_Dubai.jpg",
+        "language": "en",
+        "published_at": "2024-01-28T23:40:08.000000Z",
+        "source": "macaubusiness.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "1b714a37-c3a1-44ec-bfab-5eeeedd984e6",
+        "title": "Dhai Dubai\uff1a\u675c\u62dc\u4e16\u535a\u57ce\u8209\u8fa6\u4e16\u754c\u7d1a\u9663\u5bb9\u7684\u5168\u65b0\u71c8\u5149\u85dd\u8853\u7bc0",
+        "description": "PR Newswire | \u9996\u5c46\u6d3b\u52d5\u65bc 1 \u6708&nbs",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://www.macaubusiness.com/dhai-dubai%ef%bc%9a%e6%9d%9c%e6%8b%9c%e4%b8%96%e5%8d%9a%e5%9f%8e%e8%88%89%e8%be%a6%e4%b8%96%e7%95%8c%e7%b4%9a%e9%99%a3%e5%ae%b9%e7%9a%84%e5%85%a8%e6%96%b0%e7%87%88%e5%85%89%e8%97%9d%e8%a1%93%e7%af%80/",
+        "image_url": "https://mma.prnewswire.com/media/2328175/Dhai_Dubai.jpg",
+        "language": "en",
+        "published_at": "2024-01-28T23:40:01.000000Z",
+        "source": "macaubusiness.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "b8374a71-5402-46bc-a68d-c405ea19701b",
+        "title": "750m Indian mobile subscribers\u2019 info for sale on dark web",
+        "description": "ALSO: Samsung turns to Baidu for Galaxy AI in China; Terraform Labs files for bankruptcy; India's supercomputing ambitions",
+        "keywords": "",
+        "snippet": "Asia In Brief Indian infosec firm CloudSEK last week claimed it found records describing 750 million Indian mobile network subscribers on the dark web, with two...",
+        "url": "https://www.theregister.com/2024/01/28/asia_tech_news_roundup/",
+        "image_url": "https://regmedia.co.uk/2022/10/09/shutterstock_asia_map.jpg",
+        "language": "en",
+        "published_at": "2024-01-28T23:38:53.000000Z",
+        "source": "theregister.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "1d297782-6b3c-4837-8887-e3c756a12a37",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmRleGVydG8uY29tL3BhbHdvcmxkL3BhbHdvcmxkLWRhdGFtaW5lLXVuY292ZXJzLWEtbWV3dHdvLWxpa2UtcGFsLWFzLXBva2Vtb24tY29weWNhdC1zYWdhLWNvbnRpbnVlcy0yNTAyNTUyL9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-28T23:38:14.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "2634e9f7-32e1-4343-a2d6-104b44f85ff5",
+        "title": "Costco Members: HP Pavilion Desktop: Ryzen 5 5600G, 12GB RAM, 256GB SSD, 1TB HDD",
+        "description": "Costco Wholesale has for their Members: HP Pavilion Desktop (TP01-2137c) on sale for $369.99. Shipping is $14.99.\r\n\r\nThanks to Community Member bxgirl for shari...",
+        "keywords": "",
+        "snippet": "Did you like this deal?\n\nYour vote will help the community find the best deals.",
+        "url": "https://slickdeals.net/f/17259346-hp-pavilion-desktop-amd-ryzen-5-5600g-windows-11-370-reg-600-15-shipping-from-costco",
+        "image_url": "https://static.slickdealscdn.com/attachment/1/5/4/0/0/9/2/14917477.attach",
+        "language": "en",
+        "published_at": "2024-01-28T23:38:03.000000Z",
+        "source": "slickdeals.net",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "fd0ba009-8baa-41e1-acc5-f1bf70b3f6c9",
+        "title": "A GenAI Platform Build",
+        "description": "I wanted a PC platform to support my upskilling efforts in generative AI, machine learning and natural language processing. Finding one that met my needs took m...",
+        "keywords": "",
+        "snippet": "A GenAI Platform Build Chris Vitalos \u00b7 Follow 6 min read \u00b7 Just now Just now -- Listen Share\n\nTinyLlama \u2014 a small yet effective open source LLM model\n\nI wan...",
+        "url": "https://medium.com/@chrisvitalos/a-genai-platform-build-f6e709bcc7ee",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1200/0*VIQcJLBReI0v3GQZ.jpg",
+        "language": "en",
+        "published_at": "2024-01-28T23:36:40.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "e61eeb6f-7222-49bf-be3f-164cd7c4efda",
+        "title": "DRAGON BALL: Sparking! ZERO just got a new cool gameplay trailer",
+        "description": "Bandai Namco released a new cool gameplay trailer for its upcoming Unreal Engine 5-powered fighting game, DRAGON BALL: Sparking! ZERO.",
+        "keywords": "",
+        "snippet": "Bandai Namco has just released a new cool gameplay trailer for its upcoming Unreal Engine 5-powered fighting game, DRAGON BALL: Sparking! ZERO. For those unawar...",
+        "url": "https://www.dsogaming.com/videotrailer-news/dragon-ball-sparking-zero-just-got-a-new-cool-gameplay-trailer/",
+        "image_url": "https://www.dsogaming.com/wp-content/uploads/2023/12/DRAGON-BALL-Sparking-ZERO-feature-scaled.jpg",
+        "language": "en",
+        "published_at": "2024-01-28T23:36:40.000000Z",
+        "source": "dsogaming.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "d9905907-c9af-4676-bd68-68554d0c6eaa",
+        "title": "Lessons from sleeplessness: The 60th anniversary of Randy Gardner's world record",
+        "description": "Sixty years ago, 17-year-old Randy Gardner broke a Guinness world record by staying awake for 11 consecutive days. His experiment is one of the most well-docume...",
+        "keywords": "",
+        "snippet": "Lessons from sleeplessness: The 60th anniversary of Randy Gardner's world record\n\nEnlarge this image toggle caption Don Cravens/Getty Images Don Cravens/Getty I...",
+        "url": "https://www.npr.org/2024/01/28/1227217274/sleep-deprivation-record",
+        "image_url": "https://media.npr.org/assets/img/2024/01/26/gettyimages-50962431_wide-26b75290c4503c6b4bfa844e2213869f3b2e1925-s1400-c100.jpg",
+        "language": "en",
+        "published_at": "2024-01-28T23:36:04.000000Z",
+        "source": "npr.org",
+        "categories": [
+            "science",
+            "general",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "3d203f85-1791-4628-aed8-e83283a6b728",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vdHJ1dGhiZXRvbGQubmV3cy8yMDI0LzAxL2V4cGVydHMtc2Vlay10by1kaXZlcnNpZnktdGVjaC1pbmR1c3RyeS_SAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-28T23:35:51.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "70f6d236-55a4-4a37-a5b1-0206e2554be3",
+        "title": "Biden Administration to implement new AI regulations on tech companies",
+        "description": "Biden Administration to implement new AI regulations on tech companies - SiliconANGLE",
+        "keywords": "Duncan Riley, SiliconANGLE, Biden Administration to implement new AI regulations on tech companies",
+        "snippet": "",
+        "url": "https://siliconangle.com/2024/01/28/biden-administration-implement-new-ai-regulations-tech-companies/",
+        "image_url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/whitehousecybersummit.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:35:09.000000Z",
+        "source": "siliconangle.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "a6ef571a-2385-45a1-915f-dc2530ed5054",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vc2lsaWNvbmFuZ2xlLmNvbS8yMDI0LzAxLzI4L2JpZGVuLWFkbWluaXN0cmF0aW9uLWltcGxlbWVudC1uZXctYWktcmVndWxhdGlvbnMtdGVjaC1jb21wYW5pZXMv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-28T23:35:09.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "d7de128c-a159-4503-9bdc-352ff009f990",
+        "title": "Variables and Templates, bug or expected anomaly?",
+        "description": "Why do these two scripts give different outputs? \nsequence:\n  - variables:\n      tab: >\n        {{ '\\n' }}{{ '{:>5}'.format('- ') }}\n\n  - service: notify.my_fil...",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://community.home-assistant.io/t/variables-and-templates-bug-or-expected-anomaly/681170",
+        "image_url": "https://community-assets.home-assistant.io/original/4X/5/0/e/50e585faea85010ebb16d3d466f071ef90ec1393.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:35:07.000000Z",
+        "source": "community.home-assistant.io",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "c3a434fd-86a2-4a98-a8ac-3d34c0afca2d",
+        "title": "Ol\u00e1 pessoal, como est\u00e3o?",
+        "description": "Ol\u00e1 pessoal, como est\u00e3o? Hoje trago uma maneira interessante de aprender a desenvolver um projeto em React, ampliando suas funcionalidades com outras bibliote...",
+        "keywords": "",
+        "snippet": "Ol\u00e1 pessoal, como est\u00e3o? Hoje trago uma maneira interessante de aprender a desenvolver um projeto em React, ampliando suas funcionalidades com outras bibliote...",
+        "url": "https://medium.com/@andrelaurentinomg/ol%C3%A1-pessoal-como-est%C3%A3o-85c4d27a3309",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*jfn6yVvEIkjYog67rFO8HA.jpeg",
+        "language": "en",
+        "published_at": "2024-01-28T23:34:53.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "9d1c20aa-d8b7-49f3-8a2f-0955ee54860a",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnNpLmNvbS9jb2xsZWdlL3RjdS9iYXNrZXRiYWxsL3RjdS1iYXNrZXRiYWxsLWtub3cteW91ci1mb2UtdGV4YXMtdGVjaHMtcG9wLWlzYWFjc9IBAA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-28T23:34:07.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "1104c354-6ff5-4ddf-88a2-f55439ef71c3",
+        "title": "MIDI2LR Download: Edit your photo albums in Lightroom 6+ using the knobs and buttons of any type of MIDI controller with this interesting software solution",
+        "description": "Download MIDI2LR 6.0.2.0 - Edit your photo albums in Lightroom 6+ using the knobs and buttons of any type of MIDI controller with this interesting software solu...",
+        "keywords": "MIDI2LR, download MIDI2LR, MIDI2LR free download, MIDI to LR, MIDI controller, MIDI output, MIDI, controller, input, plugin",
+        "snippet": "If you need to edit entire collections of photos, then there is a good chance that you intend to use an advanced software application, such as Lightroom 6, Core...",
+        "url": "https://www.softpedia.com/get/Multimedia/Audio/Other-AUDIO-Tools/MIDI2LR.shtml",
+        "image_url": "https://windows-cdn.softpedia.com/screenshots/MIDI2LR_3.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:33:42.000000Z",
+        "source": "win.softpedia.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "e52f1615-b29d-4f8e-b9e0-686274220ea7",
+        "title": "Create A to Z structure under TV and Film",
+        "description": "",
+        "keywords": "",
+        "snippet": "Note that I don't want Shortcut Solutions!\n\nKodi Skin : Confluence\n\n4 Sources - both on separate NAS boxes -\n\none NAS is Films, the other, TV and the TV NAS fol...",
+        "url": "https://forum.kodi.tv/showthread.php?tid=376096",
+        "image_url": "https://forum.kodi.tv/images/default_avatar.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:33:40.000000Z",
+        "source": "forum.kodi.tv",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "34780c35-70cb-4601-8c4a-1019c2381cdf",
+        "title": "2-Pack Ryobi ONE+ Tool Nylon Strap Lanyards (Factory Blemished)",
+        "description": "Direct Tools Outlet has 2-Pack Ryobi ONE+ Tool Nylon Strap Lanyards (Factory Blemished, P922) on sale for $5.40. Shipping is free with promo code JANFREESHIP.\r\n...",
+        "keywords": "",
+        "snippet": "The Ryobi Tool Lanyard is on sale from Direct Tools Outlet. The lanyard rarely goes on sale at Home Depot, and with free shipping with code JANFREESHIP, this is...",
+        "url": "https://slickdeals.net/f/17260291-ryobi-tool-lanyard-40-off-with-free-shipping",
+        "image_url": "https://static.slickdealscdn.com/attachment/6/5/0/1/3/14918869.attach",
+        "language": "en",
+        "published_at": "2024-01-28T23:32:37.000000Z",
+        "source": "slickdeals.net",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "6ef13f38-9636-4871-9089-1f67f96f2c59",
+        "title": "OLED boots straight to OFW 1/20 times",
+        "description": "Hello,\n\nI've modded an OLED switch with pico rp2040 board ready to solder, everything went well.\nEverything is okay, but i tried like 100 boots for...",
+        "keywords": "",
+        "snippet": "Hello,\n\n\n\nI've modded an OLED switch with pico rp2040 board ready to solder, everything went well.\n\nEverything is okay, but i tried like 100 boots for training,...",
+        "url": "https://gbatemp.net/threads/oled-boots-straight-to-ofw-1-20-times.647106/",
+        "image_url": "https://gbatemp.net/icon-512x512.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:32:28.000000Z",
+        "source": "gbatemp.net",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "f5b274fd-7869-4a2d-92d4-17b96204958c",
+        "title": "What are some great questions kids have asked you?",
+        "description": "",
+        "keywords": "",
+        "snippet": "I was in the car with my 8 year old today and out of nowhere he asked me could all the people in the world fit in Ireland. I thought it was a great question. I ...",
+        "url": "https://news.ycombinator.com/item?id=39170993",
+        "image_url": "https://news.ycombinator.com/y18.svg",
+        "language": "en",
+        "published_at": "2024-01-28T23:31:52.000000Z",
+        "source": "news.ycombinator.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "59d4d217-b00b-4f70-b348-666cf9452f14",
+        "title": "Will AI help humans beat aging and be forever young?",
+        "description": "Yes, artificial intelligence (AI) will help humans beat aging. Aging is the cumulative impact of DNA damages and errors accumulated over time. AI will monitor D...",
+        "keywords": "",
+        "snippet": "Will AI help humans beat aging and be forever young? Creatix Medium \u00b7 Follow 16 min read \u00b7 Just now Just now -- Listen Share\n\nJanuary 28, 2024\n\nCreatix, be cr...",
+        "url": "https://medium.com/@creatix/will-ai-help-humans-beat-aging-and-be-f07a8a30f237",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1024/1*aGTF84s_6ngON6eAcW7LRg.jpeg",
+        "language": "en",
+        "published_at": "2024-01-28T23:31:25.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "330f343b-b6f4-45c1-9fb6-a4cee087df2c",
+        "title": "Apple Shares New 'Hello Apple Vision Pro' Ad [Video]",
+        "description": "Apple has posted a new ad for its Vision Pro headset entitled, 'Hello Apple Vision Pro'.",
+        "keywords": "",
+        "snippet": "Apple has posted a new ad for its Vision Pro headset entitled, 'Hello Apple Vision Pro'.The Apple Vision Pro headset went up for pre-order on January 19 and wil...",
+        "url": "https://www.iClarified.com/92665/apple-shares-new-hello-apple-vision-pro-ad-video",
+        "image_url": "https://www.iclarified.com/images/news/92665/92665/92665-640.jpg",
+        "language": "en",
+        "published_at": "2024-01-28T23:31:00.000000Z",
+        "source": "iClarified.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "6a14ba5a-dc8f-4a12-b91d-61b7ccd9fe7b",
+        "title": "Warframe's Next Update 'Dante Unbound' Launches This March",
+        "description": "Gauss Prime access available now - \nFollowing a cross-platform save update last month, Warframe developer...",
+        "keywords": "News, Warframe, Nintendo Switch, Action Adventure, FPS/Shooter, RPG, Switch eShop, Updates, Digital Extremes, Panic Button",
+        "snippet": "Following a cross-platform save update last month, Warframe developer Digital Extremes has now announced its next update for the free-to-play Dante Unbound will...",
+        "url": "https://www.nintendolife.com/news/2024/01/warframes-next-update-dante-unbound-launches-this-march",
+        "image_url": "https://images.nintendolife.com/4a9777d86fbaf/1280x720.jpg",
+        "language": "en",
+        "published_at": "2024-01-28T23:30:00.000000Z",
+        "source": "nintendolife.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "d1964164-336c-4b2f-b2a4-db466e9a4050",
+        "title": "$60,000 Louis Vuitton x Timberland Boot is Deadass Serious With 18K Gold Details",
+        "description": "This rather ridiculous $60,000 'highly limited-edition' Louis Vuitton x Timberland 6-inch boot is finished with real 18K gold details.",
+        "keywords": "",
+        "snippet": "Sneakers & Shoes $60,000 Louis Vuitton x Timberland Boot is Deadass Serious With 18K Gold Details By Ben McKimm - News Copy Link Share Share this on Facebook Fa...",
+        "url": "https://manofmany.com/fashion/sneakers/louis-vuitton-x-timberland-gold-boot",
+        "image_url": "https://manofmany.com/wp-content/uploads/2024/01/Louis-Vuitton-x-Timberland-Gold-in-hand.jpg",
+        "language": "en",
+        "published_at": "2024-01-28T23:29:50.000000Z",
+        "source": "manofmany.com",
+        "categories": [
+            "entertainment",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "6d2feff3-d98e-4350-afc8-82b606cf27eb",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMiLmh0dHA6Ly93d3cuZXNwbi5jb20vbmN3L3JlY2FwP2dhbWVJZD00MDE2MDM5OTPSAQA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-28T23:29:46.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "f9bfeb02-21e0-4b13-adde-c26a0c278b21",
+        "title": "AI in the Fast Lane: Predicting F1 With PyTorch",
+        "description": "Olivia knocked on the door of Liam\u2019s apartment, expecting to be greeted by his usual exuberant energy. However, she found him in a rather somber mood when the...",
+        "keywords": "",
+        "snippet": "AI in the Fast Lane: Predicting F1 With PyTorch\n\nDecoding motorsport dynamics with Machine Learning Patrick Kalkman \u00b7 Follow Published in ITNEXT \u00b7 18 min read...",
+        "url": "https://itnext.io/ai-in-the-fast-lane-predicting-f1-with-pytorch-6b844df7e79e?gi=20d4a3ca4d12&source=rss------deep_learning-5",
+        "image_url": "https://miro.medium.com/v2/resize:fit:1200/1*V9QL6RZ1hZdLNODA8sXEZA.jpeg",
+        "language": "en",
+        "published_at": "2024-01-28T23:29:40.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "0f0282ee-049f-4d2e-9596-2dd3e7fbf558",
+        "title": "GearWrench 10-Way Slide Hammer Puller Set",
+        "description": "Amazon has GearWrench 10-Way Slide Hammer Puller Set (41700D) on sale for $60.51. Shipping is free.\r\n\r\nThanks to Community Member racebum for sharing this deal....",
+        "keywords": "",
+        "snippet": "Don't have Amazon Prime? Students can get a free 6-Month Amazon Prime trial with free 2-day shipping, unlimited video streaming & more. If you're not a student,...",
+        "url": "https://slickdeals.net/f/17260576-gearwrench-10-way-slide-hammer-puller-set-41700d-60-51",
+        "image_url": "https://static.slickdealscdn.com/attachment/1/7/4/4/2/6/0/14919388.attach",
+        "language": "en",
+        "published_at": "2024-01-28T23:29:26.000000Z",
+        "source": "slickdeals.net",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "7f18f6fb-5cdf-4c5f-adf1-21e0a77b28a5",
+        "title": "RestoreWindowPos Download: A handy tool that can restore windows to their last known positions on that display whenever you are connecting or disconnecting additional displays",
+        "description": "Download RestoreWindowPos 0.20.1 - A handy tool that can restore windows to their last known positions on that display whenever you are connecting or disconnect...",
+        "keywords": "RestoreWindowPos, download RestoreWindowPos, RestoreWindowPos free download, restore desktop, dektop restoration, restore window, restore, snapshot, monitor, desktop",
+        "snippet": "If you are using multiple monitors that you need to connect and disconnect, then chances are that you experienced the unpleasant situation when all your windows...",
+        "url": "https://www.softpedia.com/get/Tweak/System-Tweak/RestoreWindowPos.shtml",
+        "image_url": "https://windows-cdn.softpedia.com/screenshots/RestoreWindowPos_2.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:29:02.000000Z",
+        "source": "win.softpedia.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "637a7a1f-676f-415c-bc00-1cdd69f94cfe",
+        "title": "Dow Jones Futures Fall; Microsoft Leads Huge Wave Of Tech Earnings",
+        "description": "The stock market rally is right at highs, but Apple and Microsoft lead a massive earnings wave this coming week, along with the Fed meeting.",
+        "keywords": "",
+        "snippet": "The stock market rally is right at highs, but Apple and Microsoft lead a massive earnings wave this coming week, along with the Fed meeting.",
+        "url": "https://finance.yahoo.com/m/6d4f2560-a67a-3f79-bd51-03f8adf7b162/dow-jones-futures-fall%3B.html?.tsrc=rss",
+        "image_url": "https://media.zenfs.com/en/ibd.com/ec8365e261a0dfa9375d79fafac86ffa",
+        "language": "en",
+        "published_at": "2024-01-28T23:29:01.000000Z",
+        "source": "finance.yahoo.com",
+        "categories": [
+            "business",
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "58e46cb7-c693-4864-8fc1-c4dc3d8e4f78",
+        "title": "WTB Intel Core 2 Quad processor",
+        "description": "Wtb the following.\n\n1) Working condition socket 775 Intel Core 2 Quad processor\nWith the following numbers:\nQ8400, Q8400S\nQ9400, Q9400S, Q9500, Q9505...",
+        "keywords": "",
+        "snippet": "Special Events Tech Show Central\n\nInfoTech Clinics Hardware Clinic Hardware Clinic Knowledge Base Personal Projects and Reviews Den Notebook Clinic The Tablet D...",
+        "url": "https://forums.hardwarezone.com.sg/threads/wtb-intel-core-2-quad-processor.6987392/",
+        "image_url": "https://assets.hardwarezone.com/logo/hwz-logo-1280.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:28:51.000000Z",
+        "source": "forums.hardwarezone.com.sg",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "411cd262-b572-4092-85ba-6cf44d988145",
+        "title": "Two AppCleaner.app files??",
+        "description": "Two AppCleaner.app files?!\n\nHi all,\n\nSo I have AppCleaner installed, has been for a while but today I noticed one [AppCleaner.app](https://AppCleaner.app)...",
+        "keywords": "",
+        "snippet": "Two AppCleaner.app files?!Hi all,So I have AppCleaner installed, has been for a while but today I noticed one [AppCleaner.app](https://AppCleaner.app) on my usr...",
+        "url": "https://forums.macrumors.com/threads/two-appcleaner-app-files.2417713/",
+        "image_url": "https://forums.macrumors.com/attachments/6suryrupf8fc1-png.2342351/",
+        "language": "en",
+        "published_at": "2024-01-28T23:28:40.000000Z",
+        "source": "forums.macrumors.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "97912447-c2b3-4e2c-9858-e9542f35e555",
+        "title": "Apple Vision Pro says 'Hello' in new ad spot",
+        "description": "Apple has released a new ad for the Apple Vision Pro on its official YouTube channel, showing the various ways that the headset can incorporate spatial computin...",
+        "keywords": "Apple, Apple Inc, iPhone, iPad, iPod touch, iPod nano, Apple TV, Apple, iPod shuffle, iphone 6, iphone 6s, ios 9, ios9, iTunes, i mac, mac os x, mac osx, Apple Computer, Apple Computer Inc., Mac OS X, iMac, iBook, Mac Pro, MacBook Pro, Magic Pad, Magic Mouse, iPod classic, App Store, iTunes Store, iBook Store, mac book, Microsoft, Adobe, Research in Motion, RIM, Nokia, Samsung, Google, Nvidia, Intel",
+        "snippet": "If you buy through our links, we may get a commission. Read our ethics policy\n\n'Hello Apple Vision Pro' ad spot\n\nApple has released a new ad for the Apple Visio...",
+        "url": "https://appleinsider.com/articles/24/01/28/apple-vision-pro-says-hello-in-new-ad-spot",
+        "image_url": "https://photos5.appleinsider.com/gallery/58337-118893-apple-vision-pro-ad-xl.jpg",
+        "language": "en",
+        "published_at": "2024-01-28T23:28:06.000000Z",
+        "source": "appleinsider.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "2ae3c950-55b2-4202-a6a1-14941da15a92",
+        "title": "When Non-member > Member... Brussels threatens to hit Hungary\u2019s economy if PM Viktor Orban veto EU's Ukraine aid - Financial Times",
+        "description": "If hit too much later Hungary economy collapse, EU still have to help them, no?\n\n:s13:",
+        "keywords": "",
+        "snippet": "Special Events Tech Show Central\n\nInfoTech Clinics Hardware Clinic Hardware Clinic Knowledge Base Personal Projects and Reviews Den Notebook Clinic The Tablet D...",
+        "url": "https://forums.hardwarezone.com.sg/threads/when-non-member-member-brussels-threatens-to-hit-hungarys-economy-if-pm-viktor-orban-veto-eus-ukraine-aid-financial-times.6995364/",
+        "image_url": "https://assets.hardwarezone.com/logo/hwz-logo-1280.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:27:37.000000Z",
+        "source": "forums.hardwarezone.com.sg",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "7246a6cc-45da-4440-b8de-15cc6edf7bfa",
+        "title": "1-Year Quicken Classic Subscription (Windows/Mac): Business $57, Deluxe",
+        "description": "Newegg has 1-Year Quicken Classic Subscription (Windows/Mac, various editions) on sale for prices listed below. Shipping is free.\r\n\r\nThanks to Community Members...",
+        "keywords": "",
+        "snippet": "Did you like this deal?\n\nYour vote will help the community find the best deals.",
+        "url": "https://slickdeals.net/f/17260402-quicken-classic-deluxe-1-year-subscription-32-at-newegg",
+        "image_url": "https://static.slickdealscdn.com/attachment/3/0/3/6/3/4/6/14919553.attach",
+        "language": "en",
+        "published_at": "2024-01-28T23:26:39.000000Z",
+        "source": "slickdeals.net",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "544078de-5548-4b14-b3c5-cd08fc2dc072",
+        "title": "Google News",
+        "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "keywords": "",
+        "snippet": "",
+        "url": "https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vZ2FtZXJhbnQuY29tL3BsYXlzdGF0aW9uLXN0YXRlLW9mLXBsYXktamFudWFyeS0yMDI0LXJ1bW9yLWxlYWsv0gEA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+        "language": "en",
+        "published_at": "2024-01-28T23:26:00.000000Z",
+        "source": "news.google.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "d9d9e2db-ba7a-4eb8-b274-6c354aaef425",
+        "title": "Setting Up TLS on a Kubernetes LoadBalancer with AWS EKS",
+        "description": "Objective: Secure your Kubernetes (K8s) applications by setting up Transport Layer Security (TLS) on a LoadBalancer within AWS Elastic Kubernetes Service (EKS)....",
+        "keywords": "",
+        "snippet": "Index\n\nWhat is Kubernetes Controller and how they will help us for our task Creating an ACM Certificate in AWS. Setting Up a Nginx Service which we will access ...",
+        "url": "https://medium.com/@shivam.riky/setting-up-tls-on-a-kubernetes-loadbalancer-with-aws-eks-001649bebd8f",
+        "image_url": "https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:26:00.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "4d5eec7a-cf59-46fc-9de9-bbda6a991239",
+        "title": "Apple Says 'Hello' to Vision Pro in New Ad as Headset Nears Launch",
+        "description": "Apple today promoted the Vision Pro in a new video ad shared on its YouTube channel, ahead of the headset launching in the U.S. this Friday, February 2...",
+        "keywords": "",
+        "snippet": "This only tells me that not even Apple knows what it\u2019s supposed to solve like so far it just seems like another passive consuming device, ironically lacking i...",
+        "url": "https://forums.macrumors.com/threads/apple-says-hello-to-vision-pro-in-new-ad-as-headset-nears-launch.2417710/",
+        "image_url": "https://images.macrumors.com/social/?t=2417710&v=6",
+        "language": "en",
+        "published_at": "2024-01-28T23:25:10.000000Z",
+        "source": "forums.macrumors.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "92ec4c64-6a7e-4a51-b1b5-be1e75a4a9a2",
+        "title": "'Landmark Discovery': Hubble Detects Water Vapor in Smallest Exoplanet to Date",
+        "description": "The Hubble Space Telescope has observed the smallest planet outside our solar system to contain water vapor in its atmosphere, a \"landmark discovery\" that bring...",
+        "keywords": "",
+        "snippet": "The Hubble Space Telescope has observed the smallest planet outside our solar system to contain water vapor in its atmosphere, a \"landmark discovery\" that bring...",
+        "url": "https://www.sciencealert.com/landmark-discovery-hubble-detects-water-vapor-in-smallest-exoplanet-to-date",
+        "image_url": "https://www.sciencealert.com/images/2024/01/WaterVaporHubble.jpg",
+        "language": "en",
+        "published_at": "2024-01-28T23:24:53.000000Z",
+        "source": "sciencealert.com",
+        "categories": [
+            "science",
+            "tech",
+            "general"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "83d08280-39bb-4589-a036-11c9137da5ca",
+        "title": "If upcoming GE Oppy say \"PAP will raise GST after ur elections again\". what will PAP reply?",
+        "description": "acherli 10% easier to count rehs",
+        "keywords": "",
+        "snippet": "Knowing sinkie, they will still gif them mandate. All kiasu, kiasee one. Will think without them whole country will die. But they wil never open their eyes to s...",
+        "url": "https://forums.hardwarezone.com.sg/threads/if-upcoming-ge-oppy-say-pap-will-raise-gst-after-ur-elections-again-what-will-pap-reply.6995298/",
+        "image_url": "https://assets.hardwarezone.com/logo/hwz-logo-1280.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:24:52.000000Z",
+        "source": "forums.hardwarezone.com.sg",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "44c2cd03-8766-40e3-8ea6-4e62d3746268",
+        "title": "Singaporean teen who identified as white supremacist placed under ISA restrictions for far-right extremism",
+        "description": "Singaporean, 16, under ISA restriction order after being radicalised...",
+        "keywords": "",
+        "snippet": "16 is the age of stupidity.Normally these \"white supremacists\" overseas are known to be provocateurs from law enforcement whosejob is to entrap people by playin...",
+        "url": "https://forums.hardwarezone.com.sg/threads/singaporean-teen-who-identified-as-white-supremacist-placed-under-isa-restrictions-for-far-right-extremism.6993811/",
+        "image_url": "https://assets.hardwarezone.com/logo/hwz-logo-1280.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:24:49.000000Z",
+        "source": "forums.hardwarezone.com.sg",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "8411f880-7fc2-4efd-997d-a228189aff75",
+        "title": "Balance of loans in Shanghai up 7.3 pct at end of December 2023",
+        "description": "China, MNA | The balance of loans in Shanghai, including all currencies, rose 7.3 percent year on year at the end of December 2023 to 11.18 trillion yuan",
+        "keywords": "",
+        "snippet": "The balance of loans in Shanghai, including all currencies, rose 7.3 percent year on year at the end of December 2023 to 11.18 trillion yuan (about 1.57 trillio...",
+        "url": "https://www.macaubusiness.com/balance-of-loans-in-shanghai-up-7-3-pct-at-end-of-december-2023/",
+        "image_url": "https://www.macaubusiness.com/wp-content/uploads/2019/03/mb-logo@2x.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:24:47.000000Z",
+        "source": "macaubusiness.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "9fe71b68-c59b-40f3-af33-07adf7aba41e",
+        "title": "Bruno Mars Live in Singapore didn't get sold out",
+        "description": "Still able to get standing pen tickets. lol",
+        "keywords": "",
+        "snippet": "Special Events Tech Show Central\n\nInfoTech Clinics Hardware Clinic Hardware Clinic Knowledge Base Personal Projects and Reviews Den Notebook Clinic The Tablet D...",
+        "url": "https://forums.hardwarezone.com.sg/threads/bruno-mars-live-in-singapore-didnt-get-sold-out.6995365/",
+        "image_url": "https://assets.hardwarezone.com/logo/hwz-logo-1280.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:24:39.000000Z",
+        "source": "forums.hardwarezone.com.sg",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "1fe3419b-69eb-4a80-9d70-1e6615119a6c",
+        "title": "Image Analyzer Download: Easily analyze and enhance your photos with the help of this simple app that comes with support for a wide array of image formats",
+        "description": "Download Image Analyzer 1.43 - Easily analyze and enhance your photos with the help of this simple app that comes with support for a wide array of image formats",
+        "keywords": "Image Analyzer, download Image Analyzer, Image Analyzer free download, analyze image, image editor, edit image, editor, analyzer, warp, erosion",
+        "snippet": "Image Analyzer is a program that you can use to view and edit image files.\n\nThe interface of the tool is plain and easy to navigate through. Image Analyzer defi...",
+        "url": "https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Editors/Image-Analyzer.shtml",
+        "image_url": "https://windows-cdn.softpedia.com/screenshots/Image-Analyzer_11.png",
+        "language": "en",
+        "published_at": "2024-01-28T23:24:28.000000Z",
+        "source": "win.softpedia.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "d09f514a-c321-4f17-8c8e-1c1bca1cd031",
+        "title": "Drawin: Chapter 1 | by CosmicCatGames",
+        "description": "RPG-style video game with horror, suspense, action, and adventure.",
+        "keywords": "",
+        "snippet": "Now you can share!\n\nHTML for websites & blogs\n\nBBCode for forums\n\n[url=https://www.kicktraq.com/projects/cosmiccatgames/drawin-chapter-1-by-cosmiccatgames/][img...",
+        "url": "http://www.kicktraq.com/projects/cosmiccatgames/drawin-chapter-1-by-cosmiccatgames/",
+        "image_url": "https://ksr-ugc.imgix.net/assets/043/816/295/0bab1147905c708b69e53377f97b0e31_original.png?ixlib=rb-4.1.0&crop=faces&w=160&h=90&fit=crop&v=1706481765&auto=format&frame=1&q=92&s=ea4c3c4903114d16ee1299868601499b",
+        "language": "en",
+        "published_at": "2024-01-28T23:24:23.000000Z",
+        "source": "kicktraq.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "c147334b-f1ae-414e-a2f9-6582a5198d99",
+        "title": "Pokemon Scarlet and Violet announce Tera Raid Battle event with Empoleon",
+        "description": "Pokemon Scarlet and Pokemon Violet are back with another Tera Raid Battle event, this time featuring Empoleon. Empoleon will be appearing in 7 Star Raids. It wi...",
+        "keywords": "",
+        "snippet": "Pokemon Scarlet and Pokemon Violet are back with another Tera Raid Battle event, this time featuring Empoleon.\n\nEmpoleon will be appearing in 7 Star Raids. It w...",
+        "url": "https://nintendoeverything.com/pokemon-scarlet-and-violet-announce-tera-raid-battle-event-with-empoleon/",
+        "image_url": "https://nintendoeverything.com/wp-content/uploads/Empoleon-Pokemon-Scarlet-Violet-Tera-Raid.jpg",
+        "language": "en",
+        "published_at": "2024-01-28T23:23:55.000000Z",
+        "source": "nintendoeverything.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "504c78ed-93ae-42d6-b5dc-92aede5415e0",
+        "title": "Your Job Application Was Rejected Even Though Your Interview Went Well Because of These Reasons.",
+        "description": "Have you ever aced an interview, only to receive a rejection letter a few days later? You might be wondering what went wrong, and how you can avoid this frustra...",
+        "keywords": "",
+        "snippet": "Your Job Application Was Rejected Even Though Your Interview Went Well Because of These Reasons. Moses Nartey \u00b7 Follow 7 min read \u00b7 Just now Just now -- Liste...",
+        "url": "https://medium.com/@mosesnartey47/your-job-application-was-rejected-even-though-your-interview-went-well-because-of-these-reasons-854d0f6cbd3b",
+        "image_url": "https://miro.medium.com/v2/resize:fit:735/1*jZyDdCk_oOXyThCmZUcMbQ.jpeg",
+        "language": "en",
+        "published_at": "2024-01-28T23:23:44.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "4d78ac63-3223-4d1b-8090-70f122e934d7",
+        "title": "Crypto Inter Milan Fan Token $INTER Goldmine: How to Claim Free Tokens",
+        "description": "Connect your wallet and participate in Inter Milan Fan Token $INTER Airdrops effortlessly.",
+        "keywords": "",
+        "snippet": "Crypto Inter Milan Fan Token $INTER Goldmine: How to Claim Free Tokens Future MeadowSerpent \u00b7 Follow 6 min read \u00b7 Just now Just now -- Listen Share\n\nGet ready...",
+        "url": "https://medium.com/@freezcumshemti1984/crypto-inter-milan-fan-token-inter-goldmine-how-to-claim-free-tokens-396e6891d291",
+        "image_url": "https://miro.medium.com/v2/resize:fit:720/1*_S5rPAQyQT9OWt1ZQu_qBA.jpeg",
+        "language": "en",
+        "published_at": "2024-01-28T23:22:12.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "e32e8b85-9e41-4587-a130-40f9369dabcf",
+        "title": "How To Get Peercoin $PPC Airdrop \u2014 Complete Guide",
+        "description": "Unlock Peercoin $PPC Airdrop benefits and stay compliant with regulations.",
+        "keywords": "",
+        "snippet": "How To Get Peercoin $PPC Airdrop \u2014 Complete Guide Ivory LemonDuke \u00b7 Follow 6 min read \u00b7 Just now Just now -- Listen Share\n\nGet ready to dive deep into the e...",
+        "url": "https://medium.com/@flicmeopigar1980/how-to-get-peercoin-ppc-airdrop-complete-guide-55dea4418654",
+        "image_url": "https://miro.medium.com/v2/resize:fit:720/1*9MhJ0HmKiombHbxq6oBU_A.jpeg",
+        "language": "en",
+        "published_at": "2024-01-28T23:22:05.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "93ecafc5-4cdc-4935-96ff-62ba1bdc55ba",
+        "title": "Decubate $DCB Secrets Unveiled: Claim Tokens Like a Pro",
+        "description": "Learn how to participate in the Decubate $DCB Airdrop and seize opportunities.",
+        "keywords": "",
+        "snippet": "Decubate $DCB Secrets Unveiled: Claim Tokens Like a Pro Future MeadowSerpent \u00b7 Follow 6 min read \u00b7 Just now Just now -- Listen Share\n\nGet ready to dive deep i...",
+        "url": "https://medium.com/@freezcumshemti1984/decubate-dcb-secrets-unveiled-claim-tokens-like-a-pro-9e8764897e40",
+        "image_url": "https://miro.medium.com/v2/resize:fit:720/1*OOspquR3wLTlKZMZwufF3g.jpeg",
+        "language": "en",
+        "published_at": "2024-01-28T23:22:04.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "16dc8730-7770-4b85-8473-3754921745d0",
+        "title": "How To Get DeepBrain Chain $DBC \u2014 Complete Guide",
+        "description": "Elevate your crypto game with active participation in DeepBrain Chain $DBC Airdrops.",
+        "keywords": "",
+        "snippet": "How To Get DeepBrain Chain $DBC \u2014 Complete Guide Ivory LemonDuke \u00b7 Follow 6 min read \u00b7 Just now Just now -- Listen Share\n\nGet ready to dive deep into the en...",
+        "url": "https://medium.com/@flicmeopigar1980/how-to-get-deepbrain-chain-dbc-complete-guide-4907875c0734",
+        "image_url": "https://miro.medium.com/v2/resize:fit:720/1*8A9S78EJUzFHP6Xn9MV3UQ.jpeg",
+        "language": "en",
+        "published_at": "2024-01-28T23:21:55.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    },
+    {
+        "uuid": "ca51f7a3-6d5b-43d2-b348-4b031b91407a",
+        "title": "Maximize Your Earnings: Participating in the Nestree $EGG Airdrop",
+        "description": "Join Nestree $EGG Airdrops to earn free tokens and contribute to growth.",
+        "keywords": "",
+        "snippet": "Maximize Your Earnings: Participating in the Nestree $EGG Airdrop Ivory LemonDuke \u00b7 Follow 6 min read \u00b7 Just now Just now -- Listen Share\n\nGet ready to dive d...",
+        "url": "https://medium.com/@flicmeopigar1980/maximize-your-earnings-participating-in-the-nestree-egg-airdrop-83d1a8509563",
+        "image_url": "https://miro.medium.com/v2/resize:fit:720/1*3vywuCeNNsHSih7CqliSTA.jpeg",
+        "language": "en",
+        "published_at": "2024-01-28T23:21:45.000000Z",
+        "source": "medium.com",
+        "categories": [
+            "tech",
+            "science",
+            "business"
+        ],
+        "relevance_score": null
+    }
+]

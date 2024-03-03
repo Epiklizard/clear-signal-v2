@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Line Chart Example</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script> <!-- Import Chart.js library -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <!-- START MAIN CONTAINER -->
+  <div class="container-fluid">
+    <div class="row">
+
+      <!-- START SIDENAV -->
+      <div class="col-lg-1 col-md-1" id="side-nav" style="padding-left: 0%; height: 100vh; background-color: #0C161A;">
+
+          <div class="row">
+            <div class="side-nav-items justify-content-center center d-flex align-items-center" style="height: 100%;">
+                <img id="pref-icon" src="images/prefs-form.png" style="transform: scale(0.3); display: block;"/>
+            </div>
+          </div>
+      </div>
+      
+
+      <!-- START CONTENT -->
+      
+      <div class="pt-2 col-lg-7 col-md-6 mt-2">
+        <div id="dashboard-right">
+          <canvas id="myChart" width="400" height="400"></canvas>
+
+            <!-- START FOOTER -->
+
+            <hr></hr>
+        </div>
+       </div>
+       
+       <div class="pt-2 col-lg-4 col-md-6 mt-2">
+        <div class="container">
+            <div class="row">
+                <div class="col" id="summary-area">
+                    <div class="row user-chat-box">
+                        <div class="chat-icon">
+                        
+                          <span>12/01/24</span>
+                        </div>
+                        <div class="chat-txt">CES is revealing new AI car feature</div>
+                      </div>
+            
+                      <!-- START GPT CHAT -->
+                      <div class="row assistant-chat-box">
+                        <div class="chat-icon">
+                          
+                          <span>22/02/24</span>
+                        </div>
+                        <div class="chat-txt">
+                          Trump is running for the presidency
+                        </div>
+                      </div>
+            
+                      <div class="row user-chat-box">
+                        <div class="chat-icon">
+                       
+                          <span>10/02/24</span>
+                        </div>
+                        <div class="chat-txt">N/A</div>
+                      </div>
+                </div>
+            </div>
+            
+          </div>
+       </div>
+
+       <footer>
+        <div style="color: #ece8e3" class="text-center mb-3">© FOR THE BRIDGE</div>
+        </footer>
+    </div>
+    <script>
+    
+        
+    // let scores = [1, 2, 3, 4, 5, 2, 1, 1, 2, 3, 4, 5, 1, 2, 3, 1, 0, 1, 5, 3, 1, 4, 3, 4, 3, 2, 4, 1, 2, 1, 0]; // Data for the y-axis
+
+    window.onload = async function () {
+        const ctx = document.getElementById('myChart').getContext('2d'); // Get the drawing context
+
+        const response = await fetch('/load'); 
+        const {data} = await response.json(); 
+
+        let scores = data
+        console.log(data)
+
+        // Generate a gradient for the fill beneath the line
+        let gradient = ctx.createLinearGradient(0, 0, 0, 400); // Create a linear gradient 
+        gradient.addColorStop(1, 'rgba(75, 192, 192, 0.1)'); // Light color at the top
+        gradient.addColorStop(0.75, 'rgba(75, 192, 192, 0.35)'); // Transition color around y=4
+        gradient.addColorStop(0, 'rgba(75, 192, 192, 0.7)'); // Solid color at the bottom
+
+        // Chart configuration
+        const config = {
+            type: 'line',
+            data: {
+            labels: Array.from({ length: scores.length }, (_, i) => i + 1), // 1 through 31
+            datasets: [{
+                label: 'Daily Scores',
+                data: scores,
+                fill: true, // Enable fill underneath the line
+                backgroundColor: gradient, // Use gradient
+                borderColor: 'rgb(75, 192, 192)',
+                borderWidth: 2,
+                pointRadius: 0, // Hide points on the line
+                tension: 0.1 // Slightly curved line
+            }]
+            },
+            options: {
+            scales: {
+                y: {
+                beginAtZero: true,
+                grid: {
+                    display: false
+                },
+                ticks: {
+                    stepSize: 1
+                }
+                },
+                x: {
+                grid: {
+                    display: false
+                },
+                ticks: {
+                    stepSize: 1
+                }
+                }
+            },
+            plugins: {
+                legend: {
+                display: false
+                }
+            }
+            }
+        };
+        new Chart(ctx, config);
+    };
+
+    
+
+    // Instantiate a new Chart
+    // new Chart(ctx, config);
+    
+    </script>
+
+    <!-- EXTERNAL JS RESOURCES -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script> <!--markdown-->
+    <script src="main.js"></script>
+</body>
+</html>
